@@ -19,7 +19,7 @@ $lang = array(
 'View URLs for MetaWeblog API',
 
 'invalid_access' =>
-'Invalid Access to MetaWeblog API.  Make sure you used the correct username and 
+'Invalid Access to MetaWeblog API.  Make sure you used the correct username and
 password for a member account with permissions to post to at least one channel.',
 
 'no_channels_found' =>
@@ -42,6 +42,9 @@ password for a member account with permissions to post to at least one channel.'
 
 'invalid_access' =>
 'Invalid Access',
+
+'new_entry_errors' =>
+'Entry validation errors: ',
 
 'entry_uneditable' =>
 'You do not have permission to edit this entry. Please check member group permissions',
@@ -85,11 +88,11 @@ password for a member account with permissions to post to at least one channel.'
 'metaweblog_pref_name' =>
 'Configuration Name',
 
-'metaweblog_parse_type' => 
+'metaweblog_parse_type' =>
 'Use Default Text Formatting Preferences',
 
 'metaweblog_parse_type_subtext' =>
-'If Yes, the Channel Fields below will be sent as if they are being displayed on 
+'If Yes, the Channel Fields below will be sent as if they are being displayed on
 a webpage, with the field\'s Text Formatting preference respected. If No, the field\'s
 content will be sent untouched.',
 

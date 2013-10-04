@@ -74,7 +74,7 @@ $lang = array(
 'resize_mode'			=> 'Resize Mode',
 'rotate_mode'			=> 'Rotate Mode',
 'apply_changes'			=> 'Apply Changes?',
-'cancel_changes'		=> 'Cancel Changes', 
+'cancel_changes'		=> 'Cancel Changes',
 'exit_apply_changes'	=> 'You are about to exit this edit mode.  Permanently apply changes first?',
 'processing_image'		=> 'Processing Image',
 'done'					=> 'Exit',
@@ -133,6 +133,8 @@ $lang = array(
 
 'max_size' =>
 'Maximum File Size (in bytes)',
+
+'php_max_filesize'=>'Maximum upload size allowed by PHP is %s',
 
 'max_height' =>
 'Maximum Image Height (in pixels)',
@@ -213,7 +215,7 @@ $lang = array(
 'file_post_format' 			=> 'File Post Formatting',
 'preferences_updated' 		=>  'Preferences Updated',
 
-'batch_upload' 				=> 'Batch Upload', 
+'batch_upload' 				=> 'Batch Upload',
 
 'upload_dir_dropdown'		=> '%s (%s files)',
 'please_select'				=> 'Please Select&hellip',
@@ -225,7 +227,7 @@ $lang = array(
 'files_processed'			=> 'Number of Files Processed',
 'error_count'				=> 'Number of Errors',
 'sync_progress'				=> 'Progress',
-'sync_complete'				=> 'The file synchronization is complete.', 
+'sync_complete'				=> 'The file synchronization is complete.',
 'errors'					=> 'Errors Encountered',
 'no_errors'					=> 'No errors',
 'synchronize_directory'		=> 'Synchronize Directory',
@@ -389,14 +391,14 @@ $lang = array(
 'delete_watermark_pref_confirmation' =>
 'Delete Watermark Preference Confirmation',
 
-'problem_downloading_files' => 
+'problem_downloading_files' =>
 'An error occurred when attempting to download the selected files.  Please verify the files exist on the server.',
 
 
 'delete_wm_preference' =>
 'Delete Watermark Preference',
 
-'problem_downloading_file' => 
+'problem_downloading_file' =>
 'An error occurred when attempting to download the selected file.  Please verify the file exists on the server.',
 
 'watermark_pref_deleted' =>
@@ -413,6 +415,9 @@ $lang = array(
 
 'security_failure' =>
 'The file type you are attempting to upload is not allowed.',
+
+'gd_not_installed' =>
+'Thumbnail could not be created for the image. GD is required for creating thumbnails.',
 
 'thumb_not_created' =>
 'Thumbnail could not be created for the image. Please make sure the thumbnail directory is writable.',

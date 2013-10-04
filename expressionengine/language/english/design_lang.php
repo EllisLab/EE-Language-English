@@ -89,13 +89,13 @@ $lang = array(
 'The maximum number of revisions that should be kept for EACH template.  For example, if you set this to 5, only the most recent 5 revisions will be saved for any given template.',
 
 'save_tmpl_files' =>
-'Allow Templates to be Saved as Files?',
+'Save Templates as Files',
 
 'save_tmpl_files_exp' =>
-'When saving your templates you can optionally save them as files on your server. Please consult the user guide for more info regarding this feature.',
+'Saves templates as files on your server. Click Help for more information.',
 
 'tmpl_file_basepath' =>
-'Basepath to Template File Directory',
+'Server path to site\'s templates',
 
 'tmpl_file_basepath_exp' =>
 'Server path to the directory in which the template files should be saved.',
@@ -154,7 +154,7 @@ $lang = array(
 'duplicate_existing_group' =>
 'Duplicate an Existing Template Group?',
 
-'search_template' => 
+'search_template' =>
 'Search Templates',
 
 'template_access' =>
@@ -289,7 +289,7 @@ $lang = array(
 'export_templates' =>
 'Export Templates',
 
-'export_all' => 
+'export_all' =>
 'Export All',
 
 'export_group' =>
@@ -634,7 +634,7 @@ ExpressionEngine tags, variables, or PHP, consider <a href =\'%s\'>Global Variab
 'Enable HTTP Authentication?',
 
 'enable_http_authentication_subtext' =>
-'If turned on, users from the allowed groups above will have to login via their 
+'If turned on, users from the allowed groups above will have to login via their
 username and password to view the template.',
 
 'http_auth_protected' =>
@@ -754,6 +754,9 @@ username and password to view the template.',
 
 'registration_form' =>
 'Registration Form',
+
+'reset_password_form' =>
+'Password Reset Form',
 
 'stylesheet' =>
 'CSS Stylesheet',
@@ -971,10 +974,10 @@ username and password to view the template.',
 'browse_avatars' =>
 'Browse Avatars Page',
 
-'custom_profile_fields' => 
+'custom_profile_fields' =>
 'Custom Member Fields',
 
-'bulletin_board' => 
+'bulletin_board' =>
 'Bulletin Board',
 
 //----------------------------
