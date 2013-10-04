@@ -122,9 +122,6 @@ $lang = array(
 'comment' =>
 'Comment',
 
-'localization_is_site_default' =>
-'Use this member\'s localization settings as the master site default?',
-
 'preferences_updated' =>
 'Preferences Updated',
 
@@ -224,9 +221,6 @@ $lang = array(
 'localization_updated' =>
 'Localization Updated',
 
-'daylight_savings_time' =>
-'Daylight Saving Time',
-
 'timezone' =>
 'Select Time Zone',
 
@@ -251,19 +245,16 @@ $lang = array(
 'localization' =>
 'Localization Settings',
 
-'time_format' => 
+'time_format' =>
 'Time Formatting',
 
-'united_states' => 
+'united_states' =>
 'United States',
 
-'european' => 
+'european' =>
 'European',
 
-'your_ping_servers' =>
-'Ping Servers',
-
-'your_html_buttons' => 
+'your_html_buttons' =>
 'HTML Formatting Buttons',
 
 'change_password' =>
@@ -476,12 +467,6 @@ $lang = array(
 'password_change_warning' =>
 'Note: You have changed your password so you will have to log back in.',
 
-'ping_servers' =>
-'Ping Servers',
-
-'pingservers_updated' =>
-'Ping Servers Updated',
-
 'html_buttons' =>
 'HTML Formatting Buttons',
 
@@ -527,7 +512,7 @@ $lang = array(
 'bookmarklet_name' =>
 'Bookmarklet Name',
 
-'single_word_no_spaces' => 
+'single_word_no_spaces' =>
 'single word, no spaces',
 
 'channel_name' =>
@@ -572,6 +557,9 @@ $lang = array(
 'no_unlocked_member_groups' =>
 'You do not have the required permissions to add new members to any group.<br />
 Please <a href="%s">contact your System Admin</a> if you feel this is incorrect.',
+
+'invalid_group_id' =>
+'You must select a valid group.',
 
 ''=>''
 );
