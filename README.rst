@@ -1,6 +1,6 @@
-==============================================
-English Language Pack for ExpressionEngine 2.x
-==============================================
+============================================
+English Language Pack for ExpressionEngine 3
+============================================
 
 Copyright (C) 2009-2015 EllisLab, Inc.
 
