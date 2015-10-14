@@ -1,8 +1,8 @@
-==============================================
-English Language Pack for ExpressionEngine 2.x
-==============================================
+============================================
+English Language Pack for ExpressionEngine 3
+============================================
 
-Copyright (C) 2009-2013 EllisLab, Inc.
+Copyright (C) 2009-2015 EllisLab, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
