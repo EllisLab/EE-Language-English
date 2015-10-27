@@ -94,7 +94,7 @@ $lang = array(
 
 'create_layout_error' => 'Cannot Create Form Layout',
 
-'create_layout_error_desc' => 'We were unable to update this group, please review and fix errors below.',
+'create_layout_error_desc' => 'We were unable to create this Form Layout, please review and fix errors below.',
 
 'btn_preview_layout' => 'Preview Layout',
 
@@ -108,7 +108,7 @@ $lang = array(
 
 'edit_layout_error' => 'Cannot Update Form Layout',
 
-'edit_layout_error_desc' => 'We were unable to update this group, please review and fix errors below.',
+'edit_layout_error_desc' => 'We were unable to update this Form Layout, please review and fix errors below.',
 
 'layouts_removed_desc' => 'The following form layouts were removed',
 
@@ -239,15 +239,15 @@ $lang = array(
 
 'default_title' => 'Generated title',
 
-'default_title_desc' => 'Title assigned to all <b>new</b> entires in this channel.',
+'default_title_desc' => 'Title assigned to all <b>new</b> entries in this channel.',
 
 'url_title_prefix' => '<abbr title="Unified Resource Locator">URL</abbr> title prefix',
 
-'url_title_prefix_desc' => '<abbr title="Unified Resource Locator">URL</abbr> title prefix assigned to all <b>new</b> entires in this channel.',
+'url_title_prefix_desc' => '<abbr title="Unified Resource Locator">URL</abbr> title prefix assigned to all <b>new</b> entries in this channel.',
 
 'default_status' => 'Status',
 
-'default_status_desc' => 'Status assigned to all <b>new</b> entires in this channel.',
+'default_status_desc' => 'Status assigned to all <b>new</b> entries in this channel.',
 
 'default_category' => 'Category',
 
@@ -291,7 +291,7 @@ $lang = array(
 
 'enable_versioning' => 'Enable entry versioning?',
 
-'enable_versioning_desc' => 'When set to <b>enable</b>, ExpressinEngine will save revisions of each entry for this channel.',
+'enable_versioning_desc' => 'When set to <b>enable</b>, ExpressionEngine will save revisions of each entry for this channel.',
 
 'max_versions' => 'Maximum versions per entry',
 
@@ -325,7 +325,7 @@ $lang = array(
 
 'require_membership' => 'Require membership?',
 
-'require_membership_desc' => 'When set to <b>yes</b>, only registered members can submit comments to this channel\'s entires.',
+'require_membership_desc' => 'When set to <b>yes</b>, only registered members can submit comments to this channel\'s entries.',
 
 'require_email' => 'Require Email?',
 
