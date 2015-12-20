@@ -16,9 +16,9 @@ $lang = array(
 'nav_edit'						=> 'Edit',
 'nav_edit_all'					=> 'All Channels',
 'nav_files'						=> 'Files',
-'nav_file_manager'				=> 'File Manager',
-'nav_batch_upload'				=> 'Batch Upload',
-'nav_sync_files'				=> 'Synchronize Files',
+	'nav_file_manager'				=> 'File Manager',
+	'nav_batch_upload'				=> 'Batch Upload',
+	'nav_sync_files'				=> 'Synchronize Files',
 
 'nav_files_short_desc'			=> 'Upload, edit, and delete Files',
 'nav_edit_short_desc'			=> 'Edit Entries',
@@ -267,6 +267,8 @@ $lang = array(
 'queries_executed' => '%x SQL queries used',
 
 'build' => 'build date:',
+
+'version_identifier' => 'identifier:',
 
 'license_number' => 'License Number',
 
