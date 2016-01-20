@@ -1,6 +1,20 @@
-============================================
 English Language Pack for ExpressionEngine 3
 ============================================
+
+Changes Between Versions
+------------------------
+
+- [3.1.0 → 3.1.1](https://github.com/EllisLab/EE-Language-English/compare/3.1.0...3.1.1)
+- [3.0.6 → 3.1.0](https://github.com/EllisLab/EE-Language-English/compare/3.0.6...3.1.0)
+- [3.0.5 → 3.0.6](https://github.com/EllisLab/EE-Language-English/compare/3.0.5...3.0.6)
+- [3.0.4 → 3.0.5](https://github.com/EllisLab/EE-Language-English/compare/3.0.4...3.0.5)
+- [3.0.3 → 3.0.4](https://github.com/EllisLab/EE-Language-English/compare/3.0.3...3.0.4)
+- [3.0.2 → 3.0.3](https://github.com/EllisLab/EE-Language-English/compare/3.0.2...3.0.3)
+- [3.0.1 → 3.0.2](https://github.com/EllisLab/EE-Language-English/compare/3.0.1...3.0.2)
+- [3.0.0 → 3.0.1](https://github.com/EllisLab/EE-Language-English/compare/3.0.0...3.0.1)
+
+License
+-------
 
 Copyright (C) 2009-2015 EllisLab, Inc.
 
