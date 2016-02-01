@@ -1,8 +1,17 @@
-==============================================
-English Language Pack for ExpressionEngine 2.x
-==============================================
+English Language Pack for ExpressionEngine 2
+============================================
 
-Copyright (C) 2009-2015 EllisLab, Inc.
+Changes Between Versions
+------------------------
+
+- [2.10.2 → 2.10.3](https://github.com/EllisLab/EE-Language-English/compare/3.0.2...2.10.3)
+- [2.10.1 → 2.10.2](https://github.com/EllisLab/EE-Language-English/compare/3.0.1...2.10.2)
+- [2.10.0 → 2.10.1](https://github.com/EllisLab/EE-Language-English/compare/2.10.0...2.10.1)
+
+License
+-------
+
+Copyright (C) 2009-2016 EllisLab, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
