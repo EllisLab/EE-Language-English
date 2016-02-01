@@ -162,7 +162,7 @@ Please download <a href="%s" title="Download Here">here</a> and follow the <a hr
 'Close',
 
 'version_mismatch' =>
-'Your ExpressionEngine installation&rsquo;s version (%s) is not consistent with the reported version (%s). <a href="http://ellislab.com/expressionengine/user-guide/installation/update.html">Please update your installation of ExpressionEngine again</a>.',
+'Your ExpressionEngine installation&rsquo;s version (%s) is not consistent with the reported version (%s). <a href="https://docs.expressionengine.com/v2/installation/update.html">Please update your installation of ExpressionEngine again</a>.',
 
 ''=>''
 );
