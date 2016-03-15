@@ -4,6 +4,7 @@ English Language Pack for ExpressionEngine 2
 Changes Between Versions
 ------------------------
 
+- [2.11.0 → 2.11.1](https://github.com/EllisLab/EE-Language-English/compare/2.11.0...2.11.1)
 - [2.10.3 → 2.11.0](https://github.com/EllisLab/EE-Language-English/compare/2.10.3...2.11.0)
 - [2.10.2 → 2.10.3](https://github.com/EllisLab/EE-Language-English/compare/2.10.2...2.10.3)
 - [2.10.1 → 2.10.2](https://github.com/EllisLab/EE-Language-English/compare/2.10.1...2.10.2)
