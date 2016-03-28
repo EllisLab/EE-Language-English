@@ -126,7 +126,7 @@ $lang = array(
 
 'fmt_has_changed' => 'Note: You have selected a different field formatting choice than what was previously saved.',
 
-'update_existing_fields' => 'Update all existing channel entries with your new formatting choice?',
+'update_existing_fields' => 'Update all existing entries?',
 
 'display_criteria' => 'Select display criteria for PUBLISH page',
 
@@ -637,6 +637,8 @@ $lang = array(
 
 'field_type' => 'Type',
 
+'invalid_field_type' => 'Invalid field type',
+
 'field_max_length' => 'Maxlength',
 
 'field_max_length_cont' => 'If you are using a \'text\' field type',
@@ -777,7 +779,6 @@ $lang = array(
 
 'delete_status_confirmation' => 'Are you sure you want to delete the following status?',
 
-
 'url_title_prefix' => 'URL Title Prefix',
 
 'live_look_template' => 'Live Look Template',
@@ -837,6 +838,12 @@ $lang = array(
 /**
  * 3.0
  */
+
+'default_value' => 'Default value',
+
+'toggle_default_value_desc' => 'The default position of the toggle switch for this field when publishing new entries.',
+
+'toggle_default_value_desc_cont' => '<b>Note</b>: If assigned to a channel with existing entries, those entries will be assigned this value.',
 
 'field_max_length' => 'Maximum characters',
 

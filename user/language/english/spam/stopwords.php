@@ -96,7 +96,7 @@ or
 other
 ought
 our
-ours 
+ours
 ourselves
 out
 over

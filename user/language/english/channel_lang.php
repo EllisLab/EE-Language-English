@@ -94,7 +94,7 @@ $lang = array(
 
 'create_layout_error' => 'Cannot Create Form Layout',
 
-'create_layout_error_desc' => 'We were unable to create this Form Layout, please review and fix errors below.',
+'create_layout_error_desc' => 'We were unable to update this group, please review and fix errors below.',
 
 'btn_preview_layout' => 'Preview Layout',
 
@@ -108,7 +108,7 @@ $lang = array(
 
 'edit_layout_error' => 'Cannot Update Form Layout',
 
-'edit_layout_error_desc' => 'We were unable to update this Form Layout, please review and fix errors below.',
+'edit_layout_error_desc' => 'We were unable to update this group, please review and fix errors below.',
 
 'layouts_removed_desc' => 'The following form layouts were removed',
 
@@ -127,11 +127,11 @@ $lang = array(
 
 'error_cannot_hide_tab' => 'Cannot Hide Tab',
 
-'error_tab_has_required_fields' => '<b>%s</b> contains at least one required field and cannot be hidden. Plese move the required field(s) to another tab.',
+'error_tab_has_required_fields' => '<b>%s</b> contains at least one required field and cannot be hidden. Please move the required field(s) to another tab.',
 
 'error_cannot_remove_tab' => 'Cannot Remove Tab',
 
-'error_tab_has_fields' => '<b>%s</b> contains at least one field and cannot be removed. Plese move all fields to another tab.',
+'error_tab_has_fields' => '<b>%s</b> contains at least one field and cannot be removed. Please move all fields to another tab.',
 
 'assigned_to' => 'assigned to',
 

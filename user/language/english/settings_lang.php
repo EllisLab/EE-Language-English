@@ -491,23 +491,15 @@ $lang = array(
 
 'memberlist_order_by_desc' => 'Sorting type for the member listing.',
 
-'memberlist_order_by_opt_posts' => 'Total posts',
-
-'memberlist_order_by_opt_screenname' => 'Screen name',
-
 'memberlist_order_by_opt_entries' => 'Total entries',
-
-'memberlist_order_by_reg_date' => 'Registration date',
-
-'memberlist_order_by_opt_comments' => 'Total comments',
 
 'memberlist_sort_order' => 'Order by',
 
 'memberlist_sort_order_desc' => 'Sorting order for the member listing.',
 
-'memberlist_sort_order_opt_asc' => 'Ascending (A-Z)',
+'memberlist_sort_order_opt_asc' => 'Ascending (A-Z/Oldest-Newest)',
 
-'memberlist_sort_order_opt_desc' => 'Descending (Z-A)',
+'memberlist_sort_order_opt_desc' => 'Descending (Z-A/Newest-Oldest)',
 
 'memberlist_row_limit' => 'Total results',
 
@@ -707,7 +699,7 @@ $lang = array(
 
 'name_of_dictionary_file' => 'Dictionary file',
 
-'name_of_dictionary_file_desc' => 'URL location of your <mark>dictionary</mark> file.',
+'name_of_dictionary_file_desc' => 'Name of your <mark>dictionary</mark> file in your config folder.',
 
 'form_security_settings' => 'Form Security Settings',
 
@@ -747,7 +739,7 @@ $lang = array(
 
 "lockout_time" => "Lockout time",
 
-"lockout_time_desc" => "The length of time a user should be locked out of your site if they exceed the limits.",
+"lockout_time_desc" => "The number of seconds a user should be locked out of your site if they exceed the limits.",
 
 'banishment_type' => 'Lock out action',
 
