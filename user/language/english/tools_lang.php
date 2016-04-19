@@ -44,7 +44,6 @@ $lang = array(
 'no_lang_file' 			=> 'No Language File Provided',
 'no_lang_keys'			=> 'No Language Keys Exist to Translate',
 'invalid_path' 			=> 'The path you submitted is not valid:',
-
 'trans_file_not_writable'=> 'Translation file is not writeable.',
 
 'member_import' 		=> 'Member Import Utility',
@@ -58,7 +57,6 @@ $lang = array(
 'preference'			=> 'Preference',
 'setting'				=> 'Setting',
 'preferences_updated'	=> 'Preferences Updated',
-'advanced_users_only' 	=> 'Advanced Users Only',
 'true'					=> 'True',
 'false'					=> 'False',
 
@@ -72,5 +70,4 @@ $lang = array(
 ''=>''
 );
 
-/* End of file tools_lang.php */
-/* Location: ./system/expressionengine/language/english/tools_lang.php */
+// EOF

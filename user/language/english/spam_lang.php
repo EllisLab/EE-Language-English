@@ -62,3 +62,5 @@ $lang = array(
 	'training_finished' => 'Training Finished',
 	'training_update_failed' => 'Could not update training data'
 );
+
+// EOF

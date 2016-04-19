@@ -45,7 +45,7 @@ $lang = array(
 
 'comment_smart_notifications' => 'Enable Smart Notifications',
 
-'selection_required' => 
+'selection_required' =>
 'At least one selection is required to submit',
 
 'close_selected' => 'Set Status to Closed',
@@ -215,5 +215,4 @@ $lang = array(
 
 );
 
-/* End of file comment_lang.php */
-/* Location: ./system/expressionengine/language/english/comment_lang.php */
+// EOF

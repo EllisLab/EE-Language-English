@@ -174,4 +174,5 @@ yours
 yourself
 yourselves
 EOF;
-?>
+
+// EOF
