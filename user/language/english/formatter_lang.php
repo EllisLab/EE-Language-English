@@ -1,14 +1,22 @@
 <?php
 
-$lang['formatter_gigabytes_abbr_html'] = '<abbr title="Gigabytes">GB</abbr>';
-$lang['formatter_gigabytes_abbr']      = 'GB';
-$lang['formatter_gigabytes']           = 'gigabytes';
-$lang['formatter_megabytes_abbr_html'] = '<abbr title="Megabytes">MB</abbr>';
-$lang['formatter_megabytes_abbr']      = 'MB';
-$lang['formatter_megabytes']           = 'megabytes';
-$lang['formatter_kilobytes_abbr_html'] = '<abbr title="Kilobytes">KB</abbr>';
-$lang['formatter_kilobytes_abbr']      = 'KB';
-$lang['formatter_kilobytes']           = 'kilobytes';
-$lang['formatter_bytes_abbr_html']     = '<abbr title="Bytes">B</abbr>';
-$lang['formatter_bytes_abbr']          = 'B';
-$lang['formatter_bytes']               = 'bytes';
+$lang = array(
+
+'formatter_gigabytes_abbr_html' => '<abbr title="Gigabytes">GB</abbr>',
+'formatter_gigabytes_abbr' => 'GB',
+'formatter_gigabytes' => 'gigabytes',
+'formatter_megabytes_abbr_html' => '<abbr title="Megabytes">MB</abbr>',
+'formatter_megabytes_abbr' => 'MB',
+'formatter_megabytes' => 'megabytes',
+'formatter_kilobytes_abbr_html' => '<abbr title="Kilobytes">KB</abbr>',
+'formatter_kilobytes_abbr' => 'KB',
+'formatter_kilobytes' => 'kilobytes',
+'formatter_bytes_abbr_html' => '<abbr title="Bytes">B</abbr>',
+'formatter_bytes_abbr' => 'B',
+'formatter_bytes' => 'bytes',
+
+/* IGNORE */
+''=>'');
+
+/* End of file formatter_lang.php */
+/* Location: ./system/user/language/english/formatter_lang.php */

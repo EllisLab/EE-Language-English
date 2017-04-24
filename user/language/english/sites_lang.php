@@ -35,7 +35,8 @@ $lang = array(
 'site_limit_reached' => 'Site limit reached',
 'site_limit_reached_desc' => 'Site manager allows you to manage additional websites from a single ExpressionEngine installation. You have reached this limit.</p><p>You can <a href="%s" rel="external">purchase additional site licenses</a> at EllisLab.com.',
 
-''=>''
-);
+/* IGNORE */
+''=>'');
 
-// EOF
+/* End of file sites_lang.php */
+/* Location: ./system/user/language/english/sites_lang.php */

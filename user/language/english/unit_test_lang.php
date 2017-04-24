@@ -1,23 +1,29 @@
 <?php
 
-$lang['ut_test_name']		= 'Test Name';
-$lang['ut_test_datatype']	= 'Test Datatype';
-$lang['ut_res_datatype']	= 'Expected Datatype';
-$lang['ut_result']			= 'Result';
-$lang['ut_undefined']		= 'Undefined Test Name';
-$lang['ut_file']			= 'File Name';
-$lang['ut_line']			= 'Line Number';
-$lang['ut_passed']			= 'Passed';
-$lang['ut_failed']			= 'Failed';
-$lang['ut_boolean']			= 'Boolean';
-$lang['ut_integer']			= 'Integer';
-$lang['ut_float']			= 'Float';
-$lang['ut_double']			= 'Float'; // can be the same as float
-$lang['ut_string']			= 'String';
-$lang['ut_array']			= 'Array';
-$lang['ut_object']			= 'Object';
-$lang['ut_resource']		= 'Resource';
-$lang['ut_null']			= 'Null';
-$lang['ut_notes']			= 'Notes';
+$lang = array(
 
-// EOF
+'ut_test_name' => 'Test Name',
+'ut_test_datatype' => 'Test Datatype',
+'ut_res_datatype' => 'Expected Datatype',
+'ut_result' => 'Result',
+'ut_undefined' => 'Undefined Test Name',
+'ut_file' => 'File Name',
+'ut_line' => 'Line Number',
+'ut_passed' => 'Passed',
+'ut_failed' => 'Failed',
+'ut_boolean' => 'Boolean',
+'ut_integer' => 'Integer',
+'ut_float' => 'Float',
+'ut_double' => 'Float', // can be the same as float
+'ut_string' => 'String',
+'ut_array' => 'Array',
+'ut_object' => 'Object',
+'ut_resource' => 'Resource',
+'ut_null' => 'Null',
+'ut_notes' => 'Notes',
+
+/* IGNORE */
+''=>'');
+
+/* End of file unit_test_lang.php */
+/* Location: ./system/user/language/english/unit_test_lang.php */

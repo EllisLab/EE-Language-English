@@ -2,19 +2,11 @@
 
 $lang = array(
 
-//----------------------------------------
-// Required for MODULES page
-//----------------------------------------
-
 'query_module_name' => 'Query',
-
 'query_module_description' => 'SQL query module for templates',
 
-//----------------------------------------
+/* IGNORE */
+''=>'');
 
-
-
-''=>''
-);
-
-// EOF
+/* End of file query_lang.php */
+/* Location: ./system/user/language/english/query_lang.php */
