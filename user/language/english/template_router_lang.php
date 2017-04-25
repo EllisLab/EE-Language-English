@@ -21,5 +21,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file template_router_lang.php */
-/* Location: ./system/user/language/english/template_router_lang.php */
+// EOF

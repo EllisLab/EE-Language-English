@@ -78,5 +78,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file communicate_lang.php */
-/* Location: ./system/user/language/english/communicate_lang.php */
+// EOF

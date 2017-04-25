@@ -38,5 +38,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file sites_lang.php */
-/* Location: ./system/user/language/english/sites_lang.php */
+// EOF

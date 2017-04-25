@@ -9,5 +9,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file rss_lang.php */
-/* Location: ./system/user/language/english/rss_lang.php */
+// EOF

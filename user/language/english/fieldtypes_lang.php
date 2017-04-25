@@ -102,5 +102,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file fieldtypes_lang.php */
-/* Location: ./system/user/language/english/fieldtypes_lang.php */
+// EOF

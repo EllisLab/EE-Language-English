@@ -106,5 +106,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file comment_lang.php */
-/* Location: ./system/user/language/english/comment_lang.php */
+// EOF

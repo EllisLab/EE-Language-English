@@ -223,5 +223,4 @@ https://expressionengine.com/support',
 /* IGNORE */
 ''=>'');
 
-/* End of file core_lang.php */
-/* Location: ./system/user/language/english/core_lang.php */
+// EOF

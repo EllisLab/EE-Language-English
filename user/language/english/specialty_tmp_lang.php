@@ -84,5 +84,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file specialty_tmp_lang.php */
-/* Location: ./system/user/language/english/specialty_tmp_lang.php */
+// EOF

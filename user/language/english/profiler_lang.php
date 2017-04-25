@@ -27,5 +27,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file profiler_lang.php */
-/* Location: ./system/user/language/english/profiler_lang.php */
+// EOF

@@ -14,5 +14,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file emoticon_lang.php */
-/* Location: ./system/user/language/english/emoticon_lang.php */
+// EOF

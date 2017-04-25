@@ -90,5 +90,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file logs_lang.php */
-/* Location: ./system/user/language/english/logs_lang.php */
+// EOF

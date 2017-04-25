@@ -101,5 +101,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file member_import_lang.php */
-/* Location: ./system/user/language/english/member_import_lang.php */
+// EOF

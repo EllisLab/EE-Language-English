@@ -68,5 +68,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file tools_data_lang.php */
-/* Location: ./system/user/language/english/tools_data_lang.php */
+// EOF

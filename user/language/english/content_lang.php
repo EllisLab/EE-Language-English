@@ -463,5 +463,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file content_lang.php */
-/* Location: ./system/user/language/english/content_lang.php */
+// EOF

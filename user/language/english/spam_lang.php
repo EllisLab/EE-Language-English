@@ -64,5 +64,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file spam_lang.php */
-/* Location: ./system/user/language/english/spam_lang.php */
+// EOF

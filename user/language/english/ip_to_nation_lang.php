@@ -37,5 +37,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file ip_to_nation_lang.php */
-/* Location: ./system/user/language/english/ip_to_nation_lang.php */
+// EOF

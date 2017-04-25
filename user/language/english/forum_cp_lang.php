@@ -308,5 +308,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file forum_cp_lang.php */
-/* Location: ./system/user/language/english/forum_cp_lang.php */
+// EOF

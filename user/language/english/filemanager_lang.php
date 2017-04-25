@@ -459,5 +459,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file filemanager_lang.php */
-/* Location: ./system/user/language/english/filemanager_lang.php */
+// EOF

@@ -320,5 +320,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file channel_lang.php */
-/* Location: ./system/user/language/english/channel_lang.php */
+// EOF

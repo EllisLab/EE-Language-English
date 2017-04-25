@@ -7,5 +7,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file xmlrpc_lang.php */
-/* Location: ./system/user/language/english/xmlrpc_lang.php */
+// EOF

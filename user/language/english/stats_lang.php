@@ -8,5 +8,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file stats_lang.php */
-/* Location: ./system/user/language/english/stats_lang.php */
+// EOF

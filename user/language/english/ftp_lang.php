@@ -18,5 +18,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file ftp_lang.php */
-/* Location: ./system/user/language/english/ftp_lang.php */
+// EOF

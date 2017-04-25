@@ -314,5 +314,4 @@ We reserve the right to remove, edit, or move any messages for any reason.',
 /* IGNORE */
 ''=>'');
 
-/* End of file member_lang.php */
-/* Location: ./system/user/language/english/member_lang.php */
+// EOF

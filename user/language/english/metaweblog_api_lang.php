@@ -61,5 +61,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file metaweblog_api_lang.php */
-/* Location: ./system/user/language/english/metaweblog_api_lang.php */
+// EOF

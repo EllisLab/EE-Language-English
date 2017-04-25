@@ -11,5 +11,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file expressionengine_info_lang.php */
-/* Location: ./system/user/language/english/expressionengine_info_lang.php */
+// EOF

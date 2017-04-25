@@ -109,5 +109,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file addons_lang.php */
-/* Location: ./system/user/language/english/addons_lang.php */
+// EOF

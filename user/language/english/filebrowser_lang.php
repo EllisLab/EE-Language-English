@@ -22,5 +22,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file filebrowser_lang.php */
-/* Location: ./system/user/language/english/filebrowser_lang.php */
+// EOF

@@ -80,5 +80,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file search_lang.php */
-/* Location: ./system/user/language/english/search_lang.php */
+// EOF

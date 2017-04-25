@@ -8,5 +8,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file query_lang.php */
-/* Location: ./system/user/language/english/query_lang.php */
+// EOF

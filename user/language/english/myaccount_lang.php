@@ -273,5 +273,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file myaccount_lang.php */
-/* Location: ./system/user/language/english/myaccount_lang.php */
+// EOF

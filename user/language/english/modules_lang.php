@@ -30,5 +30,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file modules.php */
-/* Location: ./system/user/language/english/modules.php */
+// EOF

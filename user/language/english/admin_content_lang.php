@@ -431,5 +431,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file admin_content_lang.php */
-/* Location: ./system/user/language/english/admin_content_lang.php */
+// EOF

@@ -480,5 +480,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file members_lang.php */
-/* Location: ./system/user/language/english/members_lang.php */
+// EOF

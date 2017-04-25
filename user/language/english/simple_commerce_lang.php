@@ -198,5 +198,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file simple_commerce_lang.php */
-/* Location: ./system/user/language/english/simple_commerce_lang.php */
+// EOF

@@ -8,5 +8,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file publish_tabs_custom_lang.php */
-/* Location: ./system/user/language/english/publish_tabs_custom_lang.php */
+// EOF

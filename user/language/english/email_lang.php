@@ -38,5 +38,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file email_lang.php */
-/* Location: ./system/user/language/english/email_lang.php */
+// EOF

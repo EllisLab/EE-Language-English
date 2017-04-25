@@ -125,5 +125,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file messages_lang.php */
-/* Location: ./system/user/language/english/messages_lang.php */
+// EOF

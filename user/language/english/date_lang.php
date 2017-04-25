@@ -60,5 +60,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file cp_search_lang.php */
-/* Location: ./system/user/language/english/cp_search_lang.php */
+// EOF

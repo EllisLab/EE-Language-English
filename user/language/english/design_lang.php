@@ -487,5 +487,4 @@ and templates will only be accesible from the default group/template URL.',
 /* IGNORE */
 ''=>'');
 
-/* End of file design_lang.php */
-/* Location: ./system/user/language/english/design_lang.php */
+// EOF

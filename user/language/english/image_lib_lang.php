@@ -20,5 +20,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file image_lib_lang.php */
-/* Location: ./system/user/language/english/image_lib_lang.php */
+// EOF

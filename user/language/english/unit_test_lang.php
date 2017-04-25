@@ -25,5 +25,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file unit_test_lang.php */
-/* Location: ./system/user/language/english/unit_test_lang.php */
+// EOF

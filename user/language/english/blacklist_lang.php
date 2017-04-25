@@ -53,5 +53,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file blacklist_lang.php */
-/* Location: ./system/user/language/english/blacklist_lang.php */
+// EOF

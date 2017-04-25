@@ -18,5 +18,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file formatter_lang.php */
-/* Location: ./system/user/language/english/formatter_lang.php */
+// EOF

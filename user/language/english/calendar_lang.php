@@ -51,5 +51,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file calendar_lang.php */
-/* Location: ./system/user/language/english/calendar_lang.php */
+// EOF

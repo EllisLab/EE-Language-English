@@ -33,5 +33,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file login_lang.php */
-/* Location: ./system/user/language/english/login_lang.php */
+// EOF

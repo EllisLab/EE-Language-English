@@ -236,5 +236,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file utilities_lang.php */
-/* Location: ./system/user/language/english/utilities_lang.php */
+// EOF

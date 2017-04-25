@@ -9,5 +9,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file jquery_lang.php */
-/* Location: ./system/user/language/english/jquery_lang.php */
+// EOF

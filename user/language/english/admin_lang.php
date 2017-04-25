@@ -503,5 +503,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file admin_lang.php */
-/* Location: ./system/user/language/english/admin_lang.php */
+// EOF

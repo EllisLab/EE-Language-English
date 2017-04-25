@@ -34,5 +34,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file channel_form_lang.php */
-/* Location: ./system/user/language/english/channel_form_lang.php */
+// EOF

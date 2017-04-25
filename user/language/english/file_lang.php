@@ -9,5 +9,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file file_lang.php */
-/* Location: ./system/user/language/english/file_lang.php */
+// EOF

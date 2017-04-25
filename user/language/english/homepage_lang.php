@@ -38,5 +38,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file homepage_lang.php */
-/* Location: ./system/user/language/english/homepage_lang.php */
+// EOF

@@ -452,5 +452,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file settings_lang.php */
-/* Location: ./system/user/language/english/settings_lang.php */
+// EOF

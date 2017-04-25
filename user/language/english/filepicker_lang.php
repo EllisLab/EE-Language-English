@@ -10,5 +10,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file filepicker_lang.php */
-/* Location: ./system/user/language/english/filepicker_lang.php */
+// EOF

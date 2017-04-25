@@ -30,5 +30,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file db_lang.php */
-/* Location: ./system/user/language/english/db_lang.php */
+// EOF

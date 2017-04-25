@@ -170,5 +170,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file rte_lang.php */
-/* Location: ./system/user/language/english/rte_lang.php */
+// EOF

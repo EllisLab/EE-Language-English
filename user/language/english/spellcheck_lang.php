@@ -15,5 +15,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file spellcheck_lang.php */
-/* Location: ./system/user/language/english/spellcheck_lang.php */
+// EOF

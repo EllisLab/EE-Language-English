@@ -60,5 +60,4 @@ $lang = array(
 /* IGNORE */
 ''=>'');
 
-/* End of file pages_lang.php */
-/* Location: ./system/user/language/english/pages_lang.php */
+// EOF
