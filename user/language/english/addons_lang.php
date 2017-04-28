@@ -50,18 +50,6 @@ $lang = array(
 'settings_saved_desc' => 'The settings for %s have been saved.',
 'extension_class_does_not_exist' => 'Class %c does not exist in (%f)',
 
-/* Google Maps Keys */
-'default_map' => 'Default Map',
-'manual_override' => 'Manual Override',
-'latitude' => 'Latitude',
-'latitude_desc' => 'Default latitude for this field.',
-'longitude' => 'Longitude',
-'longitude_desc' => 'Default longitude for this field.',
-'zoom' => 'Zoom',
-'zoom_desc' => 'Default zoom level for this field.',
-'preview' => 'Preview',
-'preview_desc' => 'Default view of the map as it will appear for the field.',
-
 /* 2.x */
 'modules' => 'Modules',
 'extensions' => 'Extensions',
