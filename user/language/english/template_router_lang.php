@@ -18,7 +18,6 @@ $lang = array(
 'validation_failed' => 'Validation failed.',
 'variable_in_use' => 'Segment variable already in use: ',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

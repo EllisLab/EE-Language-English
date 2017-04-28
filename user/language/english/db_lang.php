@@ -27,7 +27,6 @@ $lang = array(
 'db_unsuported_feature' => 'Unsupported feature of the database platform you are using.',
 'db_unsupported_function' => 'This feature is not available for the database you are using.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

@@ -500,7 +500,6 @@ $lang = array(
 'xml_lang' => 'Default XML Language',
 'zip' => 'Zip',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

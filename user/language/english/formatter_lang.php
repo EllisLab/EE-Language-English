@@ -15,7 +15,6 @@ $lang = array(
 'formatter_megabytes_abbr' => 'MB',
 'formatter_megabytes_abbr_html' => '<abbr title="Megabytes">MB</abbr>',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

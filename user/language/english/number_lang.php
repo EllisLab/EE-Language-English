@@ -8,7 +8,6 @@ $lang = array(
 'megabyte_abbr' => '<abbr title="Megabyte">MB</abbr>',
 'terabyte_abbr' => '<abbr title="Terabyte">TB</abbr>',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

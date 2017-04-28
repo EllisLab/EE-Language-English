@@ -6,7 +6,6 @@ $lang = array(
 'rss_module_description' => 'RSS page generating module',
 'rss_module_name' => 'RSS',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

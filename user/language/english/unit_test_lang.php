@@ -22,7 +22,6 @@ $lang = array(
 'ut_test_name' => 'Test Name',
 'ut_undefined' => 'Undefined Test Name',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

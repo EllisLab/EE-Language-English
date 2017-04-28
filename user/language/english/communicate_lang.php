@@ -75,7 +75,6 @@ $lang = array(
 'your_email' => 'Your email',
 'your_name' => 'Your Name',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

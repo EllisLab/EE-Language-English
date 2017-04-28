@@ -12,7 +12,6 @@ $lang = array(
 'spellcheck_in_progress' => 'Check In Progress...',
 'unsupported_browser' => 'Unsupported Browser',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

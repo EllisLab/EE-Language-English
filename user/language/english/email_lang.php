@@ -35,7 +35,6 @@ $lang = array(
 'email_smtp_error' => 'The following SMTP error was encountered: %s',
 'message_required' => 'Email Message is Required',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

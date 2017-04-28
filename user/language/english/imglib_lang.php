@@ -21,7 +21,6 @@ $lang = array(
 'imglib_unsupported_imagecreate' => 'Your server does not support the GD function required to process this type of image.',
 'imglib_writing_failed_gif' => 'GIF image.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

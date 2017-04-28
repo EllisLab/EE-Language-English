@@ -317,7 +317,6 @@ $lang = array(
 'statuses_removed' => 'Statuses removed',
 'statuses_removed_desc' => '%d statuses were removed.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

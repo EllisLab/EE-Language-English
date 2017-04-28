@@ -289,7 +289,6 @@ $lang = array(
 'html_button_ajax_reorder_fail' => 'Attention: Failed to save html buttons order',
 'html_button_ajax_reorder_fail_desc' => 'We failed to save your new html buttons order. Refresh the page and make sure you\'re logged in.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

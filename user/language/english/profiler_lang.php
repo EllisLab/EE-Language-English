@@ -24,7 +24,6 @@ $lang = array(
 'profiler_userdata' => 'Userdata',
 'profiler_variables' => 'Variables',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

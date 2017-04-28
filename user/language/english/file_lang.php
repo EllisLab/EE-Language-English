@@ -6,7 +6,6 @@ $lang = array(
 'file_module_description' => 'File module',
 'file_module_name' => 'File',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

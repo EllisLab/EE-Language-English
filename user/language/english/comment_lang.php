@@ -102,7 +102,6 @@ $lang = array(
 'you_have_been_subscribed' => 'You are now subscribed to the following entry:',
 'you_have_been_unsubscribed' => 'Your subscription to the following entry has been removed:',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

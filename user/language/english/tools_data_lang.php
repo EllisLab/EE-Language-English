@@ -65,7 +65,6 @@ $lang = array(
 'site_statistics' => 'Site Statistics',
 'source' => 'Source',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

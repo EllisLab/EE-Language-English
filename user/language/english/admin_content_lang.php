@@ -427,7 +427,6 @@ $lang = array(
 'toggle_default_value_desc_cont' => '<b>Note</b>: If assigned to a channel with existing entries, those entries will be assigned this value.',
 'unauthorized_for_this_channel' => 'You are not authorized to post in this channel',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

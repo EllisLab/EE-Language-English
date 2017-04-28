@@ -77,7 +77,6 @@ $lang = array(
 'switch_to_name' => 'Switch to Name Search',
 'today' => 'Today',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

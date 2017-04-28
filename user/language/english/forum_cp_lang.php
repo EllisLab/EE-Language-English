@@ -305,7 +305,6 @@ $lang = array(
 'no_forum_topic_id' => 'There is no forum topic with that ID.',
 'only_forum_topic_id' => 'Do not specify a forum Title or Body when setting a Forum Topic ID.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

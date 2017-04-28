@@ -11,7 +11,6 @@ $lang = array(
 'emoticon_module_name' => 'Emoticon',
 'emoticon_width' => 'Width',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

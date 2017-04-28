@@ -15,7 +15,6 @@ $lang = array(
 'version_update_available' => 'A newer version of ExpressionEngine is available!',
 'version_update_inst' => '<a class="update" href="%d" title="Download Here" rel="external">Download the latest version</a> and follow the <a class="update" href="%i" title="Update Instructions" rel="external">Update Instructions</a>.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

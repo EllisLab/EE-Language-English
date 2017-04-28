@@ -221,7 +221,6 @@ https://expressionengine.com/support',
 'UP13' => '(UTC +13:00) Samoa Time Zone, Phoenix Islands Time, Tonga',
 'UP14' => '(UTC +14:00) Line Islands',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

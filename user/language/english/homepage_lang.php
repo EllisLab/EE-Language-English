@@ -35,7 +35,6 @@ $lang = array(
 'there_were' => 'There were',
 'type_phrase' => 'type phrase...',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

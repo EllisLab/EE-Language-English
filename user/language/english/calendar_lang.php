@@ -48,7 +48,6 @@ $lang = array(
 'cal_november' => 'November',
 'cal_december' => 'December',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

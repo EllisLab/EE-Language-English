@@ -167,7 +167,6 @@ $lang = array(
 'view_code' => 'View Code',
 'view_content' => 'View Content',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

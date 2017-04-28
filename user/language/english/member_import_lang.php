@@ -98,7 +98,6 @@ $lang = array(
 'xml_imported' => 'XML Member Data Imported',
 'your_data' => 'Your Data',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

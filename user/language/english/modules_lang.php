@@ -27,7 +27,6 @@ $lang = array(
 'updated' => 'Updated',
 'updated_to_version' => 'updated to version',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

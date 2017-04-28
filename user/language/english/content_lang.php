@@ -460,7 +460,6 @@ $lang = array(
 'menu_publish' => 'Publish',
 'rel_ft_no_entries' => 'No Entries',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

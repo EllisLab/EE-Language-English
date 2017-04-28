@@ -35,7 +35,6 @@ $lang = array(
 'sites_removed_desc' => 'The following sites were removed',
 'switch_to' => 'Switch to',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

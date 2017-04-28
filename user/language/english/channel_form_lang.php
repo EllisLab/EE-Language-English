@@ -31,7 +31,6 @@ $lang = array(
 'valid_ip' => 'The %s field must contain a valid IP.',
 'valid_url' => 'The %s field must contain a valid URL.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

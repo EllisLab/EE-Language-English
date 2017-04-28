@@ -456,7 +456,6 @@ $lang = array(
 'wm_x_transp' => 'Transparency X Coordinate',
 'wm_y_transp' => 'Transparency Y Coordinate',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

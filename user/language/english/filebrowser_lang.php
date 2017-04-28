@@ -19,7 +19,6 @@ $lang = array(
 'path_does_not_exist' => 'The specified path does not exist',
 'view' => 'View',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

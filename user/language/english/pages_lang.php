@@ -57,7 +57,6 @@ $lang = array(
 'template' => 'Template',
 'view_page' => 'View Page',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

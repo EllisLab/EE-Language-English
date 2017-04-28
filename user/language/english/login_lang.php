@@ -30,7 +30,6 @@ $lang = array(
 'reset_password' => 'Reset Password',
 'successfully_changed_password' => 'You have successfully changed your password. Please login using your new password.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

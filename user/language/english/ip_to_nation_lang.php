@@ -34,7 +34,6 @@ $lang = array(
 'update_info' => 'Updates the IP and country code information. Data source: <a href="%s" title="Data Provider" rel="external">maxmind.com</a>.</em><em><i>The new data will automatically be downloaded and applied. This may take several minutes and increase load on your database.</i></em>',
 'update_ips' => 'Update IP database',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

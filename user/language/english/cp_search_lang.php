@@ -36,7 +36,6 @@ $lang = array(
 'util_member_import' => 'Member Import',
 'util_translation_tool' => 'Translation Utility',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

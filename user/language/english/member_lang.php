@@ -311,7 +311,6 @@ We reserve the right to remove, edit, or move any messages for any reason.',
 'mbr_reset_password' => 'Please enter a new password',
 'mbr_successfully_changed_password' => 'You have successfully changed your password. Please login using your new password.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

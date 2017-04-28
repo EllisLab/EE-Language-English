@@ -61,7 +61,6 @@ $lang = array(
 'updating_vocabulary' => 'Updating Vocabulary',
 'wiki_post' => 'wiki post',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

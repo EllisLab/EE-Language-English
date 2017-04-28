@@ -232,7 +232,6 @@ $lang = array(
 'total_records' => 'Total Records',
 'uptime' => 'Uptime',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

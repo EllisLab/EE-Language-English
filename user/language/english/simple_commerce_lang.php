@@ -195,7 +195,6 @@ $lang = array(
 'year' => 'Year',
 'years' => 'Years',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

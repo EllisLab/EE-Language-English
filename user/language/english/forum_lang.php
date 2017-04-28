@@ -364,7 +364,6 @@ $lang = array(
 'your_profile' => 'Your Public Profile',
 'your_subscription_cancelled' => 'Your subscription to the following topic has been removed:',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

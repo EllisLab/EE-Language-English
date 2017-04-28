@@ -53,7 +53,6 @@ $lang = array(
 'screen_name' => 'Screen Name',
 'translation_dir_unwritable' => 'Warning: Your translation directory is not writable.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

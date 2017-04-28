@@ -15,7 +15,6 @@ $lang = array(
 'ftp_unable_to_rename' => 'Unable to rename the file.',
 'ftp_unable_to_upload' => 'Unable to upload the specified file. Please check your path.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

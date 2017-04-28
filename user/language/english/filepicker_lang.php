@@ -7,7 +7,6 @@ $lang = array(
 'picker_type' => 'view as',
 'thumbnails' => 'thumbnails',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

@@ -477,7 +477,6 @@ $lang = array(
 'upload_new_files' => 'Upload new files',
 'upload_new_toolsets' => 'Upload new toolsets',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

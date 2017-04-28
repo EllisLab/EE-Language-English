@@ -270,7 +270,6 @@ $lang = array(
 'year' => 'Year',
 'your_html_buttons' => '<abbr title="Hyper-Text Markup Language">HTML</abbr> Formatting Buttons',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

@@ -447,7 +447,6 @@ $lang = array(
 'edit_html_buttons_success' => '<abbr title="Hyper-Text Markup Language">HTML</abbr> Button Updated',
 'edit_html_buttons_success_desc' => 'The <abbr title="Hyper-Text Markup Language">HTML</abbr> button <b>%s</b> has been updated.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

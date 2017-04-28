@@ -480,7 +480,6 @@ $lang = array(
 'username_row' => 'Username Form Row',
 'view_message' => 'Private Message - View Message',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

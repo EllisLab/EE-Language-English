@@ -94,7 +94,6 @@ $lang = array(
 'specific_page' => 'Specific Page?',
 'version' => 'Version',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

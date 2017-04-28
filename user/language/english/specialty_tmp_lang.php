@@ -81,7 +81,6 @@ $lang = array(
 'validated_member_notify' => 'User &ndash; Account validation notification',
 'validated_member_notify_desc' => 'This template defines the notification that members receive when an admin has validated their membership account',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

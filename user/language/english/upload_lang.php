@@ -19,7 +19,6 @@ $lang = array(
 'upload_unable_to_write_file' => 'The file could not be written to disk.',
 'upload_userfile_not_set' => 'Unable to find a post variable called userfile.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

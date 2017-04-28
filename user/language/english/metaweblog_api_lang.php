@@ -58,7 +58,6 @@ $lang = array(
 'unable_to_upload' => 'Unable to Upload File',
 'unauthorized_action' => 'You are not authorized to perform this action.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

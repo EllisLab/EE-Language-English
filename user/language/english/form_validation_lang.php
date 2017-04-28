@@ -43,7 +43,6 @@ $lang = array(
 'auth_password' => 'The password entered is incorrect.',
 'isset' => 'The %s field must have a value.',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

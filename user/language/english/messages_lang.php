@@ -122,7 +122,6 @@ $lang = array(
 'waiting_period_not_reached' => 'To prevent spam there is a %time% hour waiting period before new members are allowed to send Private Messages.',
 'zero_percent' => '0%',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF

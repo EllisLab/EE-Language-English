@@ -50,7 +50,6 @@ $lang = array(
 'ref_blacklisted' => 'Blacklisted',
 'ref_no_blacklist_table' => 'Blacklist database table does not exist',
 
-/* IGNORE */
-''=>'');
+);
 
 // EOF
