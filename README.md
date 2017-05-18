@@ -4,6 +4,7 @@ English Language Pack for ExpressionEngine 3
 Changes Between Versions
 ------------------------
 
+- [3.5.6 → 3.5.7](https://github.com/EllisLab/EE-Language-English/compare/3.5.6...3.5.7)
 - [3.5.5 → 3.5.6](https://github.com/EllisLab/EE-Language-English/compare/3.5.5...3.5.6)
 - [3.5.4 → 3.5.5](https://github.com/EllisLab/EE-Language-English/compare/3.5.4...3.5.5)
 - [3.5.3 → 3.5.4](https://github.com/EllisLab/EE-Language-English/compare/3.5.3...3.5.4)
