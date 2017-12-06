@@ -1,52 +1,16 @@
-English Language Pack for ExpressionEngine 3
+English Language Pack for ExpressionEngine 4
 ============================================
 
 Changes Between Versions
 ------------------------
 
-- [3.5.11 → 3.5.12](https://github.com/EllisLab/EE-Language-English/compare/3.5.11...3.5.12)
-- [3.5.10 → 3.5.11](https://github.com/EllisLab/EE-Language-English/compare/3.5.10...3.5.11)
-- [3.5.9 → 3.5.10](https://github.com/EllisLab/EE-Language-English/compare/3.5.9...3.5.10)
-- [3.5.8 → 3.5.9](https://github.com/EllisLab/EE-Language-English/compare/3.5.8...3.5.9)
-- [3.5.7 → 3.5.8](https://github.com/EllisLab/EE-Language-English/commit/af6a8d454d3b159f89562070ddea4872ffc63af1)
-- [3.5.6 → 3.5.7](https://github.com/EllisLab/EE-Language-English/compare/3.5.6...3.5.7)
-- [3.5.5 → 3.5.6](https://github.com/EllisLab/EE-Language-English/compare/3.5.5...3.5.6)
-- [3.5.4 → 3.5.5](https://github.com/EllisLab/EE-Language-English/compare/3.5.4...3.5.5)
-- [3.5.3 → 3.5.4](https://github.com/EllisLab/EE-Language-English/compare/3.5.3...3.5.4)
-- [3.5.2 → 3.5.3](https://github.com/EllisLab/EE-Language-English/compare/3.5.2...3.5.3)
-- [3.5.1 → 3.5.2](https://github.com/EllisLab/EE-Language-English/compare/3.5.1...3.5.2)
-- [3.5.0 → 3.5.1](https://github.com/EllisLab/EE-Language-English/compare/3.5.0...3.5.1)
-- [3.4.7 → 3.5.0](https://github.com/EllisLab/EE-Language-English/compare/3.4.7...3.5.0)
-- [3.4.6 → 3.4.7](https://github.com/EllisLab/EE-Language-English/compare/3.4.6...3.4.7)
-- [3.4.5 → 3.4.6](https://github.com/EllisLab/EE-Language-English/compare/3.4.5...3.4.6)
-- [3.4.4 → 3.4.5](https://github.com/EllisLab/EE-Language-English/compare/3.4.4...3.4.5)
-- [3.4.2 → 3.4.4](https://github.com/EllisLab/EE-Language-English/compare/3.4.2...3.4.4)
-- [3.4.1 → 3.4.2](https://github.com/EllisLab/EE-Language-English/compare/3.4.1...3.4.2)
-- [3.4.0 → 3.4.1](https://github.com/EllisLab/EE-Language-English/compare/3.4.0...3.4.1)
-- [3.3.4 → 3.4.0](https://github.com/EllisLab/EE-Language-English/compare/3.3.4...3.4.0)
-- [3.3.3 → 3.3.4](https://github.com/EllisLab/EE-Language-English/compare/3.3.3...3.3.4)
-- [3.3.2 → 3.3.3](https://github.com/EllisLab/EE-Language-English/compare/3.3.2...3.3.3)
-- [3.3.1 → 3.3.2](https://github.com/EllisLab/EE-Language-English/compare/3.3.1...3.3.2)
-- [3.3.0 → 3.3.1](https://github.com/EllisLab/EE-Language-English/compare/3.3.0...3.3.1)
-- [3.2.1 → 3.3.0](https://github.com/EllisLab/EE-Language-English/compare/3.2.1...3.3.0)
-- [3.2.0 → 3.2.1](https://github.com/EllisLab/EE-Language-English/compare/3.2.0...3.2.1)
-- [3.1.4 → 3.2.0](https://github.com/EllisLab/EE-Language-English/compare/3.1.4...3.2.0)
-- [3.1.3 → 3.1.4](https://github.com/EllisLab/EE-Language-English/compare/3.1.3...3.1.4)
-- [3.1.2 → 3.1.3](https://github.com/EllisLab/EE-Language-English/compare/3.1.2...3.1.3)
-- [3.1.1 → 3.1.2](https://github.com/EllisLab/EE-Language-English/compare/3.1.1...3.1.2)
-- [3.1.0 → 3.1.1](https://github.com/EllisLab/EE-Language-English/compare/3.1.0...3.1.1)
-- [3.0.6 → 3.1.0](https://github.com/EllisLab/EE-Language-English/compare/3.0.6...3.1.0)
-- [3.0.5 → 3.0.6](https://github.com/EllisLab/EE-Language-English/compare/3.0.5...3.0.6)
-- [3.0.4 → 3.0.5](https://github.com/EllisLab/EE-Language-English/compare/3.0.4...3.0.5)
-- [3.0.3 → 3.0.4](https://github.com/EllisLab/EE-Language-English/compare/3.0.3...3.0.4)
-- [3.0.2 → 3.0.3](https://github.com/EllisLab/EE-Language-English/compare/3.0.2...3.0.3)
-- [3.0.1 → 3.0.2](https://github.com/EllisLab/EE-Language-English/compare/3.0.1...3.0.2)
-- [3.0.0 → 3.0.1](https://github.com/EllisLab/EE-Language-English/compare/3.0.0...3.0.1)
+- [3.5.12 → 4.0](https://github.com/EllisLab/EE-Language-English/compare/3.5.12…4.0)
+
 
 License
 -------
 
-Copyright (C) 2009-2016 EllisLab, Inc.
+Copyright (C) 2009-2017 EllisLab, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
