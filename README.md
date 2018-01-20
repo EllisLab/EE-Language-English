@@ -4,6 +4,7 @@ English Language Pack for ExpressionEngine 4
 Changes Between Versions
 ------------------------
 
+- [4.0.6 → 4.0.7](https://github.com/EllisLab/EE-Language-English/compare/4.0.6...4.0.7)
 - [4.0.5 → 4.0.6](https://github.com/EllisLab/EE-Language-English/compare/4.0.5...4.0.6)
 - [4.0.4 → 4.0.5](https://github.com/EllisLab/EE-Language-English/compare/4.0.4...4.0.5)
 - [4.0.3 → 4.0.4](https://github.com/EllisLab/EE-Language-English/compare/4.0.3...4.0.4)
