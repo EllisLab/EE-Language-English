@@ -4,6 +4,7 @@ English Language Pack for ExpressionEngine 4
 Changes Between Versions
 ------------------------
 
+- [4.0.7 → 4.0.8](https://github.com/EllisLab/EE-Language-English/compare/4.0.7...4.0.8)
 - [4.0.6 → 4.0.7](https://github.com/EllisLab/EE-Language-English/compare/4.0.6...4.0.7)
 - [4.0.5 → 4.0.6](https://github.com/EllisLab/EE-Language-English/compare/4.0.5...4.0.6)
 - [4.0.4 → 4.0.5](https://github.com/EllisLab/EE-Language-English/compare/4.0.4...4.0.5)
@@ -17,7 +18,7 @@ Changes Between Versions
 License
 -------
 
-Copyright (C) 2009-2017 EllisLab, Inc.
+Copyright (C) 2009-2018 EllisLab, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
