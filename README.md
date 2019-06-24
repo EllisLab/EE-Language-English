@@ -4,6 +4,7 @@ English Language Pack for ExpressionEngine 5
 Changes Between Versions
 ------------------------
 
+- [5.2.3 → 5.2.4](https://github.com/EllisLab/EE-Language-English/compare/5.2.3...5.2.4)
 - [5.2.2 → 5.2.3](https://github.com/EllisLab/EE-Language-English/compare/5.2.2...5.2.3)
 - [5.1.3 → 5.2.2](https://github.com/EllisLab/EE-Language-English/compare/5.1.3...5.2.2)
 - [5.0.2 → 5.1.3](https://github.com/EllisLab/EE-Language-English/compare/5.0.2...5.1.3)
