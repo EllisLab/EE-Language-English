@@ -1,29 +1,49 @@
-English Language Pack for ExpressionEngine 3
+English Language Pack for ExpressionEngine 5
 ============================================
 
 Changes Between Versions
 ------------------------
 
-- [3.3.0 → 3.3.1](https://github.com/EllisLab/EE-Language-English/compare/3.3.0...3.3.1)
-- [3.2.1 → 3.3.0](https://github.com/EllisLab/EE-Language-English/compare/3.2.1...3.3.0)
-- [3.2.0 → 3.2.1](https://github.com/EllisLab/EE-Language-English/compare/3.2.0...3.2.1)
-- [3.1.4 → 3.2.0](https://github.com/EllisLab/EE-Language-English/compare/3.1.4...3.2.0)
-- [3.1.3 → 3.1.4](https://github.com/EllisLab/EE-Language-English/compare/3.1.3...3.1.4)
-- [3.1.2 → 3.1.3](https://github.com/EllisLab/EE-Language-English/compare/3.1.2...3.1.3)
-- [3.1.1 → 3.1.2](https://github.com/EllisLab/EE-Language-English/compare/3.1.1...3.1.2)
-- [3.1.0 → 3.1.1](https://github.com/EllisLab/EE-Language-English/compare/3.1.0...3.1.1)
-- [3.0.6 → 3.1.0](https://github.com/EllisLab/EE-Language-English/compare/3.0.6...3.1.0)
-- [3.0.5 → 3.0.6](https://github.com/EllisLab/EE-Language-English/compare/3.0.5...3.0.6)
-- [3.0.4 → 3.0.5](https://github.com/EllisLab/EE-Language-English/compare/3.0.4...3.0.5)
-- [3.0.3 → 3.0.4](https://github.com/EllisLab/EE-Language-English/compare/3.0.3...3.0.4)
-- [3.0.2 → 3.0.3](https://github.com/EllisLab/EE-Language-English/compare/3.0.2...3.0.3)
-- [3.0.1 → 3.0.2](https://github.com/EllisLab/EE-Language-English/compare/3.0.1...3.0.2)
-- [3.0.0 → 3.0.1](https://github.com/EllisLab/EE-Language-English/compare/3.0.0...3.0.1)
+- [5.2.6 → 5.3.0](https://github.com/EllisLab/EE-Language-English/compare/5.2.6...5.3.0)
+- [5.2.5 → 5.2.6](https://github.com/EllisLab/EE-Language-English/compare/5.2.5...5.2.6)
+- [5.2.4 → 5.2.5](https://github.com/EllisLab/EE-Language-English/compare/5.2.4...5.2.5)
+- [5.2.3 → 5.2.4](https://github.com/EllisLab/EE-Language-English/compare/5.2.3...5.2.4)
+- [5.2.2 → 5.2.3](https://github.com/EllisLab/EE-Language-English/compare/5.2.2...5.2.3)
+- [5.1.3 → 5.2.2](https://github.com/EllisLab/EE-Language-English/compare/5.1.3...5.2.2)
+- [5.0.2 → 5.1.3](https://github.com/EllisLab/EE-Language-English/compare/5.0.2...5.1.3)
+- [5.0.1 → 5.0.2](https://github.com/EllisLab/EE-Language-English/compare/5.0.1...5.0.2)
+- [5.0.0 → 5.0.1](https://github.com/EllisLab/EE-Language-English/compare/5.0.0...5.0.1)
+- [4.3.8 → 5.0.0](https://github.com/EllisLab/EE-Language-English/compare/4.3.8...5.0.0)
+- [4.3.5 → 4.3.8](https://github.com/EllisLab/EE-Language-English/compare/4.3.5...4.3.8)
+- [4.3.4 → 4.3.5](https://github.com/EllisLab/EE-Language-English/compare/4.3.4...4.3.5)
+- [4.3.2 → 4.3.4](https://github.com/EllisLab/EE-Language-English/compare/4.3.2...4.3.4)
+- [4.3.1 → 4.3.2](https://github.com/EllisLab/EE-Language-English/compare/4.3.1...4.3.2)
+- [4.3.0 → 4.3.1](https://github.com/EllisLab/EE-Language-English/compare/4.3.0...4.3.1)
+- [4.2.3 → 4.3.0](https://github.com/EllisLab/EE-Language-English/compare/4.2.3...4.3.0)
+- [4.2.2 → 4.2.3](https://github.com/EllisLab/EE-Language-English/compare/4.2.2...4.2.3)
+- [4.2.1 → 4.2.2](https://github.com/EllisLab/EE-Language-English/compare/4.2.1...4.2.2)
+- [4.2.0 → 4.2.1](https://github.com/EllisLab/EE-Language-English/compare/4.2.0...4.2.1)
+- [4.1.3 → 4.2.0](https://github.com/EllisLab/EE-Language-English/compare/4.1.3...4.2.0)
+- [4.1.2 → 4.1.3](https://github.com/EllisLab/EE-Language-English/compare/4.1.1...4.1.2)
+- [4.1.1 → 4.1.2](https://github.com/EllisLab/EE-Language-English/compare/4.1.1...4.1.2)
+- [4.1.0 → 4.1.1](https://github.com/EllisLab/EE-Language-English/compare/4.1.0...4.1.1)
+- [4.0.9 → 4.1.0](https://github.com/EllisLab/EE-Language-English/compare/4.0.9...4.1.0)
+- [4.0.8 → 4.0.9](https://github.com/EllisLab/EE-Language-English/compare/4.0.8...4.0.9)
+- [4.0.7 → 4.0.8](https://github.com/EllisLab/EE-Language-English/compare/4.0.7...4.0.8)
+- [4.0.6 → 4.0.7](https://github.com/EllisLab/EE-Language-English/compare/4.0.6...4.0.7)
+- [4.0.5 → 4.0.6](https://github.com/EllisLab/EE-Language-English/compare/4.0.5...4.0.6)
+- [4.0.4 → 4.0.5](https://github.com/EllisLab/EE-Language-English/compare/4.0.4...4.0.5)
+- [4.0.3 → 4.0.4](https://github.com/EllisLab/EE-Language-English/compare/4.0.3...4.0.4)
+- [4.0.2 → 4.0.3](https://github.com/EllisLab/EE-Language-English/compare/4.0.2...4.0.3)
+- [4.0.1 → 4.0.2](https://github.com/EllisLab/EE-Language-English/compare/4.0.1...4.0.2)
+- [4.0.0 → 4.0.1](https://github.com/EllisLab/EE-Language-English/compare/4.0...4.0.1)
+- [3.5.12 → 4.0.0](https://github.com/EllisLab/EE-Language-English/compare/3.5.12...4.0)
+
 
 License
 -------
 
-Copyright (C) 2009-2016 EllisLab, Inc.
+Copyright (C) 2009-2018 EllisLab, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
