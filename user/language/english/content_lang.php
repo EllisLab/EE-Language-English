@@ -2,973 +2,1008 @@
 
 $lang = array(
 
-'all_channel_entries' => 'All %s entries',
+    'all_channel_entries' => 'All %s entries',
 
-'all_comments' => 'All Comments',
+    'all_comments' => 'All Comments',
 
-'all_comments_for_entry' => 'All Comments for %s',
+    'all_comments_for_entry' => 'All Comments for %s',
 
-'all_entries' => 'All %d entries',
+    'all_entries' => 'All %d entries',
 
-'allow_comments' => 'Allow comments?',
+    'allow_comments' => 'Allow comments?',
 
-'allow_comments_desc' => 'When enabled, members with permissions will be able to post comments to this entry.',
+    'allow_comments_desc' => 'When enabled, members with permissions will be able to post comments to this entry.',
 
-'author' => 'Author',
+    'author' => 'Author',
 
-'author_desc' => 'Member that wrote this entry.',
+    'author_desc' => 'Member that wrote this entry.',
 
-'author_information' => 'Author information',
+    'author_information' => 'Author information',
 
-'author_information_desc' => 'Information about the author of this comment, non-editable.',
+    'author_information_desc' => 'Information about the author of this comment, non-editable.',
 
-'auto_saved' => 'auto saved',
+    'auto_saved' => 'auto saved',
 
-'auto_saved_entries' => 'Auto Saved Entries',
+    'auto_saved_entries' => 'Auto Saved Entries',
 
-'btn_add_category' => 'Add Category',
+    'btn_add_category' => 'Add Category',
 
-'btn_create_new' => 'Create New',
+    'btn_create_new' => 'Create New',
 
-'btn_create_new_entry_in_channel' => 'New in %s',
+    'btn_create_new_entry_in_channel' => 'New in %s',
 
-'btn_edit_comment' => 'Save',
+    'btn_edit_comment' => 'Save',
 
-'btn_publish' => 'Publish',
+    'btn_publish' => 'Publish',
 
-'btn_save_revision' => 'Save Revision',
+    'btn_save_revision' => 'Save Revision',
 
-'btn_search_entries' => 'Search Entries',
+    'btn_search_entries' => 'Search Entries',
 
-'by' => 'by',
+    'by' => 'by',
 
-'categories' => 'Categories',
+    'categories' => 'Categories',
 
-'categories_desc' => 'Categorize this entry.',
+    'categories_desc' => 'Categorize this entry.',
 
-'channel' => 'Channel',
+    'channel' => 'Channel',
 
-'channel_desc' => 'Channel this entry should be submitted to.',
+    'channel_desc' => 'Channel this entry should be submitted to.',
 
-'column_comment' => 'Comment',
+    'column_comment' => 'Comment',
 
-'column_comment_date' => 'Date',
+    'column_comment_date' => 'Date',
 
-'column_comment_total' => 'Comments',
+    'column_comment_total' => 'Comments',
 
-'column_entry_date' => 'Date',
+    'column_categories' => 'Categories',
 
-'column_entry_id' => 'ID#',
+    'column_entry_date' => 'Date',
 
-'column_ip_address' => 'IP',
+    'column_entry_id' => 'ID#',
 
-'column_status' => 'Status',
+    'column_ip_address' => 'IP',
 
-'column_title' => 'Title',
+    'column_status' => 'Status',
 
-'comment_content' => 'Comment content',
+    'column_title' => 'Title',
 
-'comment_content_desc' => 'Content of this comment.',
+    'comment_content' => 'Comment content',
 
-'comment_expiration_date' => 'Comment expiration date',
+    'comment_content_desc' => 'Content of this comment.',
 
-'comment_expiration_date_desc' => 'Date comments for this entry should no longer be accepted.',
+    'comment_expiration_date' => 'Comment expiration date',
 
-'comment_status_desc' => 'Status of this comment.',
+    'comment_expiration_date_desc' => 'Date comments for this entry should no longer be accepted.',
 
-'comments_removed_desc' => 'The following comments were removed',
+    'comment_status_desc' => 'Status of this comment.',
 
-'comments_status_updated_desc' => 'The following comments were set to %s',
+    'comments_deleted_desc' => 'The following comments were deleted',
 
-'create_entry_error' => 'Cannot Create Entry',
+    'comments_status_updated_desc' => 'The following comments were set to %s',
 
-'create_entry_error_desc' => 'We were unable to create this entry, please review and fix errors below.',
+    'create_entry_error' => 'Cannot Create Entry',
 
-'create_entry_success' => 'Entry Created',
+    'create_entry_error_desc' => 'We were unable to create this entry, please review and fix errors below.',
 
-'create_entry_success_desc' => 'The entry <b>%s</b> has been created.',
+    'create_entry_success' => 'Entry Created',
 
-'create_entry_with_channel_name' => 'New Entry: %s',
+    'create_entry_success_desc' => 'The entry <a href=\'%1$s\'><b>%2$s</b></a> has been created.',
 
-'custom_date' => 'custom date',
+    'create_entry_with_channel_name' => 'New Entry: %s',
 
-'custom_limit' => 'custom limit',
+    'custom_date' => 'custom date',
 
-'edit_channel_entries' => 'Edit Channel Entries',
+    'custom_limit' => 'custom limit',
 
-'edit_comment_error' => 'Cannot Edit Comment',
+    'edit_channel_entries' => 'Edit Channel Entries',
 
-'edit_comment_error_desc' => 'We were unable to edit the comment, please review and fix errors below.',
+    'edit_comment_error' => 'Cannot Edit Comment',
 
-'edit_comment_success' => 'Success',
+    'edit_comment_error_desc' => 'We were unable to edit the comment, please review and fix errors below.',
 
-'edit_comment_success_desc' => 'The comment has been edited.',
+    'edit_comment_success' => 'Success',
 
-'edit_entry_error' => 'Cannot Update Entry',
+    'edit_comment_success_desc' => 'The comment has been edited.',
 
-'edit_entry_error_desc' => 'We were unable to update this entry, please review and fix errors below.',
+    'edit_entry_error' => 'Cannot Update Entry',
 
-'edit_entry_success' => 'Entry Updated',
+    'edit_entry_error_desc' => 'We were unable to update this entry, please review and fix errors below.',
 
-'edit_entry_success_desc' => 'The entry <b>%s</b> has been updated.',
+    'edit_entry_success' => 'Entry Updated',
 
-'edit_entry_with_title' => 'Edit Entry: %s',
+    'edit_entry_success_desc' => 'The entry <a href=\'%1$s\'><b>%2$s</b></a> has been updated.',
 
-'entries' => 'entries',
+    'edit_entry_with_title' => 'Edit Entry: %s',
 
-'entries_removed_desc' => 'The following entries were removed',
+    'entries' => 'Entries',
 
-'entry' => 'Entry',
+    'entries_deleted_desc' => 'The following entries were deleted',
 
-'entry_date' => 'Entry date',
+    'entry' => 'Entry',
 
-'entry_date_desc' => 'Date of publication for this entry.',
+    'entry_date' => 'Entry date',
 
-'entry_limit_reached' => 'Channel limit reached',
+    'entry_date_desc' => 'Date of publication for this entry.',
 
-'entry_limit_reached_desc' => 'This channel is limited to %d entries.',
+    'entry_limit_reached' => 'Channel limit reached',
 
-'entry_limit_reached_one_desc' => 'This channel is limited to one entry.',
+    'entry_limit_reached_desc' => 'This channel is limited to %d entries.',
 
-'entry_manager' => 'Entry Manager',
+    'entry_limit_reached_one_desc' => 'This channel is limited to one entry.',
 
-'entry_status' => 'Status',
+    'entry_manager' => 'Entries',
 
-'entry_status_desc' => 'Entry status.',
+    'entry_status' => 'Entry Status',
 
-'expiration_date' => 'Expiration date',
+    'entry_status_desc' => 'Entry status.',
 
-'expiration_date_desc' => 'Date this entry should expire.',
+    'expiration_date' => 'Expiration date',
 
-'filter_autosaves' => 'filter auto saves',
+    'expiration_date_desc' => 'Date this entry should expire.',
 
-'filter_by_author' => 'author',
+    'filter_autosaves' => 'filter auto saves',
 
-'filter_by_category' => 'category',
+    'filter_by_author' => 'author',
 
-'filter_by_channel' => 'channel',
+    'filter_by_category' => 'category',
 
-'filter_by_status' => 'status',
+    'filter_by_channel' => 'channel',
 
-'in' => 'in',
+    'filter_by_status' => 'status',
 
-'ip_address' => '<abbr title="Internet Protocol">IP</abbr>',
+    'in' => 'in',
 
-'manage_categories' => 'Manage Categories',
+    'ip_address' => '<abbr title="Internet Protocol">IP</abbr>',
 
-'move_comment' => 'Move Comment?',
+    'manage_categories' => 'Manage Categories',
 
-'move_comment_desc' => 'Enter an Entry <abbr title="Identifier">ID</abbr> to move this comment to.<br>Currently on: %s (%s)',
+    'move_comment' => 'Move Comment?',
 
-'no_comments' => 'No comments were found.',
+    'move_comment_desc' => 'Enter an Entry <abbr title="Identifier">ID</abbr> to move this comment to.<br>Currently on: %s (%s)',
 
-'set_to_closed' => 'Set to closed',
+    'no_comments' => 'No comments were found.',
 
-'set_to_open' => 'Set to open',
+    'set_to_closed' => 'Set to closed',
 
-'set_to_pending' => 'Set to pending',
+    'set_to_open' => 'Set to open',
 
-'sticky' => 'Make entry sticky?',
+    'set_to_pending' => 'Set to pending',
 
-'sticky_desc' => 'When enabled, this entry will be given preference in sorted listings.',
+    'sticky' => 'Make entry sticky?',
 
-'url_title' => '<abbr title="Unified Resource Locator">URL</abbr> title',
+    'sticky_desc' => 'When enabled, this entry will be given preference in sorted listings.',
 
-'url_title_desc' => '<abbr title="Unified Resource Locator">URL</abbr> location of this entry.',
+    'url_title' => '<abbr title="Unified Resource Locator">URL</abbr> title',
 
+    'url_title_desc' => '<abbr title="Unified Resource Locator">URL</abbr> location of this entry.',
 
-/* Publish page */
-'action_delete' => 'Delete',
+    /* Publish page */
+    'action_delete' => 'Delete',
 
-'actions' => 'Actions',
+    'actions' => 'Actions',
 
-'add_author' => 'Add Author',
+    'add_author' => 'Add Author',
 
-'add_author_desc' => 'Group settings over-ride individual settings, and some users cannot be removed from the author list.',
+    'add_author_desc' => 'Group settings over-ride individual settings, and some users cannot be removed from the author list.',
 
-'add_categories' => 'Add Categories',
+    'add_categories' => 'Add Categories',
 
-'add_category' => 'Add Category',
+    'add_category' => 'Add Category',
 
-'all_channels' => 'All Channels',
+    'all_channels' => 'All Channels',
 
-'alpha' => 'Alphabetical',
+    'alpha' => 'Alphabetical',
 
-'anchor' => 'Hyperlink',
+    'anchor' => 'Hyperlink',
 
-'any_date' => 'Custom Date Range',
+    'any_date' => 'Custom Date Range',
 
-'ascending' => 'Oldest First',
+    'ascending' => 'Oldest First',
 
-'authors' => 'Authors',
+    'authors' => 'Authors',
 
-'autosave_data_available' => 'auto saved data available',
+    'autosave_data_available' => 'auto saved data available',
 
-'autosave_success' => 'Auto Saved',
+    'autosave_success' => 'Auto Saved',
 
-'autosave_title' => 'Saved data available',
+    'autosave_title' => 'Saved data available',
 
-'autosave_warning_1' => 'ExpressionEngine has saved data from this entry since it was last saved.',
+    'autosave_warning_1' => 'ExpressionEngine has saved data from this entry since it was last saved.',
 
-'autosave_warning_2' => 'Saved data is removed when an entry is saved or re-saved.',
+    'autosave_warning_2' => 'Saved data is removed when an entry is saved or re-saved.',
 
-'autosave_warning_3' => 'Would you like to load this data now?',
+    'autosave_warning_3' => 'Would you like to load this data now?',
 
-'autosaved' => 'Auto saved',
+    'autosaved' => 'Auto saved',
 
-'autosaved_entries' => 'Auto-saved Entries',
+    'autosaved_entries' => 'Auto-saved Entries',
 
-'autosaved_versions' => 'Auto-saved versions',
+    'autosaved_versions' => 'Auto-saved versions',
 
-'autosaved_versions_desc' => 'Below is a list of auto-saved versions of this entry.',
+    'autosaved_versions_desc' => 'Below is a list of auto-saved versions of this entry.',
 
-'autosaves' => 'Auto Saves',
+    'autosaves' => 'Auto Saves',
 
-'blockquote' => 'Blockquote',
+    'blockquote' => 'Blockquote',
 
-'bold' => 'Bold',
+    'bold' => 'Bold',
 
-'button_mode' => 'Button Mode:',
+    'button_mode' => 'Button Mode:',
 
-'calendar' => 'Calendar',
+    'calendar' => 'Calendar',
 
-'cancel_preview' => 'Cancel Preview',
+    'close_preview' => 'Close Preview',
 
-'category' => 'Category',
+    'cancel_preview' => 'Cancel Preview',
 
-'channel_name' => 'Channel:',
+    'category' => 'Category',
 
-'channels' => 'Channels',
+    'channel_name' => 'Channel:',
 
-'check_spelling' => 'Check Spelling',
+    'channels' => 'Channels',
 
-'choose_a_destination' => 'Where would like your file to appear?',
+    'check_spelling' => 'Check Spelling',
 
-'choose_a_destination_for_emoticon' => 'Choose a destination for your emoticon',
+    'choose_a_destination' => 'Where would like your file to appear?',
 
-'choose_a_destination_for_thumb' => 'Where would you like the image to appear?',
+    'choose_a_destination_for_emoticon' => 'Choose a destination for your emoticon',
 
-'choose_entry_for_comment_move' => 'Choose Entry for Comment Move',
+    'choose_a_destination_for_thumb' => 'Where would you like the image to appear?',
 
-'choose_file' => 'Choose File',
+    'choose_entry_for_comment_move' => 'Choose Entry for Comment Move',
 
-'choose_layout_group_preview' => 'Select the group layout you wish to preview.',
+    'choose_file' => 'Choose File',
 
-'choose_only_one_entry' => 'You Must Choose Only One Entry',
+    'choose_layout_group_preview' => 'Select the group layout you wish to preview.',
 
-'clear' => 'Clear',
+    'choose_only_one_entry' => 'You Must Choose Only One Entry',
 
-'click_emoticon' => 'Click an image to place it in your entry',
+    'clear' => 'Clear',
 
-'click_to_view_your_entry' => 'Click here to view your entry',
+    'click_emoticon' => 'Click an image to place it in your entry',
 
-'close' => 'Close',
+    'click_to_view_your_entry' => 'Click here to view your entry',
 
-'close_all' => 'Close All',
+    'close' => 'Close',
 
-'close_for_no_change' => 'Close this window to cancel.',
+    'close_all' => 'Close All',
 
-'close_selected' => 'Close Selected',
+    'close_for_no_change' => 'Close this window to cancel.',
 
-'close_window' => 'Close Window',
+    'close_selected' => 'Close Selected',
 
-'closed' => 'Closed',
+    'close_window' => 'Close Window',
 
-'comment' => 'Comment',
+    'closed' => 'Closed',
 
-'comment_action' => 'Action:',
+    'comment' => 'Comment',
 
-'comment_date' => 'Date:',
+    'comment_action' => 'Action:',
 
-'comment_deleted' => 'Comments Deleted',
+    'comment_date' => 'Date:',
 
-'comment_email' => 'Email:',
+    'comment_deleted' => 'Comments Deleted',
 
-'comment_ip' => 'IP:',
+    'comment_email' => 'Email:',
 
-'comment_updated' => 'Comment Updated',
+    'comment_ip' => 'IP:',
 
-'comment_url' => 'URL:',
+    'comment_updated' => 'Comment Updated',
 
-'comments' => 'Comments',
+    'comment_url' => 'URL:',
 
-'confirm_exit' => 'When you leave, any data entered will be lost. Are you sure you want to leave?',
+    'comments' => 'Comments',
 
-'constrain_proportions' => 'Constrain Proportions',
+    'confirm_exit' => 'When you leave, any data entered will be lost. Are you sure you want to leave?',
 
-'content' => 'Content',
+    'constrain_proportions' => 'Constrain Proportions',
 
-'content_publish' => 'Publish',
+    'content' => 'Content',
 
-'continue' => 'Continue',
+    'content_publish' => 'Publish',
 
-'continue_editing' => 'Continue Editing',
+    'continue' => 'Continue',
 
-'create_popup' => 'Create pop-up for image?',
+    'continue_editing' => 'Continue Editing',
 
-'create_thumb' => 'Create Image Thumbnail',
+    'create_popup' => 'Create pop-up for image?',
 
-'create_thumb_copy' => 'Create a separate copy',
+    'create_thumb' => 'Create Image Thumbnail',
 
-'current_rev' => 'Currently Loaded',
+    'create_thumb_copy' => 'Create a separate copy',
 
-'date' => 'Date',
+    'current_rev' => 'Currently Loaded',
 
-'date_calendar' => 'Date Calendar',
+    'date' => 'Date',
 
-'date_outside_of_range' => 'The date you submitted is outside the accepted range (1902 - 2037).',
+    'date_calendar' => 'Date Calendar',
 
-'date_range' => 'Date Range',
+    'date_outside_of_range' => 'The date you submitted is outside the accepted range (1902 - 2037).',
 
-'delete_comment' => 'Delete Comments',
+    'date_range' => 'Date Range',
 
-'delete_comment_confirm' => 'Are you sure you want to permanently delete this comment?',
+    'delete_comment' => 'Delete Comments',
 
-'delete_comments_confirm' => 'Are you sure you want to permanently delete these comments?',
+    'delete_confirm' => 'Delete Confirm',
 
-'delete_confirm' => 'Delete Confirm',
+    'delete_entries_confirm' => 'Are you sure you want to permanently delete these entries?',
 
-'delete_entries_confirm' => 'Are you sure you want to permanently delete these entries?',
+    'delete_entry_confirm' => 'Are you sure you want to permanently delete this entry?',
 
-'delete_entry_confirm' => 'Are you sure you want to permanently delete this entry?',
+    'delete_selected' => 'Delete Selected',
 
-'delete_selected' => 'Delete Selected',
+    'descending' => 'Newest First',
 
-'descending' => 'Newest First',
+    'discard_autosave' => 'Discard Auto saved Data',
 
-'discard_autosave' => 'Discard Auto saved Data',
+    'div' => 'Div',
 
-'div' => 'Div',
+    'do_not_place_file' => 'Do not place file in entry',
 
-'do_not_place_file' => 'Do not place file in entry',
+    'edit_categories' => 'Edit Categories',
 
-'edit_categories' => 'Edit Categories',
+    'edit_comment' => 'Edit Comment',
 
-'edit_comment' => 'Edit Comment',
+    'edit_entry' => 'Edit Entry',
 
-'edit_entry' => 'Edit Entry',
+    'edit_selected' => 'Edit Selected',
 
-'edit_selected' => 'Edit Selected',
+    'edit_this_entry' => 'Edit This Entry',
 
-'edit_this_entry' => 'Edit This Entry',
+    'email' => 'Email',
 
-'email' => 'Email',
+    'embedded' => 'Embedded in Entry',
 
-'embedded' => 'Embedded in Entry',
+    'emoticons' => 'Smileys',
 
-'emoticons' => 'Smileys',
+    'end_date' => 'End',
 
-'end_date' => 'End',
+    'entries_deleted' => 'Deleted',
 
-'entries_deleted' => 'Deleted',
+    'entry_has_been_added' => 'New Entry Submitted',
 
-'entry_has_been_added' => 'New Entry Submitted',
+    'entry_has_been_updated' => 'Entry Has Been Updated',
 
-'entry_has_been_updated' => 'Entry Has Been Updated',
+    'entry_title_with_title' => 'Entry title: \'%title\'',
 
-'entry_title_with_title' => 'Entry title: \'%title\'',
+    'exact_match' => 'Exact Match',
 
-'exact_match' => 'Exact Match',
+    'field_blank' => 'You left a field blank.',
 
-'field_blank' => 'You left a field blank.',
+    'fields' => 'Fields',
 
-'fields' => 'Fields',
+    'add' => 'Add',
 
-'file_exists' => 'A file already exists with this name',
+    'add_field' => 'Add Field',
 
-'file_exists_warning' => 'File Exists Warning',
+    'file_exists' => 'A file already exists with this name',
 
-'file_manager' => 'File Manager',
+    'file_exists_warning' => 'File Exists Warning',
 
-'file_saved' => 'File Saved',
+    'file_manager' => 'File Manager',
 
-'file_type' => 'File Type',
+    'file_saved' => 'File Saved',
 
-'file_upload' => 'File Upload',
+    'file_type' => 'File Type',
 
-'file_uploaded' => 'File Uploaded:',
+    'file_upload' => 'File Upload',
 
-'files' => 'Files',
+    'file_uploaded' => 'File Uploaded:',
 
-'fixed_date' => 'Fixed',
+    'files' => 'Files',
 
-'font' => 'Font',
+    'fixed_date' => 'Fixed',
 
-'formatting' => 'Formatting:',
+    'font' => 'Font',
 
-'forum' => 'Forum',
+    'formatting' => 'Formatting:',
 
-'forum_body' => 'Forum Topic Text',
+    'forum' => 'Forum',
 
-'forum_no_forum_body' => 'You cannot create a forum topic without content.',
+    'forum_body' => 'Forum Topic Text',
 
-'forum_no_forum_title' => 'You must give the forum topic a title.',
+    'forum_no_forum_body' => 'You cannot create a forum topic without content.',
 
-'forum_no_forum_id' => 'You must choose a forum.',
+    'forum_no_forum_title' => 'You must give the forum topic a title.',
 
-'forum_title' => 'Forum Topic Title',
+    'forum_no_forum_id' => 'You must choose a forum.',
 
-'forum_topic_id' => 'Forum Topic ID',
+    'forum_title' => 'Forum Topic Title',
 
-'forum_topic_id_exitsts' => 'If a forum topic already exists and you would like to associate it with your entry, submit the topic ID number and leave the above fields blank.',
+    'forum_topic_id' => 'Forum Topic ID',
 
-'forum_topic_id_info' => 'This field enables this channel entry to be associated with a forum topic.',
+    'forum_topic_id_exitsts' => 'If a forum topic already exists and you would like to associate it with your entry, submit the topic ID number and leave the above fields blank.',
 
-'forums_unavailable' => 'There are no forums available to post into',
+    'forum_topic_id_info' => 'This field enables this channel entry to be associated with a forum topic.',
 
-'guided' => 'Guided',
+    'forums_unavailable' => 'There are no forums available to post into',
 
-'heading_1' => 'Heading 1',
+    'guided' => 'Guided',
 
-'heading_2' => 'Heading 2',
+    'heading_1' => 'Heading 1',
 
-'heading_3' => 'Heading 3',
+    'heading_2' => 'Heading 2',
 
-'heading_4' => 'Heading 4',
+    'heading_3' => 'Heading 3',
 
-'heading_5' => 'Heading 5',
+    'heading_4' => 'Heading 4',
 
-'height' => 'Height',
+    'heading_5' => 'Heading 5',
 
-'hide_toolbar' => 'hide toolbar',
+    'height' => 'Height',
 
-'horizontal_rule' => 'Horizontal Rule',
+    'hide_toolbar' => 'hide toolbar',
 
-'html_buttons_email_text' => 'Enter the email address',
+    'horizontal_rule' => 'Horizontal Rule',
 
-'html_buttons_email_title' => 'Enter the link title (or leave the field empty to use the email address as the title.)',
+    'html_buttons_email_text' => 'Enter the email address',
 
-'html_buttons_enter_text' => 'Enter the text you want to format',
+    'html_buttons_email_title' => 'Enter the link title (or leave the field empty to use the email address as the title.)',
 
-'html_buttons_image_text' => 'Enter the image URL',
+    'html_buttons_enter_text' => 'Enter the text you want to format',
 
-'html_buttons_no_cursor' => 'In order to use these buttons you must first place your cursor in a field.',
+    'html_buttons_image_text' => 'Enter the image URL',
 
-'html_buttons_title_text' => 'Optional: Enter a title attribute',
+    'html_buttons_no_cursor' => 'In order to use these buttons you must first place your cursor in a field.',
 
-'html_buttons_url_text' => 'Enter the hyperlink URL',
+    'html_buttons_title_text' => 'Optional: Enter a title attribute',
 
-'html_buttons_webpage_text' => 'Enter the title of the link',
+    'html_buttons_url_text' => 'Enter the hyperlink URL',
 
-'html_glossary' => 'Glossary',
+    'html_buttons_webpage_text' => 'Enter the title of the link',
 
-'image' => 'Image',
+    'html_glossary' => 'Glossary',
 
-'image_link' => 'Image Link',
+    'image' => 'Image',
 
-'image_location' => 'Image Location',
+    'image_link' => 'Image Link',
 
-'image_options' => 'Image Options',
+    'image_location' => 'Image Location',
 
-'image_resized' => 'Your image has been resized',
+    'image_options' => 'Image Options',
 
-'image_size_not_different' => 'The width and height values you submitted are the same as the original.',
+    'image_resized' => 'Your image has been resized',
 
-'instructions' => 'Instructions: ',
+    'image_size_not_different' => 'The width and height values you submitted are the same as the original.',
 
-'invalid_author' => 'The selected author is invalid.',
+    'instructions' => 'Instructions: ',
 
-'invalid_comment_date_formatting' => 'The comment expiration date you submitted was not formatted correctly (year-month-day hour:minute). Leave the field blank if you do not wish your comments to expire.',
+    'invalid_author' => 'The selected author is invalid.',
 
-'invalid_date_formatting' => 'The date you submitted was not formatted correctly (year-month-day hour:minute)',
+    'invalid_comment_date_formatting' => 'The comment expiration date you submitted was not formatted correctly (year-month-day hour:minute). Leave the field blank if you do not wish your comments to expire.',
 
-'italic' => 'Italic',
+    'invalid_date_formatting' => 'The date you submitted was not formatted correctly (year-month-day hour:minute)',
 
-'keywords' => 'Keywords',
+    'italic' => 'Italic',
 
-'layout_group' => 'Group',
+    'keywords' => 'Keywords',
 
-'layout_removed' => 'Layout Removed.',
+    'layout_group' => 'Group',
 
-'layout_save_warning' => 'If you have altered your layout, the changes will not be saved.',
+    'layout_removed' => 'Layout Removed.',
 
-'line_break' => 'Line Break',
+    'layout_save_warning' => 'If you have altered your layout, the changes will not be saved.',
 
-'link' => 'Link',
+    'line_break' => 'Line Break',
 
-'live_view' => 'Click to View',
+    'link' => 'Link',
 
-'load_revision' => 'Load Revision',
+    'live_view' => 'Click to View',
 
-'localized_date' => 'Localized',
+    'load_revision' => 'Load Revision',
 
-'located_in' => 'Location:',
+    'localized_date' => 'Localized',
 
-'location' => 'Location',
+    'located_in' => 'Location:',
 
-'missing_comment' => 'You must submit a comment',
+    'location' => 'Location',
 
-'missing_date' => 'Your channel entry must have a date.',
+    'missing_comment' => 'You must submit a comment',
 
-'missing_title' => 'Your channel entry must have a title.',
+    'missing_date' => 'Your channel entry must have a date.',
 
-'move_comments_to_entry' => 'Move Comments to Entry',
+    'missing_title' => 'Your channel entry must have a title.',
 
-'move_selected' => 'Move Selected',
+    'move_comments_to_entry' => 'Move Comments to Entry',
 
-'multi_entries_updated' => 'Entrie(s) have been Updated',
+    'move_selected' => 'Move Selected',
 
-'multi_entry_category_editor' => 'Multi Entry Category Editor',
+    'multi_entries_updated' => 'Entrie(s) have been Updated',
 
-'multi_entry_editor' => 'Multi Entry Editor',
+    'multi_entry_category_editor' => 'Multi Entry Category Editor',
 
-'name' => 'Name',
+    'multi_entry_editor' => 'Multi Entry Editor',
 
-'new_entry' => 'New Entry',
+    'name' => 'Name',
 
-'newline_format' => 'Formatting:',
+    'new_entry' => 'New Entry',
 
-'no_autosave_data' => 'No Auto saved Entries',
+    'newline_format' => 'Formatting:',
 
-'no_categories' => 'No categories have been assigned to this channel.',
+    'no_autosave_data' => 'No Auto saved Entries',
 
-'no_categories_assigned' => 'No Categories Assigned',
+    'no_categories' => 'No categories have been assigned to this channel.',
 
-'no_categories_assigned_desc' => 'There are no categories assigned to this channel. <a href="%s">Assign a category group.</a>',
+    'no_categories_assigned' => 'No Categories Assigned',
 
-'no_category_group_match' => 'No Category Group Match was found for all of the entries. Please choose entries that have at least one category group in common.',
+    'no_categories_assigned_desc' => 'There are no categories assigned to this channel. <a href="%s" target="_blank">Assign a category group.</a>',
 
-'no_channel_exists' => 'You have tried to access a channel that does not exist.',
+    'no_category_group_match' => 'No Category Group Match was found for all of the entries. Please choose entries that have at least one category group in common.',
 
-'no_channels' => 'You have no channels assigned to you for this site.',
+    'no_channel_exists' => 'You have tried to access a channel that does not exist.',
 
-'no_channels_exist' => 'There are currently no channels',
+    'no_channels' => 'You have no channels assigned to you for this site.',
 
-'no_emoticons' => 'Unable to find the location of your emoticons',
+    'no_channels_exist' => 'There are currently no channels',
 
-'no_entries_exist' => 'No <b>Entries</b> found.',
+    'no_emoticons' => 'Unable to find the location of your emoticons',
 
-'no_entries_matching_that_criteria' => 'There are no entries matching the criteria you selected.',
+    'no_entries_exist' => 'No <b>Entries</b> found.',
 
-'no_glossary' => 'A glossary does not exist',
+    'no_entries_matching_that_criteria' => 'There are no entries matching the criteria you selected.',
 
-'no_member_groups' => 'You need to select at least one member group to apply/remove a layout.',
+    'no_glossary' => 'A glossary does not exist',
 
-'no_related_entries' => 'No entries exist for this related channel',
+    'no_member_roles' => 'You need to select at least one member role to apply/remove a layout.',
 
-'no_revisions' => 'There are currently no revisions for this entry.',
+    'no_related_entries' => 'No entries exist for this related channel',
 
-'no_smileys' => 'Unable to locate the smileys',
+    'no_revisions' => 'There are currently no revisions for this entry.',
 
-'no_spellcheck_lib' => 'Error: The Pspell Library does not appear to be installed.',
+    'no_smileys' => 'Unable to locate the smileys',
 
-'no_valid_selections' => 'No valid selections submitted',
+    'no_spellcheck_lib' => 'Error: The Pspell Library does not appear to be installed.',
 
-'non_image' => 'Non-image',
+    'no_valid_selections' => 'No valid selections submitted',
 
-'nonbr_space' => 'Non-breaking Space',
+    'non_image' => 'Non-image',
 
-'normal' => 'Normal',
+    'nonbr_space' => 'Non-breaking Space',
 
-'open' => 'Open',
+    'normal' => 'Normal',
 
-'open_selected' => 'Open Selected',
+    'open' => 'Open',
 
-'options' => 'Options',
+    'open_selected' => 'Open Selected',
 
-'order' => 'Order',
+    'options' => 'Options',
 
-'ordered_list' => 'Ordered List',
+    'order' => 'Order',
 
-'original' => 'Original',
+    'ordered_list' => 'Ordered List',
 
-'overwrite_instructions' => 'You can either choose a new name and the file will be renamed, or you can submit this form with the same name and the file will be overwritten.',
+    'original' => 'Original',
 
-'pages' => 'Pages',
+    'overwrite_instructions' => 'You can either choose a new name and the file will be renamed, or you can submit this form with the same name and the file will be overwritten.',
 
-'paragraph' => 'Paragraph',
+    'pages' => 'Pages',
 
-'past_day' => 'Last 24 hours',
+    'paragraph' => 'Paragraph',
 
-'past_month' => 'Last 30 days',
+    'past_day' => 'Last 24 hours',
 
-'past_six_months' => 'Last 180 days',
+    'past_month' => 'Last 30 days',
 
-'past_week' => 'Last 7 days',
+    'past_six_months' => 'Last 180 days',
 
-'past_year' => 'Last 365 days',
+    'past_week' => 'Last 7 days',
 
-'percent' => 'Percent',
+    'past_year' => 'Last 365 days',
 
-'pixels' => 'Pixels',
+    'percent' => 'Percent',
 
-'place_file' => 'Place File',
+    'pixels' => 'Pixels',
 
-'place_file_close' => 'Place File and Close Window',
+    'place_file' => 'Place File',
 
-'place_image' => 'Place Image',
+    'place_file_close' => 'Place File and Close Window',
 
-'place_image_close' => 'Place Image and Close Window',
+    'place_image' => 'Place Image',
 
-'popup_link' => 'Pop-up Image Link',
+    'place_image_close' => 'Place Image and Close Window',
 
-'popup_thumb' => 'Pop-up Thumbnail Link',
+    'popup_link' => 'Pop-up Image Link',
 
-'posted_by' => 'Author:',
+    'popup_thumb' => 'Pop-up Thumbnail Link',
 
-'pre' => 'Pre-formatted',
+    'posted_by' => 'Author:',
 
-'preview' => 'Preview',
+    'pre' => 'Pre-formatted',
 
-'preview_entry' => 'Preview Entry',
+    'preview' => 'Preview',
 
-'preview_layout' => 'Preview Layout',
+    'preview_entry' => 'Preview Entry',
 
-'publish' => 'Publish',
+    'preview_layout' => 'Preview Layout',
 
-'publish_another_entry' => 'Publish Another Entry',
+    'preview_url_not_set' => 'Preview URL is not set',
 
-'publish_form' => 'Publish Form',
+    'preview_url_not_set_desc' => "Please <a href='%s' target='_blank'>add Preview URL</a> setting to your channel preferences.",
 
-'publish_layout' => 'Publish Layout',
+    'preview_cannot_display' => 'Live Preview cannot be displayed',
 
-'refresh_layout' => 'Refresh Layout',
+    'preview_domain_mismatch_desc' => "Your Site URL is set to use <code>%1\$s</code> but you are accessing Control Panel from <code>%2\$s</code>.",
 
-'remove_categories' => 'Remove Categories',
+    'preview_protocol_mismatch_desc' => "Your Site URL is set to use <code>%1\$s</code> but you are accessing Control Panel with <code>%2\$s</code>.",
 
-'remove_layout' => 'Reset Layout',
+    'publish' => 'Publish',
 
-'resize_image' => 'Resize Image',
+    'publish_another_entry' => 'Publish Another Entry',
 
-'resize_original' => 'Resize the original image',
+    'publish_form' => 'Publish Form',
 
-'results_per_page' => 'Results Per Page',
+    'publish_layout' => 'Publish Layout',
 
-'return_to_publish' => 'Return to Publish',
+    'refresh_layout' => 'Refresh Layout',
 
-'revision' => 'Revision',
+    'remove_categories' => 'Remove Categories',
 
-'revision_saved' => 'Revision Saved',
+    'remove_layout' => 'Reset Layout',
 
-'revision_saved_desc' => 'Revision %d of <b>%s</b> has been saved.',
+    'resize_image' => 'Resize Image',
 
-'revision_warning' => 'You are about to load a previous revision. Any un-saved content currently in this page will be lost.',
+    'resize_original' => 'Resize the original image',
 
-'save_layout' => 'Save Layout',
+    'results_per_page' => 'Results Per Page',
 
-'save_revision' => 'Save Revision',
+    'return_to_publish' => 'Return to Publish',
 
-'search' => 'Search',
+    'revision' => 'Revision',
 
-'select_action' => 'Select Your Placement Options',
+    'revision_saved' => 'Revision Saved',
 
-'select_channel_to_edit' => 'Choose a channel to view',
+    'revision_saved_desc' => 'Revision %d of <b>%s</b> has been saved.',
 
-'select_channel_to_post_in' => 'Choose a channel to post in',
+    'revision_warning' => 'You are about to load a previous revision. Any un-saved content currently in this page will be lost.',
 
-'select_destination_dir' => 'Select a destination directory',
+    'save_layout' => 'Save Layout',
 
-'selection_required' => 'At least one selection is required to submit',
+    'save_revision' => 'Save Revision',
 
-'show_all' => 'Show All',
+    'search' => 'Search',
 
-'show_toolbar' => 'show toolbar',
+    'select_action' => 'Select Your Placement Options',
 
-'spam' => 'SPAM',
+    'select_channel_to_edit' => 'Choose a channel to view',
 
-'spam_comments' => 'There are <b>%d comments</b> flagged as potential spam that <a href="%s">need moderation</a>.',
+    'select_channel_to_post_in' => 'Choose a channel to post in',
 
-'spam_comments_header' => 'Spam Comments',
+    'select_destination_dir' => 'Select a destination directory',
 
-'span' => 'Span',
+    'selection_required' => 'At least one selection is required to submit',
 
-'spell_check' => 'Spell Checker',
+    'show_all' => 'Show All',
 
-'start_date' => 'Start',
+    'show_toolbar' => 'show toolbar',
 
-'status' => 'Status',
+    'spam' => 'SPAM',
 
-'status_changed' => 'Status Changed',
+    'spam_comments' => 'There are <b>%d comments</b> flagged as potential spam that <a href="%s">need moderation</a>.',
 
-'tab_count_zero' => 'There needs to be at least one tab available to hold fields.',
+    'spam_comments_header' => 'Spam Comments',
 
-'tab_has_req_field' => 'The tab may not be deleted while it contains the following required fields: ',
+    'span' => 'Span',
 
-'tabs' => 'Tabs',
+    'spell_check' => 'Spell Checker',
 
-'there_are_required_fields1' => 'There are ',
+    'start_date' => 'Start',
 
-'there_are_required_fields2' => ' unfilled required fields.',
+    'status' => 'Status',
 
-'this_entry_will_appear_in' => 'This entry will appear in:',
+    'status_changed' => 'Status Changed',
 
-'thumb_info' => 'If you do not wish to resize or create a thumb skip to the options below',
+    'tab_count_zero' => 'There needs to be at least one tab available to hold fields.',
 
-'thumb_instructions' => 'You may optionally resize your image or create an image thumbnail.',
+    'tab_has_req_field' => 'The tab may not be deleted while it contains the following required fields: ',
 
-'thumb_settings' => 'Image Settings',
+    'tabs' => 'Tabs',
 
-'thumbnail_created' => 'Thumbnail Created',
+    'there_are_required_fields1' => 'There are ',
 
-'title' => 'Title',
+    'there_are_required_fields2' => ' unfilled required fields.',
 
-'titles' => 'Titles',
+    'this_entry_will_appear_in' => 'This entry will appear in:',
 
-'titles_and_content' => 'Titles & Content',
+    'thumb_info' => 'If you do not wish to resize or create a thumb skip to the options below',
 
-'title_not_unique' => 'An entry already exists with this title. Titles must be unique.',
+    'thumb_instructions' => 'You may optionally resize your image or create an image thumbnail.',
 
-'today' => 'Today',
+    'thumb_settings' => 'Image Settings',
 
-'unable_to_create_url_title' => 'Unable to create valid URL Title for your entry',
+    'thumbnail_created' => 'Thumbnail Created',
 
-'unauthorized_for_any_channels' => 'You are not authorized to post channel entries',
+    'title' => 'Title',
 
-'unauthorized_for_this_channel' => 'You are not authorized to post in this channel',
+    'titles' => 'Titles',
 
-'unauthorized_to_delete_others' => 'You are only authorized to delete channel entries that you authored',
+    'titles_and_content' => 'Titles & Content',
 
-'unauthorized_to_delete_self' => 'You are not authorized to delete your own channel entries',
+    'title_not_unique' => 'An entry already exists with this title. Titles must be unique.',
 
-'unauthorized_to_edit' => 'You are not allowed to edit the entries you selected.',
+    'today' => 'Today',
 
-'unordered_list' => 'Unordered List',
+    'unable_to_create_url_title' => 'Unable to create valid URL Title for your entry',
 
-'unpublished' => 'unpublished',
+    'unauthorized_for_any_channels' => 'You are not authorized to post channel entries',
 
-'upload' => 'Upload',
+    'unauthorized_for_this_channel' => 'You are not authorized to post in this channel',
 
-'upload_dir_choose' => 'Choose an upload directory',
+    'unauthorized_to_delete_others' => 'You are only authorized to delete channel entries that you authored',
 
-'upload_file' => 'Upload File',
+    'unauthorized_to_delete_self' => 'You are not authorized to delete your own channel entries',
 
-'upload_to' => 'Upload to %s',
+    'unauthorized_to_edit' => 'You are not allowed to edit the entries you selected.',
 
-'url' => 'URL',
+    'unordered_list' => 'Unordered List',
 
-'url_only' => 'URL Only',
+    'unpublished' => 'unpublished',
 
-'url_title_is_index' => 'The URL Title cannot be called \'index\'',
+    'upload' => 'Upload',
 
-'url_title_is_numeric' => 'Numbers cannot be used as URL Titles',
+    'upload_dir_choose' => 'Choose an upload directory',
 
-'url_title_not_unique' => 'This URL title is being used by <b><a href="%s" rel="external">%s</a></b>. URL titles must be unique.',
+    'upload_file' => 'Upload File',
 
-'url_title_not_unique_frontend' => 'This URL title is being used by another entry. URL titles must be unique.',
+    'upload_to' => 'Upload to %s',
 
-'version_preview' => 'Revision Number %s',
+    'url' => 'URL',
 
-'versioning_enabled' => 'Enable entry revisions?',
+    'url_only' => 'URL Only',
 
-'versioning_enabled_desc' => 'When enabled, you can store up to %d revisions of this entry.',
+    'url_title_is_index' => 'The URL Title cannot be called \'index\'',
 
-'view' => 'View',
+    'url_title_is_numeric' => 'Numbers cannot be used as URL Titles',
 
-'view_comments' => 'View Comments',
+    'url_title_not_unique' => 'This URL title is being used by <b><a href="%s" rel="external">%s</a></b>. URL titles must be unique.',
 
-'view_entry' => 'View Entry',
+    'url_title_not_unique_frontend' => 'This URL title is being used by another entry. URL titles must be unique.',
 
-'view_filtered' => 'Return to Filtered Entries',
+    'version_preview' => 'Revision Number %s',
 
-'view_wider' => 'View Wider',
+    'versioning_enabled' => 'Enable entry revisions?',
 
-'warning' => 'Warning',
+    'versioning_enabled_desc' => 'When enabled, you can store up to %d revisions of this entry.',
 
-'width' => 'Width',
+    'view' => 'View',
 
-'you_have_uploaded' => 'You have uploaded the following file:',
+    'view_comments' => 'View Comments',
 
+    'view_entry' => 'View Entry',
 
-/* Textarea Buttons */
-'create_blockquote' => 'create blockquote',
+    'view_filtered' => 'Return to Filtered Entries',
 
-'create_hyperlink' => 'create hyperlink',
+    'view_wider' => 'View Wider',
 
-'create_ordered_list' => 'create ordered list',
+    'warning' => 'Warning',
 
-'create_unordered_list' => 'create unordered list',
+    'width' => 'Width',
 
-'launch_writemode' => 'launch writemode',
+    'you_have_uploaded' => 'You have uploaded the following file:',
 
-'make_bold' => 'make bold',
+    /* Textarea Buttons */
+    'create_blockquote' => 'create blockquote',
 
-'make_italic' => 'make italic',
+    'create_hyperlink' => 'create hyperlink',
 
-'open_emoji' => 'open emoji',
+    'create_ordered_list' => 'create ordered list',
 
-'open_glossary' => 'open glossary',
+    'create_unordered_list' => 'create unordered list',
 
-'open_spellcheck' => 'open spellcheck',
+    'launch_writemode' => 'launch writemode',
 
-'view_code' => 'view code',
+    'make_bold' => 'make bold',
 
+    'make_italic' => 'make italic',
 
-/* Relationships */
-'add_new_html_button' => 'Add New HTML button',
+    'open_emoji' => 'open emoji',
 
-'add_new_row' => 'Add new row',
+    'open_glossary' => 'open glossary',
 
-'collapse' => 'Collapse',
+    'open_spellcheck' => 'open spellcheck',
 
-'creating_new_in_rel' => 'Creating new entry in <b>#to_channel#</b> for a relationship with <b>#from_channel#</b>',
+    'view_code' => 'view code',
 
-'hide' => 'Hide',
+    /* Relationships */
+    'add_new_html_button' => 'Add New HTML button',
 
-'item_to_relate_with' => 'Item to <strong>relate with</strong> this entry.',
+    'add_new_row' => 'Add new row',
 
-'items_related_to' => 'Items <strong>related to</strong> this entry.',
+    'add_row' => 'Add Row',
 
-'items_to_relate_with' => 'Items to <strong>relate with</strong> this entry.',
+    'collapse' => 'Collapse',
 
-'no_entries_found' => 'No <b>entries</b> found',
+    'collapse_all' => 'Collapse All',
 
-'no_entries_related' => 'No <b>entries</b> related.',
+    'expand' => 'Expand',
 
-'no_entry_related' => 'No <b>entry</b> related.',
+    'expand_all' => 'Expand All',
 
-'no_rows_created' => 'No rows created',
+    'creating_new_in_rel' => 'Creating new entry in <b>#to_channel#</b> for a relationship with <b>#from_channel#</b>',
 
-'remove_relationship' => 'Remove Relationship',
+    'hide' => 'Hide',
 
-'remove_row' => 'remove row',
+    'item_to_relate_with' => 'Item to <strong>relate with</strong> this entry.',
 
-'search_available_entries' => 'Search available entries',
+    'items_related_to' => 'Items <strong>related to</strong> this entry.',
 
-'search_related_entries' => 'Search related entries',
+    'items_to_relate_with' => 'Items to <strong>relate with</strong> this entry.',
 
-'show_tools' => 'Show Tools',
+    'no_entries_found' => 'No <b>entries</b> found',
 
+    'no_entries_related' => 'No <b>entries</b> related.',
 
-/* writemode */
-'add_file' => 'Add File',
+    'no_entry_related' => 'No <b>entry</b> related.',
 
-'comment_moved' => 'Comment moved',
+    'no_rows_created' => 'No rows created',
 
-'comments_moved' => 'Comments moved',
+    'remove_relationship' => 'Remove Relationship',
 
-'crop' => 'Crop',
+    'remove_row' => 'remove row',
 
-'crop_height' => 'Height',
+    'search_available_entries' => 'Search available entries',
 
-'crop_width' => 'Width',
+    'search_related_entries' => 'Search related entries',
 
-'crop_x' => 'X',
+    'show_tools' => 'Show Tools',
 
-'crop_y' => 'Y',
+    /* writemode */
+    'add_file' => 'Add File',
 
-'directory_no_access' => 'You do not have access to the directory specified for this field',
+    'comment_moved' => 'Comment moved',
 
-'edit_image' => 'Edit Image',
+    'comments_moved' => 'Comments moved',
 
-'edit_modes' => 'Edit Modes',
+    'crop' => 'Crop',
 
-'field_not_editable' => 'This field may not be edited.',
+    'crop_height' => 'Height',
 
-'invalid_date' => 'The date you submitted is not valid.',
+    'crop_width' => 'Width',
 
-'invalid_date_ambiguous' => 'The date you submitted is ambiguous, please either use a four digit year or use slashes instead of dashes.',
+    'crop_x' => 'X',
 
-'invalid_selection' => 'Invalid Selection',
+    'crop_y' => 'Y',
 
-'layout_failure' => 'There was a problem saving your layout.',
+    'directory_no_access' => 'You do not have access to the directory specified for this field',
 
-'layout_failure_invalid_name' => 'The following fields have invalid characters in the short names: ',
+    'edit_image' => 'Edit Image',
 
-'layout_failure_required' => 'The following fields are required and may not be hidden: ',
+    'edit_modes' => 'Edit Modes',
 
-'layout_preview' => 'You&rsquo;re previewing the Publish Layout for ',
+    'field_not_editable' => 'This field may not be edited.',
 
-'layout_success' => 'Layout successfully saved.',
+    'invalid_date' => 'The date you submitted is not valid.',
 
-'maintain_ratio' => 'Maintain Aspect Ratio',
+    'invalid_date_ambiguous' => 'The date you submitted is ambiguous, please either use a four digit year or use slashes instead of dashes.',
 
-'member_group' => 'Member Group',
+    'invalid_selection' => 'Invalid Selection',
 
-'no_entry_to_update' => 'You have tried to update an entry that does not exist.',
+    'layout_failure' => 'There was a problem saving your layout.',
 
-'no_templates' => 'No Templates',
+    'layout_failure_invalid_name' => 'The following fields have invalid characters in the short names: ',
 
-'remove_file' => 'Remove File',
+    'layout_failure_required' => 'The following fields are required and may not be hidden: ',
 
-'resize' => 'Resize',
+    'layout_preview' => 'You&rsquo;re previewing the Publish Layout for ',
 
-'resize_height' => 'Height',
+    'layout_success' => 'Layout successfully saved.',
 
-'resize_width' => 'Width',
+    'maintain_ratio' => 'Maintain Aspect Ratio',
 
-'rotate' => 'Rotate',
+    'member_group' => 'Member Group',
 
-'rotate_180' => '180&#176',
+    'no_entry_to_update' => 'You have tried to update an entry that does not exist.',
 
-'rotate_90l' => '90 degrees, left',
+    'no_templates' => 'No Templates',
 
-'rotate_90r' => '90 degrees, right',
+    'remove_file' => 'Remove File',
 
-'rotate_flip_hor' => 'Flip horizontally',
+    'resize' => 'Resize',
 
-'rotate_flip_vert' => 'Flip vertically',
+    'resize_height' => 'Height',
 
-'screen_name' => 'Screen Name',
+    'resize_width' => 'Width',
 
-'search_entries' => 'Search Entries',
+    'rotate' => 'Rotate',
 
-'unable_to_load_tab' => 'Unable to load requested publish tab file: %s',
+    'rotate_180' => '180&#176',
 
-'width_needed' => 'A width or width/height must be selected',
+    'rotate_90l' => '90 degrees, left',
 
-'wm_discard_changes' => 'Discard Changes',
+    'rotate_90r' => '90 degrees, right',
 
-'wm_publish_to_field' => 'Publish to Field',
+    'rotate_flip_hor' => 'Flip horizontally',
 
+    'rotate_flip_vert' => 'Flip vertically',
 
-/* Publish Tabs */
-'menu_categories' => 'Categories',
+    'screen_name' => 'Screen Name',
 
-'menu_date' => 'Date',
+    'search_entries' => 'Search Entries',
 
-'menu_forum' => 'Forums',
+    'unable_to_load_tab' => 'Unable to load requested publish tab file: %s',
 
-'menu_options' => 'Options',
+    'width_needed' => 'A width or width/height must be selected',
 
-'menu_pages' => 'Pages',
+    'wm_discard_changes' => 'Discard Changes',
 
-'menu_publish' => 'Publish',
+    'wm_publish_to_field' => 'Publish to Field',
 
-'rel_ft_no_entries' => 'No Entries',
+    /* Publish Tabs */
+    'menu_categories' => 'Categories',
 
-/* Bulk Edit */
+    'menu_date' => 'Date',
 
-'add_categories' => 'Add Categories',
+    'menu_forum' => 'Forums',
 
-'add_categories_entries' => 'Add categories to %d entries',
+    'menu_options' => 'Options',
 
-'add_editable_fields' => 'Add editable fields',
+    'menu_pages' => 'Pages',
 
-'add_editable_fields_desc' => 'Chosen fields will be added below, and will be editable for <b>all</b> selected entries.',
+    'menu_publish' => 'Publish',
 
-'btn_save_all_and_close' => 'Save All & Close',
+    'rel_ft_no_entries' => 'No Entries',
 
-'editing_entries' => 'Editing %d entries',
+    /* Bulk Edit */
 
-'entries_updated' => '%d entries have been updated.',
+    'add_categories' => 'Add Categories',
 
-'filter_selected_entries' => 'Filter selected entries',
+    'add_categories_entries' => 'Add categories to %d entries',
 
-'no_cat_groups_in_common' => 'No <b>Category Groups</b> in common.',
+    'add_editable_fields' => 'Add editable fields',
 
-'bulk_edit' => 'Bulk Edit',
+    'add_editable_fields_desc' => 'Chosen fields will be added below, and will be editable for <b>all</b> selected entries.',
 
-'bulk_edit_add_categories_notice' => 'Any categories selected will be assigned to the selected entries <b>in addition</b> to the current category selection for those entries.',
+    'btn_save_all_and_close' => 'Save All & Close',
 
-'bulk_edit_destructive' => 'This is a destructive and irreversible action.',
+    'editing_entries' => 'Editing %d entries',
 
-'bulk_edit_notice' => 'Any fields submitted will overwrite that field\'s stored content for all selected entries.',
+    'entries_updated' => '%d entries have been updated.',
 
-'bulk_edit_remove_categories_notice' => 'Any categories selected will be <b>removed</b> from the selected entries, leaving the entries\' other category assignments intact.',
+    'filter_selected_entries' => 'Filter selected entries',
 
-'remove_categories' => 'Remove Categories',
+    'no_cat_groups_in_common' => 'No <b>Category Groups</b> in common.',
 
-'remove_categories_entries' => 'Remove categories from %d entries',
+    'bulk_edit' => 'Bulk Edit',
 
-'remove_from_selection' => 'Remove from selection',
+    'bulk_edit_add_categories_notice' => 'Any categories selected will be assigned to the selected entries <b>in addition</b> to the current category selection for those entries.',
 
-'save_and_next' => 'Save & Next',
+    'bulk_edit_destructive' => 'This is a destructive and irreversible action.',
 
-'selected_entries' => 'Selected Entries',
+    'bulk_edit_notice' => 'Any fields submitted will overwrite that field\'s stored content for all selected entries.',
 
-'showing' => 'Showing',
+    'bulk_edit_remove_categories_notice' => 'Any categories selected will be <b>removed</b> from the selected entries, leaving the entries\' other category assignments intact.',
 
-'unauthorized_entry_desc' => 'You do not have permission to edit one of the selected entries.'
+    'remove_categories' => 'Remove Categories',
+
+    'remove_categories_entries' => 'Remove categories from %d entries',
+
+    'remove_from_selection' => 'Remove from selection',
+
+    'save_and_next' => 'Save & Next',
+
+    'selected_entries' => 'Selected Entries',
+
+    'showing' => 'Showing',
+
+    'unauthorized_entry_desc' => 'You do not have permission to edit one of the selected entries.',
+
+    /* Entry Manager */
+
+    'entry_manager_view_created' => 'View Created',
+
+    'entry_manager_view_created_desc' => 'The view <b>%s</b> has been created.',
+
+    'entry_manager_view_updated' => 'View Updated',
+
+    'entry_manager_view_updated_desc' => 'The view <b>%s</b> has been updated.',
+
+    'entry_manager_view_not_created' => 'Cannot Create View',
+
+    'entry_manager_view_not_created_desc' => 'We were unable to create this view, please review and fix errors below.',
+
+    'entry_manager_view_not_updated' => 'Cannot Update View',
+
+    'entry_manager_view_not_updated_desc' => 'We were unable to update this view, please review and fix errors below.',
 
 );
 

@@ -2,77 +2,79 @@
 
 $lang = array(
 
-'and' => 'and',
+    'and' => 'and',
 
-'are' => 'are',
+    'are' => 'are',
 
-'awaiting_moderation' => 'awaiting moderation',
+    'awaiting_moderation' => 'awaiting moderation',
 
-'banned_members' => 'Banned Members',
+    'banned_members' => 'Banned Members',
 
-'channels' => 'Channels',
+    'channels' => 'Channels',
 
-'channels_desc' => 'Channels are used to store content for your website. For example, if you want a blog you would first need to create a Channel to store the entries. Think of Channels as folders or directories.',
+    'channels_desc' => 'Channels are used to store content for your website. For example, if you want a blog you would first need to create a Channel to store the entries. Think of Channels as folders or directories.',
 
-'closed_entries_with_comments' => '<b>%d</b> Closed entries with %d comments.',
+    'closed_entries_with_comments' => '<b>%d</b> Closed entries with %d comments.',
 
-'comments' => 'Comments',
+    'comments' => 'Comments',
 
-'content' => 'Content',
+    'content' => 'Content',
 
-'content_desc' => 'Channel entries, why folks visit.',
+    'content_desc' => 'Channel entries, why folks visit.',
 
-'create_new' => 'Create New',
+    'create_new' => 'Create New',
 
-'eecms_news' => 'ExpressionEngine News',
+    'eecms_news' => 'ExpressionEngine News',
 
-'entries_with_comments' => '<b>%d</b> Entries with %d comments',
+    'entries_with_comments' => '<b>%d</b> Entries with %d comments',
 
-'field_groups' => 'Field Groups',
+    'field_groups' => 'Field Groups',
 
-'flagged_as_spam' => 'flagged as potential spam',
+    'flagged_as_spam' => 'flagged as spam',
 
-'has' => 'has',
+    'commented_on' => 'commented on',
 
-'have_been' => 'have been',
+    'has' => 'has',
 
-'latest_news_and_articles' => 'Latest News and Articles',
+    'have_been' => 'have been',
 
-'members' => 'Members',
+    'latest_news_and_articles' => 'Latest News and Articles',
 
-'members_desc' => 'Members are registered users of your site. You <em>must</em> have at least one member, an administrator.',
+    'members' => 'Members',
 
-'new_comments' => '<em>new</em> comments',
+    'members_desc' => 'Members are registered users of your site. You <em>must</em> have at least one member, an administrator.',
 
-'new_members_permission_desc' => 'You may <a href="%s">change the settings</a> to allow or disallow, new member registrations.',
+    'new_comments' => 'new comments',
 
-'new_spam' => '<em>new</em> items in the Spam queue',
+    'new_members_permission_desc' => 'You may <a href="%s">change the settings</a> to allow or disallow, new member registrations.',
 
-'news_fetch_failure' => 'Oops, we couldn\'t fetch the news.',
+    'new_spam' => 'new items in the Spam queue',
 
-'overview' => 'Overview',
+    'news_fetch_failure' => 'Oops, we couldn\'t fetch the news.',
 
-'register_new' => 'Register New',
+    'overview' => 'Overview',
 
-'review_all' => 'Review All',
+    'register_new' => 'Register New',
 
-'review_all_new' => 'Review All New',
+    'review_all' => 'Review All',
 
-'rss' => 'RSS',
+    'review_all_new' => 'Review All New',
 
-'search_content' => 'search content',
+    'rss' => 'RSS',
 
-'settings' => 'settings',
+    'search_content' => 'search content',
 
-'since_last_login' => 'since your last login',
+    'settings' => 'settings',
 
-'spam' => 'Spam',
+    'since_last_login' => 'since your last login',
 
-'there_are' => 'There are',
+    'spam' => 'Spam',
 
-'there_were' => 'There were',
+    'there_are' => 'There are',
 
-'type_phrase' => 'type phrase...',
+    'there_were' => 'There were',
+
+    'type_phrase' => 'type phrase...',
 
 );
 

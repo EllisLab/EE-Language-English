@@ -2,322 +2,272 @@
 
 $lang = array(
 
-'available_tool_sets' => 'Available Tool Sets',
+    // Settings
+    'rte_file_browser' => 'File Browser',
+    'rte_file_browser_desc' => 'Which file browser should be used when browsing for images and files from your RTE fields?',
 
-'btn_save_settings' => 'Save Settings',
+    // Configs
+    'rte_clone' => 'Clone',
+    'rte_no_configs' => 'There are currently no configurations.',
 
-'choose_tools' => 'Include tools',
+    // Edit Config
+    'rte_basic_settings' => 'Basic Settings',
+    'rte_create_config' => 'Create a New Configuration',
+    'rte_edit_config' => 'Edit Configuration',
+    'rte_config_settings' => 'Configuration Settings',
+    'rte_config_name' => 'Configuration Name',
+    'rte_toolbar' => 'Customize the Toolbar',
+    'rte_height' => 'Height',
+    'rte_upload_dir' => 'Upload Directory',
+    'rte_advanced_settings' => 'Advanced Settings',
+    'rte_config_saved' => 'Configuration Saved!',
+    'rte_config_saved_desc' => 'Your configuration saved successfully.',
 
-'configuration' => 'Configuration',
+    // Delete Config
+    'rte_delete_config' => 'Delete Configuration',
+    'rte_delete_config_confirm' => 'Are you sure you want to permanently delete this configuration?',
+    'rte_config_deleted' => 'Configuration Deleted',
+    'rte_config_deleted_desc' => 'Your configuration was deleted successfully.',
 
-'create_new' => 'create new',
+    // -------------------------------------------
+    //  Field Settings
+    // -------------------------------------------
 
-'create_tool_set' => 'Create Tool Set',
+    'rte_editor_config' => 'Editor Configuration',
+    'rte_edit_configs' => 'Edit&nbsp;Configurations',
+    'rte_defer' => 'Defer CKEditor initialization?',
+    'rte_defer_desc' => 'If you select “Yes”, RTE won’t initialize CKEditor until the field is clicked on.',
 
-'create_tool_set_header' => 'Create <abbr title="Rich Text Editor">RTE</abbr> Tool Set',
+    // RTE
 
-'edit_tool_set' => 'Edit Tool Set',
+    'available_tool_sets' => 'Available Tool Sets',
 
-'edit_tool_set_header' => 'Edit <abbr title="Rich Text Editor">RTE</abbr> Tool Set',
+    'btn_save_settings' => 'Save Settings',
 
-'no_tool_sets' => 'No Tool Sets Found',
+    'choose_tools' => 'Include tools',
 
-'rte_module_description' => 'Enables rich text editing in text areas',
+    'configuration' => 'Configuration',
 
-'rte_module_name' => 'Rich Text Editor',
+    'create_new' => 'Create New',
 
-'status' => 'Status',
+    'create_tool_set' => 'Create Tool Set',
 
-'tool_set' => 'Tool Set',
+    'create_tool_set_header' => 'Create <abbr title="Rich Text Editor">RTE</abbr> Tool Set',
 
-'tool_set_name' => 'Name',
+    'edit_tool_set' => 'Edit Tool Set',
 
+    'edit_tool_set_header' => 'Edit <abbr title="Rich Text Editor">RTE</abbr> Tool Set',
 
-/* Headings */
-'create_new_toolset' => 'Create a New Tool Set',
+    'no_tool_sets' => 'No Tool Sets Found',
 
-'edit_my_toolset' => 'Edit My Tool Set',
+    'rte_module_description' => '',
 
-'edit_toolset' => 'Edit Tool Set',
+    'rte_module_name' => 'Rich Text Editor',
 
-'my_toolset' => 'My Tool Set',
+    'status' => 'Status',
 
-'nav_rte_settings' => 'Rich Text Editor Settings',
+    'tool_set' => 'Tool Set',
 
-'nav_rte_settings_short_desc' => 'Manage Rich Text Editor Tools and Tool Sets',
+    'tool_set_name' => 'Name',
 
-'rte_prefs' => 'Rich Text Editor Preferences',
+    /* Headings */
+    'create_new_toolset' => 'Create a New Tool Set',
 
-'rte_settings' => 'Site Preferences',
+    'edit_my_toolset' => 'Edit My Tool Set',
 
-'tools' => 'Tools',
+    'edit_toolset' => 'Edit Tool Set',
 
-'toolsets' => 'Tool Sets',
+    'my_toolset' => 'My Tool Set',
 
+    'nav_rte_settings' => 'Rich Text Editor Settings',
 
-/* Snippets */
-'cancel' => 'Cancel',
+    'nav_rte_settings_short_desc' => 'Manage Rich Text Editor Tools and Tool Sets',
 
-'delete' => 'Delete',
+    'rte_prefs' => 'Rich Text Editor Preferences',
 
-'disable_button' => 'Disable',
+    'rte_settings' => 'Site Preferences',
 
-'disable_rte' => 'Disable Rich Text Editor',
+    'tools' => 'Tools',
 
-'disabled' => 'Disabled',
+    'toolsets' => 'Tool Sets',
 
-'enable_button' => 'Enable',
+    /* Snippets */
+    'cancel' => 'Cancel',
 
-'enable_rte' => 'Enable rich text editor?',
+    'delete' => 'Delete',
 
-'enable_rte_desc' => 'When enabled, registered users will be able to use the Rich Text Editor to create new content.',
+    'tool' => 'Tool',
 
-'enabled' => 'Enabled',
+    'toolset' => 'Tool Set',
 
-'tool' => 'Tool',
+    /* Flashes */
 
-'toolset' => 'Tool Set',
+    'cannot_remove_default_toolset' => 'The default RTE tool set cannot be removed',
 
+    'disable_fail_desc' => 'The following tool sets were <b>not</b> disabled',
 
-/* Flashes */
-'cannot_disable_default_toolset' => 'The default RTE tool set cannot be disabled',
+    'disable_success_desc' => 'The following tool sets were disabled',
 
-'cannot_remove_default_toolset' => 'The default RTE tool set cannot be removed',
+    'enable_fail_desc' => 'The following tool sets were <b>not</b> enabled',
 
-'disable_fail_desc' => 'The following tool sets were <b>not</b> disabled',
+    'enable_success_desc' => 'The following tool sets were enabled',
 
-'disable_success_desc' => 'The following tool sets were disabled',
+    'name_required' => 'The tool set name is required.',
 
-'enable_fail_desc' => 'The following tool sets were <b>not</b> enabled',
+    'remove_fail_desc' => 'The following tool sets were <b>not</b> removed',
 
-'enable_success_desc' => 'The following tool sets were enabled',
+    'remove_success_desc' => 'The following tool sets were removed',
 
-'name_required' => 'The tool set name is required.',
+    'settings_error' => 'Error saving settings',
 
-'remove_fail_desc' => 'The following tool sets were <b>not</b> removed',
+    'settings_error_desc' => 'Your Rich Text Editor Settings could not be saved. Please try again.',
 
-'remove_success_desc' => 'The following tool sets were removed',
+    'settings_saved' => 'Settings saved',
 
-'settings_error' => 'Error saving settings',
+    'settings_saved_desc' => 'Your Rich Text Editor Settings have been saved.',
 
-'settings_error_desc' => 'Your Rich Text Editor Settings could not be saved. Please try again.',
+    'tool_updated' => 'Tool updated',
 
-'settings_saved' => 'Settings saved',
+    'toolset_created' => 'Tool set created',
 
-'settings_saved_desc' => 'Your Rich Text Editor Settings have been saved.',
+    'toolset_created_desc' => '<b>%s</b> has been successfully created.',
 
-'tool_update_failed' => 'Tool update failed. Please try again.',
+    'toolset_updated_desc' => '<b>%s</b> has been successfully updated.',
 
-'tool_updated' => 'Tool updated',
+    'toolset_deleted' => 'Tool set deleted successfully.',
 
-'toolset_created' => 'Tool set created',
+    'toolset_edit_failed' => 'Tool set could not be opened for editing.',
 
-'toolset_created_desc' => '<b>%s</b> has been successfully created.',
+    'toolset_error' => 'Tool set error',
 
-'toolset_deleted' => 'Tool set deleted successfully.',
+    'toolset_error_desc' => 'We were unable to save the tool set, please review and fix errors below.',
 
-'toolset_edit_failed' => 'Tool set could not be opened for editing.',
+    'toolset_not_deleted' => 'Tool set could not be deleted.',
 
-'toolset_error' => 'Tool set error',
+    'toolset_update_failed' => 'Tool set update failed. Please try again.',
 
-'toolset_error_desc' => 'We were unable to save the tool set, please review and fix errors below.',
+    'toolset_updated' => 'Tool set updated',
 
-'toolset_not_deleted' => 'Tool set could not be deleted.',
+    'toolsets_removed' => 'Tool sets removed',
 
-'toolset_update_failed' => 'Tool set update failed. Please try again.',
+    'toolsets_removed_desc' => '%d tool sets were removed.',
 
-'toolset_updated' => 'Tool set updated',
+    'toolsets_updated' => 'Tool sets updated',
 
-'toolsets_disabled' => '%d tool sets were disabled.',
+    'unique_name_required' => 'The tool set name must be unique.',
 
-'toolsets_enabled' => '%d tool sets were enabled.',
+    'valid_name_required' => 'The tool set name must not include special characters.',
 
-'toolsets_removed' => 'Tool sets removed',
+    'valid_url_required' => 'A valid URL is required.',
 
-'toolsets_removed_desc' => '%d tool sets were removed.',
+    /* Labels */
+    'available_tools' => 'Available Tools (not being used)',
 
-'toolsets_updated' => 'Tool sets updated',
+    'default_toolset' => 'Default <abbr title="Rich Text Editor">RTE</abbr> tool set',
 
-'unique_name_required' => 'The tool set name must be unique.',
+    'default_toolset_details' => 'Shown for users that have not created their own or chosen another.',
 
-'valid_name_required' => 'The tool set name must not include special characters.',
+    'enable_rte_for_field' => 'Enable Rich Text Editor',
 
-'valid_url_required' => 'A valid URL is required.',
+    'enable_rte_globally' => 'Enable Rich Text Editor',
 
+    'enable_rte_in_forum' => 'Enable the Rich Text Editor for use in the Forums?',
 
-/* Labels */
-'available_tools' => 'Available Tools (not being used)',
+    'enable_rte_myaccount' => 'Enable Rich Text Editor',
 
-'default_toolset' => 'Default <abbr title="Rich Text Editor">RTE</abbr> tool set',
+    'rte_image_caption' => 'Image Caption:',
 
-'default_toolset_details' => 'Shown for users that have not created their own or chosen another.',
+    'rte_relationship' => 'Relationship',
 
-'enable_rte_for_field' => 'Enable Rich Text Editor',
+    'rte_selection_error' => 'Please select some text or images first.',
 
-'enable_rte_globally' => 'Enable Rich Text Editor',
+    'rte_title' => 'Title',
 
-'enable_rte_in_forum' => 'Enable the Rich Text Editor for use in the Forums?',
+    'rte_url' => 'URL',
 
-'enable_rte_myaccount' => 'Enable Rich Text Editor',
+    'tools_in_toolset' => 'In This Tool set',
 
-'rte_image_caption' => 'Image Caption:',
+    'toolset_builder_instructions' => 'Select one or more tools and drag them to the desired location.',
 
-'rte_relationship' => 'Relationship',
+    'toolset_builder_label' => 'Which tools should be availble in this Tool set?',
 
-'rte_selection_error' => 'Please select some text or images first.',
+    'toolset_name' => 'Tool set Name',
 
-'rte_title' => 'Title',
+    /* tool names */
 
-'rte_url' => 'URL',
+    'paragraph_rte' => 'Paragraph',
 
-'tools_in_toolset' => 'In This Tool set',
+    'heading_h1_rte' => 'Heading H1',
 
-'toolset_builder_instructions' => 'Select one or more tools and drag them to the desired location.',
+    'heading_h2_rte' => 'Heading H2',
 
-'toolset_builder_label' => 'Which tools should be availble in this Tool set?',
+    'heading_h3_rte' => 'Heading H3',
 
-'toolset_name' => 'Tool set Name',
+    'heading_h4_rte' => 'Heading H4',
 
+    'heading_h5_rte' => 'Heading H5',
 
-/* Tool names (based on class name) */
-'blockquote_rte' => 'Quote',
+    'heading_h6_rte' => 'Heading H6',
 
-'blockquote_rte_desc' => 'uses <blockquote>',
+    'bold_rte' => 'Bold',
 
-'bold_rte' => 'Bold',
+    'italic_rte' => 'Italic',
 
-'bold_rte_desc' => 'uses <b>',
+    'strikethrough_rte' => 'Strikethrough',
 
-'headings_rte' => 'Headings',
+    'underline_rte' => 'Underline',
 
-'headings_rte_desc' => 'uses <h*>',
+    'subscript_rte' => 'Subscript',
 
-'image_rte' => 'Image',
+    'superscript_rte' => 'Superscript',
 
-'image_rte_desc' => 'uses <img>',
+    'code_rte' => 'Code',
 
-'italic_rte' => 'Italic',
+    'blockquote_rte' => 'Block quote',
 
-'italic_rte_desc' => 'uses <i>',
+    'heading_rte' => 'Heading',
 
-'link_rte' => 'Link',
+    'removeFormat_rte' => 'Remove formatting',
 
-'link_rte_desc' => '<a href="">',
+    'undo_rte' => 'Undo',
 
-'ordered_list_rte' => 'Numbered List',
+    'redo_rte' => 'Redo',
 
-'ordered_list_rte_desc' => 'uses <ol>',
+    'numberedList_rte' => 'Numbered list',
 
-'preferences_rte' => 'Preferences',
+    'bulletedList_rte' => 'Bulleted list',
 
-'strip_tags_rte' => 'Clear Formatting',
+    'outdent_rte' => 'Decrease indent',
 
-'underline_rte' => 'Underline',
+    'indent_rte' => 'Increase indent',
 
-'underline_rte_desc' => 'uses <u>',
+    'link_rte' => 'Link',
 
-'unordered_list_rte' => 'Bulleted List',
+    'filemanager_rte' => 'Image',
 
-'unordered_list_rte_desc' => 'uses <ul>',
+    'insertTable_rte' => 'Table',
 
-'view_source_rte' => 'View Code',
+    'mediaEmbed_rte' => 'Media',
 
-'view_source_rte_desc' => 'allows author to see code',
+    'alignment:left_rte' => 'Align left',
 
+    'alignment:right_rte' => 'Align right',
 
-/* Tool misc */
-'add_link' => 'Add Link',
+    'alignment:center_rte' => 'Align center',
 
-'external_link' => 'External Link',
+    'alignment:justify_rte' => 'Justify',
 
-'heading_1' => 'heading 1',
+    'horizontalLine_rte' => 'Horizontal line',
 
-'heading_2' => 'heading 2',
+    'specialCharacters_rte' => 'Special characters',
 
-'heading_3' => 'heading 3',
+    'readMore_rte' => '"Read More" separator',
 
-'heading_4' => 'heading 4',
+    'fontColor_rte' => 'Font color',
 
-'heading_5' => 'heading 5',
+    'fontBackgroundColor_rte' => 'Font background',
 
-'heading_6' => 'heading 6',
+    'open_in_new_tab' => 'Open in a new tab',
 
-'img_add' => 'Image',
-
-'img_align_center' => 'Center image',
-
-'img_align_left' => 'Left-align image',
-
-'img_align_right' => 'Right-align image',
-
-'img_center' => 'center',
-
-'img_in_text' => 'in text',
-
-'img_remove' => 'Remove Image',
-
-'img_title' => 'upload file',
-
-'img_wrap_left' => 'Left-align image in text',
-
-'img_wrap_none' => 'Separate Text',
-
-'img_wrap_right' => 'Right-align image in text',
-
-'link' => 'Link',
-
-'make_blockquote' => 'Quote',
-
-'make_bold' => 'Bold',
-
-'make_italics' => 'Italicize',
-
-'make_ol' => 'Numbered List',
-
-'make_ul' => 'Bulleted List',
-
-'make_underline' => 'Underline',
-
-'paragraph' => 'paragraph',
-
-'remove_blockquote' => 'Remove Quote',
-
-'remove_bold' => 'Unbold',
-
-'remove_italics' => 'Remove Italics',
-
-'remove_link' => 'Remove Link',
-
-'remove_ol' => 'Remove Numbered List',
-
-'remove_ul' => 'Remove Bulleted List',
-
-'remove_underline' => 'Remove Underline',
-
-'strip_tags' => 'Clear Formatting',
-
-'title_blockquote' => 'create blockquote',
-
-'title_bold' => 'make bold',
-
-'title_italics' => 'make italic',
-
-'title_link' => 'create hyperlink',
-
-'title_ol' => 'create ordered list',
-
-'title_ul' => 'create unordered list',
-
-'title_underline' => 'make underline',
-
-'title_view' => 'view code',
-
-'update_link' => 'Update Link',
-
-'view_code' => 'View Code',
-
-'view_content' => 'View Content',
-
+    '' => ''
 );
-
-// EOF

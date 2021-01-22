@@ -2,987 +2,975 @@
 
 $lang = array(
 
-'cache_on' => 'Enable SQL Query Caching',
+    'cache_on' => 'Enable SQL Query Caching',
 
-'db_debug' => 'Enable Database Debugging',
+    'db_debug' => 'Enable Database Debugging',
 
-'enable_db_caching' => 'Enable SQL Query Caching',
+    'enable_db_caching' => 'Enable SQL Query Caching',
 
-'pconnect' => 'Persistent Database Connection',
+    'pconnect' => 'Persistent Database Connection',
 
+    /* Member List Config */
+    'memberlist_asc' => 'Ascending',
 
-/* Member List Config */
-'memberlist_asc' => 'Ascending',
+    'memberlist_cfg' => 'Member List Preferences',
 
-'memberlist_cfg' => 'Member List Preferences',
+    'memberlist_desc' => 'Descending',
 
-'memberlist_desc' => 'Descending',
+    'memberlist_order_by' => 'Member List - Sort By',
 
-'memberlist_order_by' => 'Member List - Sort By',
+    'memberlist_row_limit' => 'Member List - Rows',
 
-'memberlist_row_limit' => 'Member List - Rows',
+    'memberlist_sort_order' => 'Member List - Order',
 
-'memberlist_sort_order' => 'Member List - Order',
+    'total_comments' => 'Total Comments',
 
-'total_comments' => 'Total Comments',
+    'total_entries' => 'Total Entries',
 
-'total_entries' => 'Total Entries',
+    'total_posts' => 'Total Posts',
 
-'total_posts' => 'Total Posts',
+    'xss_clean_uploads' => 'Apply XSS Filtering to uploaded files?',
 
-'xss_clean_uploads' => 'Apply XSS Filtering to uploaded files?',
+    /* Explanatory Blurbs */
+    'channel_administration_blurb' => 'This area enables you to manage your channels, preferences, and content-related sub-systems.',
 
+    'members_and_groups_blurb' => 'This area allows you to manage members, member groups, and membership-related features.',
 
-/* Explanatory Blurbs */
-'channel_administration_blurb' => 'This area enables you to manage your channels, preferences, and content-related sub-systems.',
+    'search' => 'Search',
 
-'members_and_groups_blurb' => 'This area allows you to manage members, member groups, and membership-related features.',
+    'search_preferences' => 'Search Preferences',
 
-'search' => 'Search',
+    'specialty_templates_blurb' => 'These templates are used for special purposes such as displaying error messages and sending email notifications.',
 
-'search_preferences' => 'Search Preferences',
+    'system_admin_blurb' => 'Most of the administrative aspects of ExpressionEngine are managed from one of the following five areas:',
 
-'search_results' => 'Search Results',
+    'system_preferences_blurb' => 'This area enables you to manage your system configuration and global preferences.',
 
-'specialty_templates_blurb' => 'These templates are used for special purposes such as displaying error messages and sending email notifications.',
+    'utilities_blurb' => 'This area contains ancillary utilities that help you manage ExpressionEngine.',
 
-'system_admin_blurb' => 'Most of the administrative aspects of ExpressionEngine are managed from one of the following five areas:',
+    /* Extensions Stuff */
+    'available_extensions' => 'Available Extensions',
 
-'system_preferences_blurb' => 'This area enables you to manage your system configuration and global preferences.',
+    'censor_replacement' => 'Censoring Replacement Word',
 
-'utilities_blurb' => 'This area contains ancillary utilities that help you manage ExpressionEngine.',
+    'censor_replacement_info' => 'If left blank censored words will be replaced with: #',
 
+    'censored_wildcards' => 'Wild cards are allowed. For example, the wildcard test* would censor the words test, testing, tester, etc.',
 
-/* Extensions Stuff */
-'available_extensions' => 'Available Extensions',
+    'channel_relationships' => 'Channel Relationships',
 
-'censor_replacement' => 'Censoring Replacement Word',
+    'disable_extension' => 'Disable?',
 
-'censor_replacement_info' => 'If left blank censored words will be replaced with: #',
+    'disable_extension_conf' => 'Disable Extension Confirmation',
 
-'censored_wildcards' => 'Wild cards are allowed. For example, the wildcard test* would censor the words test, testing, tester, etc.',
+    'disable_extensions' => 'Disable Extensions?',
 
-'channel_relationships' => 'Channel Relationships',
+    'disable_extensions_conf' => 'Disable Extensions Confirmation',
 
-'disable_extension' => 'Disable?',
+    'documentation' => 'Documentation',
 
-'disable_extension_conf' => 'Disable Extension Confirmation',
+    'enable_extension' => 'Enable?',
 
-'disable_extensions' => 'Disable Extensions?',
+    'enable_extension_conf' => 'Enable Extension Confirmation',
 
-'disable_extensions_conf' => 'Disable Extensions Confirmation',
+    'enable_extensions' => 'Enable Extensions?',
 
-'documentation' => 'Documentation',
+    'enable_extensions_conf' => 'Enable Extensions Confirmation',
 
-'enable_extension' => 'Enable?',
+    'enable_search_log' => 'Enable Search Term Logging',
 
-'enable_extension_conf' => 'Enable Extension Confirmation',
+    'enable_search_log_exp' => 'When enabled, the search terms your visitors submit in your search form will be logged.',
 
-'enable_extensions' => 'Enable Extensions?',
+    'extension' => 'Extension',
 
-'enable_extensions_conf' => 'Enable Extensions Confirmation',
+    'extension_class_does_not_exist' => 'Class %c does not exist in (%f)',
 
-'enable_search_log' => 'Enable Search Term Logging',
+    'extension_disabled' => 'Disabled',
 
-'enable_search_log_exp' => 'When enabled, the search terms your visitors submit in your search form will be logged.',
+    'extension_enabled' => 'Enabled',
 
-'extension' => 'Extension',
+    'extension_name' => 'Extension Name',
 
-'extension_class_does_not_exist' => 'Class %c does not exist in (%f)',
+    'extension_settings' => 'Extension Settings',
 
-'extension_disabled' => 'Disabled',
+    'extensions_disabled_manage' => 'Extensions must <a href="%s">be enabled</a> to manage installed extensions.',
 
-'extension_enabled' => 'Enabled',
+    'manage_extension' => 'Manage',
 
-'extension_name' => 'Extension Name',
+    'max_logged_searches' => 'Maximum number of recent search terms to save',
 
-'extension_settings' => 'Extension Settings',
+    'no_extensions_exist' => 'No Extensions Exist',
 
-'extensions_disabled_manage' => 'Extensions must <a href="%s">be enabled</a> to manage installed extensions.',
+    'search_log_cfg' => 'Search Term Log Configuration',
 
-'manage_extension' => 'Manage',
+    'setting' => 'Setting',
 
-'max_logged_searches' => 'Maximum number of recent search terms to save',
+    'settings' => 'Settings',
 
-'no_extensions_exist' => 'No Extensions Exist',
+    'settings_update' => 'Settings Updated',
 
-'search_log_cfg' => 'Search Term Log Configuration',
+    'status' => 'Status',
 
-'setting' => 'Setting',
+    'toggle_extension_confirmation' => 'Are you sure you wish to perform this action?',
 
-'settings' => 'Settings',
+    'webmaster_name' => 'Webmaster or site name for auto-generated emails',
 
-'settings_update' => 'Settings Updated',
+    /* Admin Page */
+    '12_hour' => '12-hour with AM/PM',
 
-'status' => 'Status',
+    '24_hour' => '24-hour',
 
-'toggle_extension_confirmation' => 'Are you sure you wish to perform this action?',
+    '404_page' => 'Send 404 headers',
 
-'webmaster_name' => 'Webmaster or site name for auto-generated emails',
+    'add_html_button' => 'Add HTML button',
 
+    'add_new_html_button' => 'Add new HTML button',
 
-/* Admin Page */
-'12_hour' => '12-hour with AM/PM',
+    'add_predefined_html_button' => 'Add Predefined HTML button',
 
-'24_hour' => '24-hour',
+    'admin_content' => 'Administration',
 
-'404_page' => 'Send 404 headers',
+    'admin_system' => 'Administration',
 
-'add_html_button' => 'Add HTML button',
+    'advanced_users_only' => 'Advanced Users Only',
 
-'add_new_html_button' => 'Add new HTML button',
+    'all_caching' => 'All caches',
 
-'add_predefined_html_button' => 'Add Predefined HTML button',
+    'allow_member_loc_notes' => 'If set to \'no\' all dates and times will be localized to the master site default.',
 
-'admin_content' => 'Administration',
+    'allow_member_localization' => 'Allow members to set their own localization preferences?',
 
-'admin_system' => 'Administration',
+    'allow_member_registration' => 'Allow New Member Registrations?',
 
-'advanced_users_only' => 'Advanced Users Only',
+    'allow_signatures' => 'Allow Users to have Signatures?',
 
-'all_caching' => 'All caches',
+    'analize' => 'Analize Tables',
 
-'allow_avatar_uploads' => 'Allow members to upload their own avatars?',
+    'archive_destination' => 'Destination',
 
-'allow_member_loc_notes' => 'If set to \'no\' all dates and times will be localized to the master site default.',
+    'archive_type' => 'File Type',
 
-'allow_member_localization' => 'Allow members to set their own localization preferences?',
+    'auto_assign_cat_parents' => 'Auto-Assign Category Parents',
 
-'allow_member_registration' => 'Allow New Member Registrations?',
+    'auto_assign_cat_parents_exp' => 'If set to \'yes\', when new entries are submitted, the parent category will be automatically assigned whenever you choose a child category',
 
-'allow_signatures' => 'Allow Users to have Signatures?',
+    'auto_close' => 'Auto',
 
-'analize' => 'Analize Tables',
+    'auto_convert_high_ascii' => 'Automatically Convert High ASCII Text to Entities',
 
-'archive_destination' => 'Destination',
+    'avatar_cfg' => 'Avatar Preferences',
 
-'archive_type' => 'File Type',
+    'avatar_max_height' => 'Avatar Maximum Height',
 
-'auto_assign_cat_parents' => 'Auto-Assign Category Parents',
+    'avatar_max_kb' => 'Avatar Maximum Size (in Kilobytes)',
 
-'auto_assign_cat_parents_exp' => 'If set to \'yes\', when new entries are submitted, the parent category will be automatically assigned whenever you choose a child category',
+    'avatar_max_width' => 'Avatar Maximum Width',
 
-'auto_close' => 'Auto',
+    'avatar_path' => 'Server Path to Avatar Folder',
 
-'auto_convert_high_ascii' => 'Automatically Convert High ASCII Text to Entities',
+    'avatar_url' => 'URL to Avatar Folder',
 
-'avatar_cfg' => 'Avatar Preferences',
+    'backup_info' => 'Use this form to backup your database.',
 
-'avatar_max_height' => 'Avatar Maximum Height',
+    'banish_masked_ips' => 'Deny Access if No IP Address is Present',
 
-'avatar_max_kb' => 'Avatar Maximum Size (in Kilobytes)',
+    'banishment_message' => 'Custom Message',
 
-'avatar_max_width' => 'Avatar Maximum Width',
+    'banishment_message_exp' => 'If you chose the Custom Message option.',
 
-'avatar_path' => 'Server Path to Avatar Folder',
+    'banishment_type' => 'Action to Take',
 
-'avatar_url' => 'URL to Avatar Folder',
+    'banishment_type_exp' => 'The action that should take place if a user has exceeded the limits.',
 
-'backup_info' => 'Use this form to backup your database.',
+    'banishment_url' => 'URL for Redirect',
 
-'banish_masked_ips' => 'Deny Access if No IP Address is Present',
+    'banishment_url_exp' => 'If you chose the URL Redirect option.',
 
-'banishment_message' => 'Custom Message',
+    'batch_size_explanation' => 'For average servers, 300 is a safe number',
 
-'banishment_message_exp' => 'If you chose the Custom Message option.',
+    'batchmode_explanation' => 'Batch Mode breaks up large mailings into smaller groups, which get sent at intervals. Recommended if your site is hosted on a shared-hosting account.',
 
-'banishment_type' => 'Action to Take',
+    'browse' => 'Browse',
 
-'banishment_type_exp' => 'The action that should take place if a user has exceeded the limits.',
+    'cache_deleted' => 'Cache files have been deleted',
 
-'banishment_url' => 'URL for Redirect',
+    'caching_driver' => 'Caching Driver',
 
-'banishment_url_exp' => 'If you chose the URL Redirect option.',
+    'caching_driver_failover' => 'Cannot connect to %s, using %s driver instead',
 
-'batch_size_explanation' => 'For average servers, 300 is a safe number',
+    'caching_driver_file_fail' => 'Cannot use %s driver, check cache path permissions',
 
-'batchmode_explanation' => 'Batch Mode breaks up large mailings into smaller groups, which get sent at intervals. Recommended if your site is hosted on a shared-hosting account.',
+    'captcha_cfg' => 'CAPTCHA Preferences',
 
-'blacklist_all_ips' => 'Blacklist All IPs',
+    'captcha_font' => 'Use TrueType Font for CAPTCHA?',
 
-'browse' => 'Browse',
+    'captcha_path' => 'Server Path to CAPTCHA Folder',
 
-'cache_deleted' => 'Cache files have been deleted',
+    'captcha_rand' => 'Add Random Number to CAPTCHA Word',
 
-'caching_driver' => 'Caching Driver',
+    'captcha_require_members' => 'Require CAPTCHA with logged-in members?',
 
-'caching_driver_failover' => 'Cannot connect to %s, using %s driver instead',
+    'captcha_url' => 'Full URL to CAPTCHA Folder',
 
-'caching_driver_file_fail' => 'Cannot use %s driver, check cache path permissions',
+    'categories' => 'Categories',
 
-'captcha_cfg' => 'CAPTCHA Preferences',
+    'category_trigger_duplication' => 'Category Trigger error: A template or template group with this name already exists.',
 
-'captcha_font' => 'Use TrueType Font for CAPTCHA?',
+    'censored_explanation' => 'Place each word on a separate line.',
 
-'captcha_path' => 'Server Path to CAPTCHA Folder',
+    'censored_words' => 'Censored Words',
 
-'captcha_rand' => 'Add Random Number to CAPTCHA Word',
+    'censoring_cfg' => 'Word Censoring',
 
-'captcha_require_members' => 'Require CAPTCHA with logged-in members?',
+    'channel_administration' => 'Channel Administration',
 
-'captcha_url' => 'Full URL to CAPTCHA Folder',
+    'channel_cfg' => 'Global Channel Preferences',
 
-'categories' => 'Categories',
+    'channel_entry_title' => 'Channel Entry Titles',
 
-'category_trigger_duplication' => 'Category Trigger error: A template or template group with this name already exists.',
+    'channel_fields' => 'Channel Fields:',
 
-'censored_explanation' => 'Place each word on a separate line.',
+    'channel_nomenclature' => 'Section Designation Word',
 
-'censored_words' => 'Censored Words',
+    'channel_nomenclature_exp' => 'By default, ExpressionEngine uses the word \'channel\' throughout the control panel. You can change it if you prefer something more generic, like \'section\'. Please note: This word will not change in your templates, only in the control panel.',
 
-'censoring_cfg' => 'Word Censoring',
+    'channels' => 'Channels',
 
-'channel_administration' => 'Channel Administration',
+    'choose_translation_file' => 'Choose a file to translate',
 
-'channel_cfg' => 'Global Channel Preferences',
+    'clear_caching' => 'Clear Cached Data',
 
-'channel_entry_title' => 'Channel Entry Titles',
+    'click' => 'Click',
 
-'channel_fields' => 'Channel Fields:',
+    'click_to_recount' => 'Click to recount rows %x through %y',
 
-'channel_nomenclature' => 'Section Designation Word',
+    'config_editor' => 'Config File Editor',
 
-'channel_nomenclature_exp' => 'By default, ExpressionEngine uses the word \'channel\' throughout the control panel. You can change it if you prefer something more generic, like \'section\'. Please note: This word will not change in your templates, only in the control panel.',
+    'content_admin' => 'Content Administration',
 
-'channels' => 'Channels',
+    'cookie_cfg' => 'Cookie Settings',
 
-'choose_translation_file' => 'Choose a file to translate',
+    'cookie_domain' => 'Cookie Domain',
 
-'clear_caching' => 'Clear Cached Data',
+    'cookie_domain_explanation' => 'Use .yourdomain.com for site-wide cookies',
 
-'click' => 'Click',
+    'cookie_path' => 'Cookie Path',
 
-'click_to_recount' => 'Click to recount rows %x through %y',
+    'cookie_path_explain' => 'Use only if you require a specific server path for cookies',
 
-'config_editor' => 'Config File Editor',
+    'cookie_prefix' => 'Cookie Prefix',
 
-'content_admin' => 'Content Administration',
+    'cookie_prefix_explain' => 'Use only if you are running multiple installations of this program',
 
-'cookie_cfg' => 'Cookie Settings',
+    'core_language_files' => 'Core language files:',
 
-'cookie_domain' => 'Cookie Domain',
+    'cp_cfg' => 'Control Panel Settings',
 
-'cookie_domain_explanation' => 'Use .yourdomain.com for site-wide cookies',
+    'cp_image_path' => 'URL to Control Panel Image Directory',
 
-'cookie_path' => 'Cookie Path',
+    'cp_url' => 'URL to your Control Panel index page',
 
-'cookie_path_explain' => 'Use only if you require a specific server path for cookies',
+    'dash' => 'Dash',
 
-'cookie_prefix' => 'Cookie Prefix',
+    'database_size' => 'Database Size',
 
-'cookie_prefix_explain' => 'Use only if you are running multiple installations of this program',
+    'database_type' => 'Database Type',
 
-'core_language_files' => 'Core language files:',
+    'database_uptime' => 'Database Uptime',
 
-'cp_cfg' => 'Control Panel Settings',
+    'date_format' => 'Default Date Formatting',
 
-'cp_image_path' => 'URL to Control Panel Image Directory',
+    'db_caching' => 'Database cache files',
 
-'cp_url' => 'URL to your Control Panel index page',
+    'db_cfg' => 'Database Settings',
 
-'dash' => 'Dash',
+    'debug' => 'Debug Preference',
 
-'database_size' => 'Database Size',
+    'debug_cfg' => 'Debugging Preferences',
 
-'database_type' => 'Database Type',
+    'debug_explanation' => 'Enables the display of error messages, which are valuable during site development',
 
-'database_uptime' => 'Database Uptime',
+    'debug_one' => '1: PHP/SQL error messages shown only to Super Admins',
 
-'date_format' => 'Default Date Formatting',
+    'debug_two' => '2: PHP/SQL error messages shown to anyone - NOT SECURE',
 
-'db_caching' => 'Database cache files',
+    'debug_zero' => '0: No PHP/SQL error messages generated',
 
-'db_cfg' => 'Database Settings',
+    'default_html_buttons' => 'Default HTML Buttons',
 
-'debug' => 'Debug Preference',
+    'default_primary_role' => 'Default Member Group Assigned to New Members',
 
-'debug_cfg' => 'Debugging Preferences',
+    'default_site_timezone' => 'Site Timezone',
 
-'debug_explanation' => 'Enables the display of error messages, which are valuable during site development',
+    'deft_lang' => 'Default Language',
 
-'debug_one' => '1: PHP/SQL error messages shown only to Super Admins',
+    'deprecation_notice' => 'Deprecation Notice',
 
-'debug_two' => '2: PHP/SQL error messages shown to anyone - NOT SECURE',
+    'developer_logs' => 'You have %d unviewed items in the <a href="%s">Developer Log</a>.',
 
-'debug_zero' => '0: No PHP/SQL error messages generated',
+    'developer_one_log' => 'You have %d unviewed item in the <a href="%s">Developer Log</a>.',
 
-'default_html_buttons' => 'Default HTML Buttons',
+    'disable_caching' => 'Disable Caching',
 
-'default_member_group' => 'Default Member Group Assigned to New Members',
+    'do_recount' => 'Perform Recount',
 
-'default_site_timezone' => 'Site Timezone',
+    'duplicate_status_name' => 'A status already exists with the same name.',
 
-'deft_lang' => 'Default Language',
+    'dynamic_tracking_disabling' => 'Suspend ALL tracking when number of online visitors exceeds:',
 
-'deprecation_notice' => 'Deprecation Notice',
+    'dynamic_tracking_disabling_info' => 'Online User Tracking must be enabled to use this feature, see the user guide for details.',
 
-'developer_logs' => 'You have %d unviewed items in the <a href="%s">Developer Log</a>.',
+    'edit_groups' => 'Edit Group Assignments',
 
-'developer_one_log' => 'You have %d unviewed item in the <a href="%s">Developer Log</a>.',
+    'edit_preferences' => 'Edit Preferences',
 
-'disable_caching' => 'Disable Caching',
+    'email_activation' => 'Self-activation via email',
 
-'do_recount' => 'Perform Recount',
+    'email_batch_size' => 'Number of Emails Per Batch',
 
-'duplicate_status_name' => 'A status already exists with the same name.',
+    'email_batchmode' => 'Use Batch Mode?',
 
-'dynamic_tracking_disabling' => 'Suspend ALL tracking when number of online visitors exceeds:',
+    'email_cfg' => 'Email Configuration',
 
-'dynamic_tracking_disabling_info' => 'Online User Tracking must be enabled to use this feature, see the user guide for details.',
+    'email_charset' => 'Email Character Encoding',
 
-'edit_groups' => 'Edit Group Assignments',
+    'email_console_timelock' => 'Email Console Timelock',
 
-'edit_preferences' => 'Edit Preferences',
+    'email_console_timelock_exp' => 'The number of minutes that must lapse before a member is allowed to send another email. Note: This only applies to the Email Console in the member profile pages.',
 
-'email_activation' => 'Self-activation via email',
+    'email_debug' => 'Enable Email Debugging?',
 
-'email_batch_size' => 'Number of Emails Per Batch',
+    'email_debug_exp' => 'Server messages will be displayed when sending email.',
 
-'email_batchmode' => 'Use Batch Mode?',
+    'email_module_captchas' => 'Enable CAPTCHAs for Tell-a-Friend and Contact emails',
 
-'email_cfg' => 'Email Configuration',
+    'emoticon_cfg' => 'Emoticon Preferences',
 
-'email_charset' => 'Email Character Encoding',
+    'emoticon_url' => 'URL to the directory containing your smileys ',
 
-'email_console_timelock' => 'Email Console Timelock',
+    'empty_profile_trigger' => 'You must specify a Profile Triggering Word',
 
-'email_console_timelock_exp' => 'The number of minutes that must lapse before a member is allowed to send another email. Note: This only applies to the Email Console in the member profile pages.',
+    'empty_stmp_fields' => 'The %s field is required for SMTP.',
 
-'email_debug' => 'Enable Email Debugging?',
+    'enable_censoring' => 'Enable Word Censoring?',
 
-'email_debug_exp' => 'Server messages will be displayed when sending email.',
+    'enable_emoticons' => 'Display Smileys?',
 
-'email_module_captchas' => 'Enable CAPTCHAs for Tell-a-Friend and Contact emails',
+    'enable_entry_view_tracking' => 'Enable Channel Entry View Tracking?',
 
-'emoticon_cfg' => 'Emoticon Preferences',
+    'enable_hit_tracking' => 'Enable Template Hit Tracking?',
 
-'emoticon_url' => 'URL to the directory containing your smileys ',
+    'enable_online_user_tracking' => 'Enable Online User Tracking?',
 
-'empty_profile_trigger' => 'You must specify a Profile Triggering Word',
+    'enable_photos' => 'Enable Member Photos',
 
-'empty_stmp_fields' => 'The %s field is required for SMTP.',
+    'enable_sql_caching' => 'Cache Dynamic Channel Queries?',
 
-'enable_avatars' => 'Enable Avatars',
+    'enable_sql_caching_exp' => 'This feature will improve the speed at which your channel pages load by caching queries that are normally executed dynamically. Enable it only if you do not use the \'future entries\' or \'expiring entries\' feature.',
 
-'enable_censoring' => 'Enable Word Censoring?',
+    'enable_throttling' => 'Enable Throttling',
 
-'enable_emoticons' => 'Display Smileys?',
+    'enable_throttling_explanation' => 'This feature generates a 404 header and message if a request to your site is made in which the template group does not exist in the URL. It is intended primarily to keep search engine crawlers from repeatedly requesting nonexistent pages.',
 
-'enable_entry_view_tracking' => 'Enable Channel Entry View Tracking?',
+    'exp_channel_titles' => 'Channel Entries',
 
-'enable_hit_tracking' => 'Enable Template Hit Tracking?',
+    'exp_forum_topics' => 'Forum Topics',
 
-'enable_online_user_tracking' => 'Enable Online User Tracking?',
+    'exp_forums' => 'Forum Stats',
 
-'enable_photos' => 'Enable Member Photos',
+    'exp_members' => 'Members',
 
-'enable_sql_caching' => 'Cache Dynamic Channel Queries?',
+    'extensions_manager' => 'Extensions Manager',
 
-'enable_sql_caching_exp' => 'This feature will improve the speed at which your channel pages load by caching queries that are normally executed dynamically. Enable it only if you do not use the \'future entries\' or \'expiring entries\' feature.',
+    'field_management' => 'Channel Fields',
 
-'enable_throttling' => 'Enable Throttling',
+    'file_saved' => 'The file has been saved',
 
-'enable_throttling_explanation' => 'This feature generates a 404 header and message if a request to your site is made in which the template group does not exist in the URL. It is intended primarily to keep search engine crawlers from repeatedly requesting nonexistent pages.',
+    'file_type' => 'File Type: ',
 
-'exp_channel_titles' => 'Channel Entries',
+    'file_upload_prefs' => 'File Upload Preferences',
 
-'exp_forum_topics' => 'Forum Topics',
+    'force_query_string' => 'Force URL query strings',
 
-'exp_forums' => 'Forum Stats',
+    'force_query_string_explanation' => 'This is a safety mechanism for servers that do not support the PATH_INFO variable.',
 
-'exp_members' => 'Members',
+    'forum_search' => 'Forum',
 
-'extensions_manager' => 'Extensions Manager',
+    'gd' => 'GD',
 
-'field_management' => 'Channel Fields',
+    'gd2' => 'GD 2',
 
-'file_saved' => 'The file has been saved',
+    'general_cfg' => 'General Configuration',
 
-'file_type' => 'File Type: ',
+    'group_assignment_defaults_to_two' => 'If you require account activation, members will be set to this once they are activated',
 
-'file_upload_prefs' => 'File Upload Preferences',
+    'guest' => 'Guest',
 
-'force_query_string' => 'Force URL query strings',
+    'gzip' => 'Gzip',
 
-'force_query_string_explanation' => 'This is a safety mechanism for servers that do not support the PATH_INFO variable.',
+    'gzip_output' => 'Enable GZIP Output?',
 
-'forum_search' => 'Forum',
+    'gzip_output_explanation' => 'When enabled, your site will be shown in a compressed format for faster page loading',
 
-'gd' => 'GD',
+    'hits' => 'Hits',
 
-'gd2' => 'GD 2',
+    'hover' => 'Hover',
 
-'general_cfg' => 'General Configuration',
+    'html' => 'HTML',
 
-'group_assignment_defaults_to_two' => 'If you require account activation, members will be set to this once they are activated',
+    'html_all' => 'Allow all HTML (not recommended)',
 
-'guest' => 'Guest',
+    'html_none' => 'Convert HTML into character entities',
 
-'gzip' => 'Gzip',
+    'html_safe' => 'Allow only safe HTML',
 
-'gzip_output' => 'Enable GZIP Output?',
+    'ignore_noncritical' => 'Ignore non-essential data (recommended)',
 
-'gzip_output_explanation' => 'When enabled, your site will be shown in a compressed format for faster page loading',
+    'illegal_characters' => 'The name you submitted may only contain alpha-numeric characters, underscores, and dashes',
 
-'hits' => 'Hits',
+    'image_cfg' => 'Image Resizing Preferences',
 
-'hover' => 'Hover',
+    'image_library_path' => 'Image Converter Path',
 
-'html' => 'HTML',
+    'image_library_path_exp' => 'If you chose either ImageMagick or NetPBM you must specify the server path to the program.',
 
-'html_all' => 'Allow all HTML (not recommended)',
+    'image_path' => 'Path to Images Directory',
 
-'html_none' => 'Convert HTML into character entities',
+    'image_resize_protocol' => 'Image Resizing Protocol',
 
-'html_safe' => 'Allow only safe HTML',
+    'image_resize_protocol_exp' => 'Please check with your hosting provider to verify that your server supports the chosen protocol.',
 
-'ignore_noncritical' => 'Ignore non-essential data (recommended)',
+    'imagemagick' => 'ImageMagick',
 
-'illegal_characters' => 'The name you submitted may only contain alpha-numeric characters, underscores, and dashes',
+    'installed_plugins' => 'Installed Plugins',
 
-'image_cfg' => 'Image Resizing Preferences',
+    'invalid_path' => 'The following path you submitted is not valid:',
 
-'image_library_path' => 'Image Converter Path',
+    'invalid_status_name' => 'Status names can only have alpha-numeric characters, as well as spaces, underscores and hyphens.',
 
-'image_library_path_exp' => 'If you chose either ImageMagick or NetPBM you must specify the server path to the program.',
+    'is_site_on' => 'Is site on?',
 
-'image_path' => 'Path to Images Directory',
+    'is_site_on_explanation' => 'If site is off, only Super Admins will be able to see this site',
 
-'image_resize_protocol' => 'Image Resizing Protocol',
+    'is_system_on' => 'Is system on?',
 
-'image_resize_protocol_exp' => 'Please check with your hosting provider to verify that your server supports the chosen protocol.',
+    'is_system_on_explanation' => 'If system is off, only Super Admins will be able to see your site(s) by default',
 
-'imagemagick' => 'ImageMagick',
+    'items_remaining' => 'Records remaining:',
 
-'installed_plugins' => 'Installed Plugins',
+    'last_activity' => 'Last Activity',
 
-'invalid_path' => 'The following path you submitted is not valid:',
+    'license_contact' => 'License Holder Contact Email',
 
-'invalid_status_name' => 'Status names can only have alpha-numeric characters, as well as spaces, underscores and hyphens.',
+    'license_contact_explanation' => 'The contact email address for the owner of this software license.',
 
-'is_site_on' => 'Is site on?',
+    'license_number' => 'License Number',
 
-'is_site_on_explanation' => 'If site is off, only Super Admins will be able to see this site',
+    'license_number_explanation' => 'You can find and manage your software licenses on the expressionengine.com <a href="https://expressionengine.com/store/purchases" rel="external">Manage Purchases</a> page,',
 
-'is_system_on' => 'Is system on?',
+    'localization_cfg' => 'Localization Settings',
 
-'is_system_on_explanation' => 'If system is off, only Super Admins will be able to see your site(s) by default',
+    'location_method' => 'Location (faster)',
 
-'items_remaining' => 'Records remaining:',
+    'locked_out' => 'Locked Out',
 
-'last_activity' => 'Last Activity',
+    'lockout_time' => 'Lockout Time (in seconds)',
 
-'license_contact' => 'License Holder Contact Email',
+    'lockout_time_exp' => 'The length of time a user should be locked out of your site if they exceed the limits.',
 
-'license_contact_explanation' => 'The contact email address for the owner of this software license.',
+    'log_email_console_msgs' => 'Log Email Console Messages',
 
-'license_number' => 'License Number',
+    'log_email_console_msgs_exp' => 'This preference lets you log all messages sent via the Email Console in the member profile pages.',
 
-'license_number_explanation' => 'You can find and manage your software licenses on the expressionengine.com <a href="https://expressionengine.com/store/purchases" rel="external">Manage Purchases</a> page,',
+    'log_referrers' => 'Enable Referrer Tracking?',
 
-'localization_cfg' => 'Localization Settings',
+    'mac_no_zip' => '(best choice for Mac users)',
 
-'location_method' => 'Location (faster)',
+    'mail_format' => 'Default Mail Format',
 
-'locked_out' => 'Locked Out',
+    'mail_protocol' => 'Email Protocol',
 
-'lockout_time' => 'Lockout Time (in seconds)',
+    'manual_activation' => 'Manual activation by an administrator',
 
-'lockout_time_exp' => 'The length of time a user should be locked out of your site if they exceed the limits.',
+    'manual_close' => 'Manual',
 
-'log_email_console_msgs' => 'Log Email Console Messages',
+    'max_caches' => 'Maximum Number of Cachable URIs',
 
-'log_email_console_msgs_exp' => 'This preference lets you log all messages sent via the Email Console in the member profile pages.',
+    'max_caches_explanation' => 'If you cache your pages or database, this limits the number of cache instances. We recommend 150 for small sites and 300 for large sites. The allowed maximum is 1000.',
 
-'log_referrers' => 'Enable Referrer Tracking?',
+    'max_page_loads' => 'Maximum Number of Page Loads',
 
-'mac_no_zip' => '(best choice for Mac users)',
+    'max_page_loads_exp' => 'The total number of times a user is allowed to load any of your web pages (within the time interval below) before being locked out.',
 
-'mail_format' => 'Default Mail Format',
+    'max_referrers' => 'Maximum number of recent referrers to save',
 
-'mail_protocol' => 'Email Protocol',
+    'mbr_notification_emails' => 'Email Address for Notification',
 
-'manual_activation' => 'Manual activation by an administrator',
+    'member_import' => 'Member Import Utility',
 
-'manual_close' => 'Manual',
+    'member_theme' => 'Default Member Profile Theme',
 
-'max_caches' => 'Maximum Number of Cachable URIs',
+    'member_theme_exp' => 'Determines which theme to use for the various membership pages: login, registration, profile, etc.',
 
-'max_caches_explanation' => 'If you cache your pages or database, this limits the number of cache instances. We recommend 150 for small sites and 300 for large sites. The allowed maximum is 1000.',
+    'members_and_groups' => 'Members and Groups',
 
-'max_page_loads' => 'Maximum Number of Page Loads',
+    'missing_required_fields' => 'You Are Missing Required Field(s):',
 
-'max_page_loads_exp' => 'The total number of times a user is allowed to load any of your web pages (within the time interval below) before being locked out.',
+    'module_language_files' => 'Module language files:',
 
-'max_referrers' => 'Maximum number of recent referrers to save',
+    'multiple_sites_enabled' => 'Enable Multiple Site Manager',
 
-'mbr_notification_emails' => 'Email Address for Notification',
+    'must_be_path' => 'Note: Must be a full server path, NOT a URL. Folder permissions must be set to 777.',
 
-'member_import' => 'Member Import Utility',
+    'netpbm' => 'NetPBM',
 
-'member_theme' => 'Default Member Profile Theme',
+    'new_member_notification' => 'Send new member notifications?',
 
-'member_theme_exp' => 'Determines which theme to use for the various membership pages: login, registration, profile, etc.',
+    'new_posts_clear_caches' => 'Clear all caches when new entries are posted?',
 
-'members_and_groups' => 'Members and Groups',
+    'new_version_check' => 'New Version Auto Check',
 
-'missing_required_fields' => 'You Are Missing Required Field(s):',
+    'newrelic_app_name' => 'New Relic Application Name',
 
-'module_language_files' => 'Module language files:',
+    'newrelic_app_name_explanation' => 'Changes the name of the application that appears in the New Relic dashboard for this installation of ExpressionEngine.',
 
-'multiple_sites_enabled' => 'Enable Multiple Site Manager',
+    'no_activation' => 'No activation required',
 
-'must_be_path' => 'Note: Must be a full server path, NOT a URL. Folder permissions must be set to 777.',
+    'no_additional_info' => 'No additional information is available for this plugin',
 
-'netpbm' => 'NetPBM',
+    'no_buttons_selected' => 'You must select the tables in which to perform this action',
 
-'new_member_notification' => 'Send new member notifications?',
+    'no_search_terms' => 'No search terms have been logged',
 
-'new_posts_clear_caches' => 'Clear all caches when new entries are posted?',
+    'no_throttle_logs' => 'No IPs are currently being throttled by the system.',
 
-'new_version_check' => 'New Version Auto Check',
+    'none' => 'None',
 
-'newrelic_app_name' => 'New Relic Application Name',
+    'not_writable_path' => 'The path you submitted is not writeable. Please make sure the file permissions are set to 777.',
 
-'newrelic_app_name_explanation' => 'Changes the name of the application that appears in the New Relic dashboard for this installation of ExpressionEngine.',
+    'notification_cfg' => 'Notification Preferences',
 
-'no_activation' => 'No activation required',
+    'only_if_smpte_chosen' => 'Use this only if you chose SMTP',
 
-'no_additional_info' => 'No additional information is available for this plugin',
+    'optimize' => 'Optimize SQL Tables',
 
-'no_buttons_selected' => 'You must select the tables in which to perform this action',
+    'optimize_table' => 'Optimize selected tables',
 
-'no_search_terms' => 'No search terms have been logged',
+    'output_cfg' => 'Output and Debugging Preferences',
 
-'no_throttle_logs' => 'No IPs are currently being throttled by the system.',
+    'page_caching' => 'Page (template) cache files',
 
-'none' => 'None',
+    'photo_cfg' => 'Member Photo Preferences',
 
-'not_writable_path' => 'The path you submitted is not writeable. Please make sure the file permissions are set to 777.',
+    'photo_max_height' => 'Photo Maximum Height',
 
-'notification_cfg' => 'Notification Preferences',
+    'photo_max_kb' => 'Photo Maximum Size (in Kilobytes)',
 
-'only_if_smpte_chosen' => 'Use this only if you chose SMTP',
+    'photo_max_width' => 'Photo Maximum Width',
 
-'optimize' => 'Optimize SQL Tables',
+    'photo_path' => 'Server Path to Photo Folder',
 
-'optimize_table' => 'Optimize selected tables',
+    'photo_url' => 'URL to Photos Folder',
 
-'output_cfg' => 'Output and Debugging Preferences',
+    'php_info' => 'PHP Info',
 
-'page_caching' => 'Page (template) cache files',
+    'php_mail' => 'PHP Mail',
 
-'photo_cfg' => 'Member Photo Preferences',
+    'pi_author' => 'Author',
 
-'photo_max_height' => 'Photo Maximum Height',
+    'pi_author_url' => 'Author URL',
 
-'photo_max_kb' => 'Photo Maximum Size (in Kilobytes)',
+    'pi_description' => 'Description',
 
-'photo_max_width' => 'Photo Maximum Width',
+    'pi_name' => 'Name',
 
-'photo_path' => 'Server Path to Photo Folder',
+    'pi_usage' => 'Usage',
 
-'photo_url' => 'URL to Photos Folder',
+    'pi_version' => 'Version',
 
-'php_info' => 'PHP Info',
+    'plain_text' => 'Plain Text',
 
-'php_mail' => 'PHP Mail',
+    'please_set_permissions' => 'Please set the permissions to 666 or 777 on the following directory:',
 
-'pi_author' => 'Author',
+    'plugin_by_date' => 'By Date',
 
-'pi_author_url' => 'Author URL',
+    'plugin_by_letter' => 'By Letter',
 
-'pi_description' => 'Description',
+    'plugin_can_not_fetch' => 'Unable to remotely retrieve the plugin',
 
-'pi_name' => 'Name',
+    'plugin_delete_confirm' => 'Plugin Removal Confirmation',
 
-'pi_usage' => 'Usage',
+    'plugin_error_no_plugins_found' => 'Could not find a valid plugin file in the download',
 
-'pi_version' => 'Version',
+    'plugin_error_no_zlib' => 'Your server does not have zlib support, so decompression is not possible. The ZIP file is stored in your plugins directory.',
 
-'plain_text' => 'Plain Text',
+    'plugin_error_package_already_exists' => 'Add-on Package already exists',
 
-'please_set_permissions' => 'Please set the permissions to 666 or 777 on the following directory:',
+    'plugin_error_uncompress' => 'Unable to uncompress ZIP file. The ZIP file has been stored in your plugins directory.',
 
-'plugin_by_date' => 'By Date',
+    'plugin_folder_not_writable' => 'Your plugin folder is not writable. File permissions must be set to 777 before this action can be performed.',
 
-'plugin_by_letter' => 'By Letter',
+    'plugin_information' => 'Plugin Information',
 
-'plugin_can_not_fetch' => 'Unable to remotely retrieve the plugin',
+    'plugin_install' => 'Install',
 
-'plugin_delete_confirm' => 'Plugin Removal Confirmation',
+    'plugin_install_other' => 'The plugin file has been stored in your plugins directory.',
 
-'plugin_error_no_plugins_found' => 'Could not find a valid plugin file in the download',
+    'plugin_install_status' => 'Plugin Installation Status',
 
-'plugin_error_no_zlib' => 'Your server does not have zlib support, so decompression is not possible. The ZIP file is stored in your plugins directory.',
+    'plugin_install_success' => 'The plugin was successfully installed.',
 
-'plugin_error_package_already_exists' => 'Add-on Package already exists',
+    'plugin_installation' => 'Plugin Installation',
 
-'plugin_error_uncompress' => 'Unable to uncompress ZIP file. The ZIP file has been stored in your plugins directory.',
+    'plugin_installed' => 'Plugin(s) Installed',
 
-'plugin_folder_not_writable' => 'Your plugin folder is not writable. File permissions must be set to 777 before this action can be performed.',
+    'plugin_latest' => 'Latest Plugins',
 
-'plugin_information' => 'Plugin Information',
+    'plugin_manager' => 'Plugin Manager',
 
-'plugin_install' => 'Install',
+    'plugin_multiple_confirm' => 'Are you sure you want to delete these plugins?',
 
-'plugin_install_other' => 'The plugin file has been stored in your plugins directory.',
+    'plugin_no_curl_support' => 'Your server does not support the Curl library, which is required in order to use this feature.',
 
-'plugin_install_status' => 'Plugin Installation Status',
+    'plugin_problem_creating_file' => 'Unable to create a local version of your plugin',
 
-'plugin_install_success' => 'The plugin was successfully installed.',
+    'plugin_removal' => 'Plugin Removal',
 
-'plugin_installation' => 'Plugin Installation',
+    'plugin_removal_error' => 'An error occurred removing the following plugin:',
 
-'plugin_installed' => 'Plugin(s) Installed',
+    'plugin_removal_status' => 'Plugin Removal Status',
 
-'plugin_latest' => 'Latest Plugins',
+    'plugin_removal_success' => 'The following plugin was successfully removed:',
 
-'plugin_manager' => 'Plugin Manager',
+    'plugin_remove' => 'Remove',
 
-'plugin_multiple_confirm' => 'Are you sure you want to delete these plugins?',
+    'plugin_requires' => 'Requires',
 
-'plugin_no_curl_support' => 'Your server does not support the Curl library, which is required in order to use this feature.',
+    'plugin_single_confirm' => 'Are you sure you want to delete this plugin?',
 
-'plugin_problem_creating_file' => 'Unable to create a local version of your plugin',
+    'plugin_version_check' => 'Check Version',
 
-'plugin_removal' => 'Plugin Removal',
+    'plugin_zlib_missing' => 'Zlib library is missing. Please consult user guide.',
 
-'plugin_removal_error' => 'An error occurred removing the following plugin:',
+    'plugins' => 'Plugins',
 
-'plugin_removal_status' => 'Plugin Removal Status',
+    'preference' => 'Preference',
 
-'plugin_removal_success' => 'The following plugin was successfully removed:',
+    'preference_information' => 'Preference Guide',
 
-'plugin_remove' => 'Remove',
+    'preference_updated' => 'Preference Updated',
 
-'plugin_requires' => 'Requires',
+    'preferences_updated' => 'Preferences Updated',
 
-'plugin_single_confirm' => 'Are you sure you want to delete this plugin?',
+    'profile_buttons' => 'Path to Member Images',
 
-'plugin_version_check' => 'Check Version',
+    'profile_buttons_exp' => 'This is the path to the directory containing the images used in the member profile pages.',
 
-'plugin_zlib_missing' => 'Zlib library is missing. Please consult user guide.',
+    'profile_trigger' => 'Profile Triggering Word',
 
-'plugins' => 'Plugins',
+    'profile_trigger_notes' => 'When this word is encountered your URL it will display your member profile area. The word you choose cannot be the name of an existing template group',
 
-'preference' => 'Preference',
+    'prv_msg_allow_attachments' => 'Allow attachments in private messages?',
 
-'preference_information' => 'Preference Guide',
+    'prv_msg_attach_maxsize' => 'Maximum Size of Attachment for a Private Message (in Kilobytes)',
 
-'preference_updated' => 'Preference Updated',
+    'prv_msg_attach_total' => 'Maximum Amount of All Attachments (in Megabytes)',
 
-'preferences_updated' => 'Preferences Updated',
+    'prv_msg_auto_links' => 'Auto-convert URLs and email addresses into links?',
 
-'profile_buttons' => 'Path to Member Images',
+    'prv_msg_enabled' => 'Enable private messaging between members?',
 
-'profile_buttons_exp' => 'This is the path to the directory containing the images used in the member profile pages.',
+    'prv_msg_html_format' => 'HTML Formatting in Private Messages',
 
-'profile_trigger' => 'Profile Triggering Word',
+    'prv_msg_max_attachments' => 'Maximum Number of Attachments per Private Message',
 
-'profile_trigger_notes' => 'When this word is encountered your URL it will display your member profile area. The word you choose cannot be the name of an existing template group',
+    'prv_msg_max_chars' => 'Maximum Number of characters to allow in Private Messages',
 
-'prv_msg_allow_attachments' => 'Allow attachments in private messages?',
+    'prv_msg_send_limit' => 'Maximum Number of Private Messages a user can send per day',
 
-'prv_msg_attach_maxsize' => 'Maximum Size of Attachment for a Private Message (in Kilobytes)',
+    'prv_msg_storage_limit' => 'Maximum Number of Private Messages a user can store',
 
-'prv_msg_attach_total' => 'Maximum Amount of All Attachments (in Megabytes)',
+    'prv_msg_upload_path' => 'Server Path for Attachment Upload Directory',
 
-'prv_msg_auto_links' => 'Auto-convert URLs and email addresses into links?',
+    'publish_tab_behavior' => 'Publish Tab Behavior',
 
-'prv_msg_enabled' => 'Enable private messaging between members?',
+    'query' => 'SQL Query',
 
-'prv_msg_html_format' => 'HTML Formatting in Private Messages',
+    'query_cfg' => 'Query Caching Preferences',
 
-'prv_msg_max_attachments' => 'Maximum Number of Attachments per Private Message',
+    'query_result' => 'Query Result',
 
-'prv_msg_max_chars' => 'Maximum Number of characters to allow in Private Messages',
+    'recalculate' => 'Recount Statistics',
 
-'prv_msg_send_limit' => 'Maximum Number of Private Messages a user can send per day',
+    'records' => 'Database Records',
 
-'prv_msg_storage_limit' => 'Maximum Number of Private Messages a user can store',
+    'recount_batch_total' => 'Total number of database rows processed per batch.',
 
-'prv_msg_upload_path' => 'Server Path for Attachment Upload Directory',
+    'recount_completed' => 'Recount Completed',
 
-'publish_tab_behavior' => 'Publish Tab Behavior',
+    'recount_info' => 'The links below allow you to update various statistics, like how many entries each member has submitted.',
 
-'query' => 'SQL Query',
+    'recount_prefs' => 'Recount Preferences',
 
-'query_cfg' => 'Query Caching Preferences',
+    'recount_stats' => 'Recount Statistics',
 
-'query_result' => 'Query Result',
+    'recounting' => 'Recounting',
 
-'recalculate' => 'Recount Statistics',
+    'redirect_method' => 'Redirection Method',
 
-'records' => 'Database Records',
+    'redirect_submitted_links' => 'Apply Rank Denial to User-submitted Links?',
 
-'recount_batch_total' => 'Total number of database rows processed per batch.',
+    'redirect_submitted_links_explanation' => 'This option rewrites links submitted by users so they first point to an intermediary redirect page. This helps deter comment spamming by preventing search engines from cataloging links.',
 
-'recount_completed' => 'Recount Completed',
+    'refresh_method' => 'Refresh (Windows servers)',
 
-'recount_info' => 'The links below allow you to update various statistics, like how many entries each member has submitted.',
+    'repair' => 'Repair SQL Tables',
 
-'recount_prefs' => 'Recount Preferences',
+    'repair_table' => 'Repair selected tables',
 
-'recount_stats' => 'Recount Statistics',
+    'replace_term' => 'And replace it with this text',
 
-'recounting' => 'Recounting',
+    'replace_where' => 'In what database field do you want the replacement to occur?',
 
-'redirect_method' => 'Redirection Method',
+    'req_mbr_activation' => 'Require Member Account Activation?',
 
-'redirect_submitted_links' => 'Apply Rank Denial to User-submitted Links?',
+    'require_ip_for_posting' => 'Require IP Address and User Agent for posting?',
 
-'redirect_submitted_links_explanation' => 'This option rewrites links submitted by users so they first point to an intermediary redirect page. This helps deter comment spamming by preventing search engines from cataloging links.',
+    'require_terms_of_service' => 'Require Terms of Service',
 
-'refresh_method' => 'Refresh (Windows servers)',
+    'require_terms_of_service_exp' => 'Setting this to yes forces users to check the \'accept terms\' checkbox during registration',
 
-'repair' => 'Repair SQL Tables',
+    'reserved_category_word' => 'Category URL Indicator',
 
-'repair_table' => 'Repair selected tables',
+    'reserved_category_word_exp' => 'If you set the above preference to \'yes\' you must choose a reserved word. This word will be used in the URL to indicate to the channel display engine that you are showing a category. Note: whatever word you chose CANNOT be the name of a template group or a template.',
 
-'replace_term' => 'And replace it with this text',
+    'return_email_explanation' => 'If you leave this blank, many email servers will consider your email spam',
 
-'replace_where' => 'In what database field do you want the replacement to occur?',
+    'return_to_recount_overview' => 'Return to Main Recount Page',
 
-'req_mbr_activation' => 'Require Member Account Activation?',
+    'rows_replaced' => 'Number of database records in which a replacement occurred:',
 
-'require_ip_for_posting' => 'Require IP Address and User Agent for posting?',
+    'safe_mode' => 'Is your server running PHP in Safe Mode?',
 
-'require_terms_of_service' => 'Require Terms of Service',
+    'sandr_instructions' => 'These forms enable you to search for specific text and replace it with different text',
 
-'require_terms_of_service_exp' => 'Setting this to yes forces users to check the \'accept terms\' checkbox during registration',
+    'save_as_file' => 'Save backup to your desktop',
 
-'reserved_category_word' => 'Category URL Indicator',
+    'screen_name' => 'Screen Name',
 
-'reserved_category_word_exp' => 'If you set the above preference to \'yes\' you must choose a reserved word. This word will be used in the URL to indicate to the channel display engine that you are showing a category. Note: whatever word you chose CANNOT be the name of a template group or a template.',
+    'search_and_replace' => 'Find and Replace',
 
-'return_email_explanation' => 'If you leave this blank, many email servers will consider your email spam',
+    'search_replace_disclaimer' => 'Depending on the syntax used, this function can produce undesired results. Consult the manual and backup your database.',
 
-'return_to_recount_overview' => 'Return to Main Recount Page',
+    'search_term' => 'Search for this text',
 
-'rows_replaced' => 'Number of database records in which a replacement occurred:',
+    'search_terms' => 'Search Terms',
 
-'safe_mode' => 'Is your server running PHP in Safe Mode?',
+    'searched_in' => 'Searched In',
 
-'sandr_instructions' => 'These forms enable you to search for specific text and replace it with different text',
+    'send_headers' => 'Generate HTTP Page Headers?',
 
-'save_as_file' => 'Save backup to your desktop',
+    'sendmail' => 'Sendmail',
 
-'screen_name' => 'Screen Name',
+    'separate_emails' => 'Separate multiple emails with a comma',
 
-'search_and_replace' => 'Find and Replace',
+    'show_message' => 'Show custom message',
 
-'search_replace_disclaimer' => 'Depending on the syntax used, this function can produce undesired results. Consult the manual and backup your database.',
+    'show_profiler' => 'Display Output Profiler?',
 
-'search_term' => 'Search for this text',
+    'show_profiler_explanation' => 'If enabled, Super Admins will see benchmark results, all SQL queries, and submitted form data displayed at the bottom of the browser window. Useful for debugging.',
 
-'search_terms' => 'Search Terms',
+    'sig_allow_img_hotlink' => 'Allow image hot linking in signatures?',
 
-'searched_in' => 'Searched In',
+    'sig_allow_img_upload' => 'Allow users to upload an image in their signature?',
 
-'send_headers' => 'Generate HTTP Page Headers?',
+    'sig_img_max_height' => 'Maximum Height of Signature Image',
 
-'sendmail' => 'Sendmail',
+    'sig_img_max_kb' => 'Maximum Size (in Kilobytes) of Signature Image',
 
-'separate_emails' => 'Separate multiple emails with a comma',
+    'sig_img_max_width' => 'Maximum Width of Signature Image',
 
-'show_message' => 'Show custom message',
+    'sig_img_path' => 'Server path to Signature Image Upload Folder',
 
-'show_profiler' => 'Display Output Profiler?',
+    'sig_img_url' => 'URL to Signature Image Upload Folder',
 
-'show_profiler_explanation' => 'If enabled, Super Admins will see benchmark results, all SQL queries, and submitted form data displayed at the bottom of the browser window. Useful for debugging.',
+    'sig_maxlength' => 'Maximum number of characters per signature',
 
-'sig_allow_img_hotlink' => 'Allow image hot linking in signatures?',
+    'signature_cfg' => 'Signature Preferences',
 
-'sig_allow_img_upload' => 'Allow users to upload an image in their signature?',
+    'site_404' => '404 Page',
 
-'sig_img_max_height' => 'Maximum Height of Signature Image',
+    'site_404_exp' => 'Determines which template should be displayed when someone tries to access an invalid URL.',
 
-'sig_img_max_kb' => 'Maximum Size (in Kilobytes) of Signature Image',
+    'site_index' => 'Name of your site\'s index page',
 
-'sig_img_max_width' => 'Maximum Width of Signature Image',
+    'site_name' => 'Name of your site',
 
-'sig_img_path' => 'Server path to Signature Image Upload Folder',
+    'site_preferences' => 'Site Preferences',
 
-'sig_img_url' => 'URL to Signature Image Upload Folder',
+    'site_search' => 'Site',
 
-'sig_maxlength' => 'Maximum number of characters per signature',
+    'site_statistics' => 'Site Statistics',
 
-'signature_cfg' => 'Signature Preferences',
+    'site_url' => 'URL to the root directory of your site',
 
-'site_404' => '404 Page',
+    'sites_tab_behavior' => 'Sites Tab Behavior',
 
-'site_404_exp' => 'Determines which template should be displayed when someone tries to access an invalid URL.',
+    'size' => 'Size',
 
-'site_index' => 'Name of your site\'s index page',
+    'smtp' => 'SMTP',
 
-'site_name' => 'Name of your site',
+    'smtp_password' => 'SMTP Password',
 
-'site_preferences' => 'Site Preferences',
+    'smtp_port' => 'SMTP Server Port',
 
-'site_search' => 'Site',
+    'smtp_server' => 'SMTP Server Address',
 
-'site_statistics' => 'Site Statistics',
+    'smtp_username' => 'SMTP Username',
 
-'site_url' => 'URL to the root directory of your site',
+    'software_registration' => 'Software Registration',
 
-'sites_tab_behavior' => 'Sites Tab Behavior',
+    'source' => 'Source',
 
-'size' => 'Size',
+    'specialty_templates' => 'Specialty Templates',
 
-'smtp' => 'SMTP',
+    'sql_info' => 'SQL Info',
 
-'smtp_password' => 'SMTP Password',
+    'sql_manager' => 'SQL Manager',
 
-'smtp_port' => 'SMTP Server Port',
+    'sql_no_result' => 'The query you submitted did not produce any results',
 
-'smtp_server' => 'SMTP Server Address',
+    'sql_not_allowed' => 'Sorry, but that is not one of the allowed query types.',
 
-'smtp_username' => 'SMTP Username',
+    'sql_processlist' => 'Process List',
 
-'software_registration' => 'Software Registration',
+    'sql_query' => 'Database Query Form',
 
-'source' => 'Source',
+    'sql_query_debug' => 'Enable MySQL Error Output',
 
-'specialty_templates' => 'Specialty Templates',
+    'sql_query_instructions' => 'Use this form to submit an SQL query',
 
-'sql_info' => 'SQL Info',
+    'sql_status' => 'Status Info',
 
-'sql_manager' => 'SQL Manager',
+    'sql_system_vars' => 'System Variables',
 
-'sql_no_result' => 'The query you submitted did not produce any results',
+    'sql_utilities' => 'SQL Utilities',
 
-'sql_not_allowed' => 'Sorry, but that is not one of the allowed query types.',
+    'sql_version' => 'Database Version',
 
-'sql_processlist' => 'Process List',
+    'standby_recount' => 'Recounting... please stand by...',
 
-'sql_query' => 'Database Query Form',
+    'status_created' => 'Status created',
 
-'sql_query_debug' => 'Enable MySQL Error Output',
+    'status_deleted' => 'Status deleted',
 
-'sql_query_instructions' => 'Use this form to submit an SQL query',
+    'status_updated' => 'Status updated',
 
-'sql_status' => 'Status Info',
+    'statuses' => 'Statuses',
 
-'sql_system_vars' => 'System Variables',
+    'system_admin' => 'System Administration',
 
-'sql_utilities' => 'SQL Utilities',
+    'system_off_msg' => 'System Off Message',
 
-'sql_version' => 'Database Version',
+    'system_path' => 'Absolute path to your %x folder',
 
-'standby_recount' => 'Recounting... please stand by...',
+    'system_preferences' => 'System Preferences',
 
-'status_created' => 'Status created',
+    'table_name' => 'Table Name',
 
-'status_deleted' => 'Status deleted',
+    'tables' => 'tables',
 
-'status_updated' => 'Status updated',
+    'tag_caching' => 'Tag cache files',
 
-'statuses' => 'Statuses',
+    'template_cfg' => 'Template Preferences',
 
-'system_admin' => 'System Administration',
+    'template_updated' => 'Template Updated',
 
-'system_off_msg' => 'System Off Message',
+    'theme_folder_path' => 'Theme Folder Path',
 
-'system_path' => 'Absolute path to your %x folder',
+    'theme_folder_url' => 'URL to your \'themes\' folder',
 
-'system_preferences' => 'System Preferences',
+    'throttling_cfg' => 'Throttling Configuration',
 
-'table_name' => 'Table Name',
+    'throttling_disabled' => 'Throttling Disabled',
 
-'tables' => 'tables',
+    'thumbnail_prefix' => 'Image Thumbnail Suffix',
 
-'tag_caching' => 'Tag cache files',
+    'thumbnail_prefix_exp' => 'This suffix will be added to all auto-generated thumbnails. Example: photo_thumb.jpg',
 
-'template_cfg' => 'Template Preferences',
+    'time_format' => 'Default Time Formatting',
 
-'template_updated' => 'Template Updated',
+    'time_interval' => 'Time Interval (in seconds)',
 
-'theme_folder_path' => 'Theme Folder Path',
+    'time_interval_exp' => 'The number of seconds during which the above number of page loads are allowed.',
 
-'theme_folder_url' => 'URL to your \'themes\' folder',
+    'title' => 'Title',
 
-'throttling_cfg' => 'Throttling Configuration',
+    'total_affected_rows' => 'Total Affected Rows: ',
 
-'throttling_disabled' => 'Throttling Disabled',
+    'total_queries' => 'Total server queries since startup',
 
-'thumbnail_prefix' => 'Image Thumbnail Suffix',
+    'total_records' => 'Total Records:',
 
-'thumbnail_prefix_exp' => 'This suffix will be added to all auto-generated thumbnails. Example: photo_thumb.jpg',
+    'total_results' => 'Total Results: %x',
 
-'time_format' => 'Default Time Formatting',
+    'tracking_cfg' => 'Tracking Preferences',
 
-'time_interval' => 'Time Interval (in seconds)',
+    'translation_dir_unwritable' => 'Warning: Your translation directory is not writable.',
 
-'time_interval_exp' => 'The number of seconds during which the above number of page loads are allowed.',
+    'translation_tool' => 'Translation Utility',
 
-'title' => 'Title',
+    'type' => 'Type',
 
-'total_affected_rows' => 'Total Affected Rows: ',
+    'underscore' => 'Underscore',
 
-'total_queries' => 'Total server queries since startup',
+    'unsupported_compression' => 'Your PHP installation does not support this compression method',
 
-'total_records' => 'Total Records:',
+    'url_explanation' => 'This is the directory containing your site index file.',
 
-'total_results' => 'Total Results: %x',
+    'url_redirect' => 'URL Redirect',
 
-'tracking_cfg' => 'Tracking Preferences',
+    'use_category_name' => 'Use Category URL Titles In Links?',
 
-'translation_dir_unwritable' => 'Warning: Your translation directory is not writable.',
+    'use_category_name_exp' => 'This preference determines whether the category ID number or the category URL Title is used in category-related links.',
 
-'translation_tool' => 'Translation Utility',
+    'use_membership_captcha' => 'Enable Membership CAPTCHA',
 
-'type' => 'Type',
+    'use_newrelic' => 'Enable New Relic RUM JavaScript?',
 
-'underscore' => 'Underscore',
+    'use_newrelic_explanation' => 'When enabled, New Relic will add <a href="https://newrelic.com/docs/features/real-user-monitoring" rel="external">Real User Monitoring JavaScript</a> to all of your web pages.',
 
-'unsupported_compression' => 'Your PHP installation does not support this compression method',
+    'used_in_meta_tags' => 'Used in control panel meta tags',
 
-'url_explanation' => 'This is the directory containing your site index file.',
+    'utilities' => 'Utilities',
 
-'url_redirect' => 'URL Redirect',
+    'value' => 'Value',
 
-'use_category_name' => 'Use Category URL Titles In Links?',
+    'view_database' => 'Manage Database Tables',
 
-'use_category_name_exp' => 'This preference determines whether the category ID number or the category URL Title is used in category-related links.',
+    'view_in_browser' => 'View backup in your browser',
 
-'use_membership_captcha' => 'Enable Membership CAPTCHA',
+    'view_info' => 'View Info',
 
-'use_newrelic' => 'Enable New Relic RUM JavaScript?',
+    'view_log_files' => 'View Control Panel Log',
 
-'use_newrelic_explanation' => 'When enabled, New Relic will add <a href="https://newrelic.com/docs/features/real-user-monitoring" rel="external">Real User Monitoring JavaScript</a> to all of your web pages.',
+    'view_search_log' => 'View Search Log',
 
-'used_in_meta_tags' => 'Used in control panel meta tags',
+    'view_throttle_log' => 'View Throttle Log',
 
-'utilities' => 'Utilities',
+    'webmaster_email' => 'Return email address for auto-generated emails',
 
-'value' => 'Value',
+    'wiki_search' => 'Wiki',
 
-'view_database' => 'Manage Database Tables',
+    'with_trailing_slash' => 'With trailing slash',
 
-'view_in_browser' => 'View backup in your browser',
+    'word_separator' => 'Word Separator for URL Titles',
 
-'view_info' => 'View Info',
+    'word_wrap' => 'Enable Word-wrapping by Default?',
 
-'view_log_files' => 'View Control Panel Log',
+    'xml_lang' => 'Default XML Language',
 
-'view_search_log' => 'View Search Log',
-
-'view_throttle_log' => 'View Throttle Log',
-
-'webmaster_email' => 'Return email address for auto-generated emails',
-
-'wiki_search' => 'Wiki',
-
-'with_trailing_slash' => 'With trailing slash',
-
-'word_separator' => 'Word Separator for URL Titles',
-
-'word_wrap' => 'Enable Word-wrapping by Default?',
-
-'xml_lang' => 'Default XML Language',
-
-'zip' => 'Zip',
+    'zip' => 'Zip',
 
 );
 
